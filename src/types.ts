@@ -31,17 +31,26 @@ export interface ProjectItem {
 export interface TeamMember {
   name: string;
   role: string;
-  confirmedAchievements: string[];
-  domain: string;
+  headline: string;
   bio: string;
   initials: string;
+  linkedin: string;
+  badges: string[];
+  confirmedAchievements: string[];
+  followerCount?: string;
 }
 
 export interface AchievementItem {
-  number: string;
-  title: string;
-  description: string;
+  id: string;
   badge: string;
+  title: string;
+  event: string;
+  organization: string;
+  recipient: string;
+  recipientType: 'Individual Achievement' | 'Startup / Team Achievement';
+  year?: string;
+  description: string;
+  iconType: 'award' | 'zap' | 'trophy' | 'target';
 }
 
 export interface QuotationFormState {

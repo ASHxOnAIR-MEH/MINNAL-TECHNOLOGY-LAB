@@ -24,8 +24,8 @@ export const CredibilityCard: React.FC = () => {
     {
       icon: <Trophy size={26} color="var(--blue-500)" strokeWidth={1.8} />,
       title: '50+ Team Achievements',
-      badge: 'Recognized Milestones',
-      subtitle: 'Hackathons, Prototype 3.0 & IEFK International Finalist',
+      badge: 'Recognized Excellence',
+      subtitle: 'Prototype 3.0 Winner, IEFK 2026 & NEC Top 4',
     },
   ];
 

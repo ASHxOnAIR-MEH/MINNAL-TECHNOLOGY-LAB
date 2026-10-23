@@ -2,79 +2,116 @@ import { TeamMember, AchievementItem } from '../types';
 
 export const TEAM_MEMBERS: TeamMember[] = [
   {
-    name: 'Muhammed Sadikh N',
+    name: 'Muhammad Sadikh N',
     role: 'Founder & Advisor',
-    domain: 'Strategic Leadership & Project Advisory',
-    bio: 'Guiding MINNAL TECHNOLOGY LAB from its inception, overseeing technical strategy, institutional incubation, and project standards.',
+    headline: 'Engineering Innovation | Control Systems | Healthcare Technology | Entrepreneurship',
+    bio: 'Former Control Systems Engineer at Genrobotics and co-founder of Scify Technologies. Brings extensive experience in multidisciplinary engineering, embedded control systems, healthcare technology, and technology entrepreneurship. Connected with the School of International Biodesign – Synergizing Healthcare Innovation and Entrepreneurship (SIB-SHInE), IIT Kanpur.',
     initials: 'MS',
+    linkedin: 'https://www.linkedin.com/in/muhammad-sadikh-n-55683a36a/',
+    badges: [
+      'KTU-Funded Innovator',
+      'Ex-Genrobotics Control Systems',
+      'Co-Founder, Scify Technologies',
+      'SIB-SHInE, IIT Kanpur Connection'
+    ],
     confirmedAchievements: [
-      'Founder & Strategic Advisor, Minnal Technology Lab',
-      'Incubation Mentor at IEDC UKFCET',
-      'Oversees multi-disciplinary engineering project architecture'
-    ]
-  },
-  {
-    name: 'Sibshine',
-    role: 'Research Fellow, IIT Kanpur',
-    domain: 'Advanced Research & Academic Mentorship',
-    bio: 'Conducting advanced research at the Indian Institute of Technology Kanpur, providing rigorous scientific review and academic direction for complex engineering builds.',
-    initials: 'SS',
-    confirmedAchievements: [
-      'Research Fellow at Indian Institute of Technology (IIT) Kanpur',
-      'Specialized in advanced scientific computing and analytical validation',
-      'Academic research advisor for advanced prototype development'
+      'KTU-Funded Innovator for engineering research and startup technology',
+      'Former Control Systems Engineer at Genrobotics',
+      'Co-Founder, Scify Technologies',
+      'Associated with SIB-SHInE, IIT Kanpur for healthcare technology innovation',
+      'Incubation Mentor at IEDC UKFCET'
     ]
   },
   {
     name: 'Muhammed Ashik S',
-    role: 'IoT Developer & Technical Lead',
-    domain: 'IoT, Embedded Systems & Cloud Telemetry',
-    bio: 'Lead IoT developer specializing in low-power microcontrollers, sensor integration, telemetry dashboards, and prototype development.',
+    role: 'IoT Developer',
+    headline: 'IoT Developer | Embedded Systems | Innovation & Entrepreneurship',
+    bio: 'IoT developer and embedded systems engineer specializing in low-power microcontrollers, sensor integration, edge telemetry, and rapid prototyping. Active across Kerala’s startup ecosystem with an engaged community of 10,000+ LinkedIn followers.',
     initials: 'MA',
+    linkedin: 'https://www.linkedin.com/in/connentashik/',
+    followerCount: '10K+',
+    badges: [
+      '10K+ LinkedIn Followers',
+      'IEFK 2026 — International Finalist',
+      'KSUM / RINK Academic Internship',
+      'IEDC NEST 4.0'
+    ],
     confirmedAchievements: [
-      'International Finalist, IEFK 2026',
-      'Former Academic Intern, Kerala Startup Mission (KSUM) & RINK',
-      'IPR & Research Lead, IEDC UKFCET',
-      'IEEE Student Branch Representative'
+      '10K+ LinkedIn Followers engaged in IoT, hardware, and engineering projects',
+      'International Finalist at International Energy Festival Kerala (IEFK) 2026',
+      'Former Academic Intern associated with Kerala Startup Mission (KSUM) and RINK',
+      'Associated with IEDC NEST 4.0 & IPR / Research Lead, IEDC UKFCET',
+      'Technical Lead across 50+ delivered hardware and embedded builds'
     ]
   },
   {
-    name: 'Saibu Jhon',
-    role: 'Hardware Expert & Prototype Developer',
-    domain: 'Electronics, PCB Fabrication & Hardware Integration',
-    bio: 'Hardware fabrication and embedded electronics specialist with extensive hands-on experience in circuit prototyping, sensor wiring, and hardware benchmarking.',
+    name: 'Sybu Jhon',
+    role: 'Hardware Expert',
+    headline: 'Hardware Expert | Electronics Prototyping | Product Development',
+    bio: 'Hardware development and physical prototyping specialist. Focuses on physical prototyping, electronics integration, circuit troubleshooting, board testing, and functional engineering build construction.',
     initials: 'SJ',
+    linkedin: 'https://www.linkedin.com/in/sybu-john-03251a361/',
+    badges: [
+      'Prototype 3.0 Winner',
+      'Hardware Development Specialist',
+      'Electronics Integration & Prototyping'
+    ],
     confirmedAchievements: [
-      'Winner, Prototype 3.0 at College of Engineering Perumon',
-      'Lead hardware prototyping developer on 50+ builds',
-      'Specialized in circuit assembly, testing, and fabrication'
+      'Winner, Prototype 3.0 competition at College of Engineering Perumon',
+      'Specialist in physical hardware fabrication, assembly, and test benches',
+      'Electronics integration lead for sensors, actuators, and motor drives',
+      'Hands-on bench calibration across 50+ delivered engineering prototypes'
     ]
   }
 ];
 
 export const ACHIEVEMENTS_DATA: AchievementItem[] = [
   {
-    number: '100+',
-    title: 'Engineered Project Builds',
-    description: 'Working prototypes, mini projects, and final-year B.Tech projects successfully designed, assembled, and documented.',
-    badge: 'Hardware & Software'
+    id: 'ktu-innovator',
+    badge: 'KTU-FUNDED INNOVATOR',
+    title: 'KTU-Funded Innovator',
+    event: 'APJ Abdul Kalam Technological University Innovation Grant',
+    organization: 'APJ Abdul Kalam Technological University (KTU)',
+    recipient: 'Muhammad Sadikh N (Founder & Advisor)',
+    recipientType: 'Individual Achievement',
+    year: '2025',
+    description: 'Awarded innovation grant funding by APJ Abdul Kalam Technological University (KTU) to advance engineering research, technical prototyping, and entrepreneurial innovation.',
+    iconType: 'award'
   },
   {
-    number: 'IEFK 2026',
-    title: 'International Finalist',
-    description: 'Team technical lead selected as International Finalist at the International Entrepreneurship Festival Kerala 2026.',
-    badge: 'Global Innovation'
+    id: 'iefk-2026',
+    badge: 'IEFK 2026 — INTERNATIONAL FINALIST',
+    title: 'International Finalist — IEFK 2026',
+    event: 'International Energy Festival Kerala (IEFK) 2026',
+    organization: 'Government of Kerala / Energy Management Centre',
+    recipient: 'Muhammed Ashik S (IoT Developer)',
+    recipientType: 'Individual Achievement',
+    year: '2026',
+    description: 'Recognized as an International Finalist at the International Energy Festival Kerala (IEFK) 2026 for high-impact IoT engineering and sustainable smart energy monitoring.',
+    iconType: 'zap'
   },
   {
-    number: '1st Prize',
-    title: 'Prototype 3.0 Winner',
-    description: 'Secured first place in the state-level Prototype 3.0 engineering development competition at College of Engineering Perumon.',
-    badge: 'Hardware Excellence'
+    id: 'nec-top4',
+    badge: 'TOP 4 — NATIONAL ENTREPRENEURSHIP CONCLAVE',
+    title: 'Top 4 — National Entrepreneurship Conclave',
+    event: 'National Entrepreneurship Conclave (NEC)',
+    organization: 'LEAD College of Management, Palakkad',
+    recipient: 'Minnal Technology Lab',
+    recipientType: 'Startup / Team Achievement',
+    year: '2026',
+    description: 'Secured a Top 4 national ranking at the National Entrepreneurship Conclave (NEC), hosted at LEAD College of Management, Palakkad, demonstrating business-model viability, scalability, and pitch excellence.',
+    iconType: 'trophy'
   },
   {
-    number: 'KSUM & RINK',
-    title: 'Ecosystem Association',
-    description: 'Direct internship and technology transfer exposure with Kerala Startup Mission (KSUM) and Research Innovation Network Kerala.',
-    badge: 'Startup Ecosystem'
+    id: 'leap-2025',
+    badge: 'LEAP 2025 — FINALIST',
+    title: 'Finalist — LEAP 2025 (₹3 Crore Ideathon)',
+    event: 'LEAP 2025 Startup Ideathon by Msigma Gokulam',
+    organization: 'Msigma Gokulam',
+    recipient: 'Minnal Technology Lab',
+    recipientType: 'Startup / Team Achievement',
+    year: '2025',
+    description: 'Selected as a Finalist in LEAP 2025, the flagship ₹3 Crore Startup Funding Ideathon conducted by Msigma Gokulam, advancing to the final venture pitching opportunity.',
+    iconType: 'target'
   }
 ];
