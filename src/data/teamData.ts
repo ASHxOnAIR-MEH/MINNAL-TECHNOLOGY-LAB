@@ -4,21 +4,23 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Muhammad Sadikh N',
     role: 'Founder & Advisor',
-    headline: 'Engineering Innovation | Control Systems | Healthcare Technology | Entrepreneurship',
-    bio: 'Former Control Systems Engineer at Genrobotics and co-founder of Scify Technologies. Brings extensive experience in multidisciplinary engineering, embedded control systems, healthcare technology, and technology entrepreneurship. Connected with the School of International Biodesign – Synergizing Healthcare Innovation and Entrepreneurship (SIB-SHInE), IIT Kanpur.',
+    headline: 'Fellow, IIT Kanpur | Control Systems | Healthcare Technology | Entrepreneurship',
+    bio: 'Fellow at the Indian Institute of Technology (IIT) Kanpur (School of International Biodesign – Synergizing Healthcare Innovation and Entrepreneurship, SIB-SHInE). Former Academic Intern at Kerala Startup Mission (KSUM). Former Control Systems Engineer at Genrobotics and co-founder of Scify Technologies, bringing proven expertise in multidisciplinary engineering, healthcare technology, and startup incubation.',
     initials: 'MS',
     linkedin: 'https://www.linkedin.com/in/muhammad-sadikh-n-55683a36a/',
     badges: [
+      'Fellow, IIT Kanpur (SIB-SHInE)',
+      'Former Intern, Kerala Startup Mission',
       'KTU-Funded Innovator',
       'Ex-Genrobotics Control Systems',
-      'Co-Founder, Scify Technologies',
-      'SIB-SHInE, IIT Kanpur Connection'
+      'Co-Founder, Scify Technologies'
     ],
     confirmedAchievements: [
+      'Fellow at IIT Kanpur — School of International Biodesign (SIB-SHInE)',
+      'Former Academic Intern, Kerala Startup Mission (KSUM)',
       'KTU-Funded Innovator for engineering research and startup technology',
       'Former Control Systems Engineer at Genrobotics',
       'Co-Founder, Scify Technologies',
-      'Associated with SIB-SHInE, IIT Kanpur for healthcare technology innovation',
       'Incubation Mentor at IEDC UKFCET'
     ]
   },
@@ -113,5 +115,17 @@ export const ACHIEVEMENTS_DATA: AchievementItem[] = [
     year: '2025',
     description: 'Selected as a Finalist in LEAP 2025, the flagship ₹3 Crore Startup Funding Ideathon conducted by Msigma Gokulam, advancing to the final venture pitching opportunity.',
     iconType: 'target'
+  },
+  {
+    id: 'expo-ideathon-winners',
+    badge: 'MULTIPLE EXPO & IDEATHON WINNERS',
+    title: 'Multiple Inter-College Ideathons & Project Expos',
+    event: 'State-Level Technical Symposia & Project Competitions',
+    organization: 'Leading Engineering Colleges across Kerala',
+    recipient: 'Minnal Technology Lab & Mentored Builds',
+    recipientType: 'Startup / Team Achievement',
+    year: '2025–2026',
+    description: 'Consistently secured 1st prize and top podium rankings across multiple inter-college technical project exhibitions, hardware hackathons, and innovation ideathons.',
+    iconType: 'trophy'
   }
 ];
