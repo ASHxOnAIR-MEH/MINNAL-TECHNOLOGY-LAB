@@ -1,0 +1,356 @@
+:root {
+  /* Colors */
+  --navy-950: #04091A;
+  --navy-900: #07143D; /* Primary deep midnight navy */
+  --navy-850: #0A1B4E;
+  --navy-800: #0E2460;
+  --navy-700: #15327F;
+  --navy-glow: rgba(7, 20, 61, 0.45);
+  
+  --blue-500: #246BFD; /* Secondary electric blue */
+  --blue-600: #1A54CE;
+  --blue-light: #EBF2FF;
+  
+  --cyan-400: #64C8DC; /* Accent cyan */
+  --cyan-500: #22D3EE;
+  --cyan-light: rgba(100, 200, 220, 0.12);
+  --cyan-glow: rgba(100, 200, 220, 0.35);
+
+  --off-white: #FFFBF8; /* Primary warm off-white background */
+  --off-white-card: #FFFFFF;
+  --off-white-alt: #F8F4EE;
+  --card-border: #EFE8DF;
+  --card-shadow: 0 16px 36px -8px rgba(7, 20, 61, 0.08), 0 4px 12px -2px rgba(7, 20, 61, 0.04);
+  --card-shadow-hover: 0 24px 48px -10px rgba(7, 20, 61, 0.14), 0 8px 20px -3px rgba(36, 107, 253, 0.08);
+
+  --ink-900: #0A1329;
+  --ink-800: #1A243D;
+  --ink-700: #334155;
+  --ink-500: #64748B;
+  --ink-400: #94A3B8;
+  --ink-200: #E2E8F0;
+
+  /* Typography */
+  --font-serif: 'Cormorant Garamond', 'Instrument Serif', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-script: 'Caveat', cursive;
+
+  /* Layout */
+  --max-w: 1240px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --radius-xl: 32px;
+  --radius-full: 9999px;
+  
+  --transition-smooth: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+  background-color: var(--off-white);
+  color: var(--ink-800);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: var(--off-white);
+  color: var(--ink-800);
+  line-height: 1.6;
+}
+
+/* Typography styles */
+h1, h2, h3, h4, .font-serif {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.15;
+}
+
+.font-script {
+  font-family: var(--font-script);
+  font-weight: 600;
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: var(--transition-smooth);
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  font-family: var(--font-sans);
+  transition: var(--transition-smooth);
+}
+
+/* Base Container */
+.container {
+  width: 100%;
+  max-width: var(--max-w);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+@media (max-width: 640px) {
+  .container {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+}
+
+/* Decorative Circuit & Grid Backgrounds */
+.circuit-bg-navy {
+  background-color: var(--navy-900);
+  background-image: 
+    radial-gradient(circle at 85% 15%, rgba(36, 107, 253, 0.18) 0%, transparent 45%),
+    radial-gradient(circle at 15% 85%, rgba(100, 200, 220, 0.12) 0%, transparent 40%),
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 48px 48px, 48px 48px;
+}
+
+.circuit-bg-light {
+  background-color: var(--off-white);
+  background-image: 
+    radial-gradient(circle at 90% 10%, rgba(36, 107, 253, 0.03) 0%, transparent 40%),
+    linear-gradient(rgba(7, 20, 61, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(7, 20, 61, 0.025) 1px, transparent 1px);
+  background-size: 100% 100%, 40px 40px, 40px 40px;
+}
+
+/* Outlined Watermark Typography behind sections */
+.watermark-text {
+  position: absolute;
+  font-family: var(--font-serif);
+  font-weight: 700;
+  text-transform: uppercase;
+  color: transparent;
+  user-select: none;
+  pointer-events: none;
+  z-index: 0;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+
+.watermark-light {
+  -webkit-text-stroke: 1.5px rgba(7, 20, 61, 0.04);
+}
+
+.watermark-navy {
+  -webkit-text-stroke: 1.5px rgba(100, 200, 220, 0.07);
+}
+
+/* Geometric cyan decorative shapes inspired by reference */
+.geo-backdrop-pill {
+  position: absolute;
+  background: linear-gradient(135deg, rgba(100, 200, 220, 0.85) 0%, rgba(36, 107, 253, 0.6) 100%);
+  border-radius: 9999px;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.geo-backdrop-rounded {
+  position: absolute;
+  background: #64C8DC;
+  border-radius: 36px;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Buttons */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: var(--blue-500);
+  color: #FFFFFF;
+  padding: 13px 28px;
+  border-radius: var(--radius-full);
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+  box-shadow: 0 4px 18px rgba(36, 107, 253, 0.35);
+  transition: var(--transition-smooth);
+}
+
+.btn-primary:hover {
+  background: #1952CE;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(36, 107, 253, 0.45);
+}
+
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #FFFFFF;
+  padding: 13px 26px;
+  border-radius: var(--radius-full);
+  font-weight: 600;
+  font-size: 0.95rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(8px);
+  transition: var(--transition-smooth);
+}
+
+.btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.16);
+  border-color: rgba(255, 255, 255, 0.4);
+  transform: translateY(-2px);
+}
+
+.btn-light-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: var(--off-white-alt);
+  color: var(--navy-900);
+  padding: 11px 22px;
+  border-radius: var(--radius-full);
+  font-weight: 600;
+  font-size: 0.9rem;
+  border: 1px solid var(--card-border);
+  transition: var(--transition-smooth);
+}
+
+.btn-light-secondary:hover {
+  background: #FFFFFF;
+  border-color: var(--blue-500);
+  color: var(--blue-500);
+  transform: translateY(-2px);
+}
+
+/* Section Header Badges */
+.section-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  border-radius: var(--radius-full);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: 14px;
+}
+
+.section-badge-light {
+  background: rgba(36, 107, 253, 0.08);
+  color: var(--blue-500);
+  border: 1px solid rgba(36, 107, 253, 0.18);
+}
+
+.section-badge-navy {
+  background: rgba(100, 200, 220, 0.12);
+  color: var(--cyan-400);
+  border: 1px solid rgba(100, 200, 220, 0.25);
+}
+
+/* Floating Credibility Card */
+.credibility-card {
+  background: #FFFFFF;
+  border-radius: var(--radius-xl);
+  box-shadow: 0 20px 48px -12px rgba(7, 20, 61, 0.12), 0 4px 16px -2px rgba(7, 20, 61, 0.04);
+  border: 1px solid rgba(239, 232, 223, 0.8);
+  padding: 32px 40px;
+  position: relative;
+  z-index: 20;
+}
+
+/* Category Cards */
+.cat-card {
+  background: #FFFFFF;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--card-border);
+  overflow: hidden;
+  transition: var(--transition-smooth);
+  box-shadow: var(--card-shadow);
+  display: flex;
+  flex-direction: column;
+}
+
+.cat-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--card-shadow-hover);
+  border-color: rgba(36, 107, 253, 0.3);
+}
+
+/* Modals */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(4, 9, 26, 0.75);
+  backdrop-filter: blur(8px);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  animation: fadeIn 0.25s ease-out;
+}
+
+.modal-content {
+  background: #FFFFFF;
+  border-radius: var(--radius-xl);
+  width: 100%;
+  max-width: 780px;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.4);
+  animation: modalSlideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes modalSlideUp {
+  from { opacity: 0; transform: translateY(24px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* Pulse animation */
+@keyframes pulseGlow {
+  0%, 100% {
+    opacity: 0.7;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+}
+
+.pulse-glow {
+  animation: pulseGlow 4s infinite ease-in-out;
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
