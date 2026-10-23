@@ -20,8 +20,8 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onDiscussProject }) 
         <div
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
-            gap: '64px',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 280px), 1fr))',
+            gap: '48px',
             alignItems: 'center',
           }}
           className="about-grid"
@@ -205,6 +205,14 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onDiscussProject }) 
         @media (min-width: 960px) {
           .about-grid {
             grid-template-columns: 0.95fr 1.05fr !important;
+          }
+        }
+        @media (max-width: 640px) {
+          #about {
+            padding: 60px 0 !important;
+          }
+          .about-grid {
+            gap: 32px !important;
           }
         }
       `}</style>

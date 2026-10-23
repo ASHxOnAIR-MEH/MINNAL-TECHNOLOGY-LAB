@@ -59,7 +59,7 @@ export const TeamSection: React.FC = () => {
         <div
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 280px), 1fr))',
             gap: '28px',
             alignItems: 'stretch',
           }}
@@ -449,6 +449,20 @@ export const TeamSection: React.FC = () => {
           ))}
         </div>
       </div>
+
+      <style>{`
+        @media (max-width: 640px) {
+          #team {
+            padding: 60px 0 80px !important;
+          }
+          .team-grid {
+            gap: 20px !important;
+          }
+          .team-grid .cat-card {
+            padding: 24px 18px !important;
+          }
+        }
+      `}</style>
     </section>
   );
 };

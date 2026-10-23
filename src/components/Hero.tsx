@@ -51,9 +51,9 @@ export const Hero: React.FC<HeroProps> = ({ onExploreProjects, onDiscussProject 
         <div
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 280px), 1fr))',
             alignItems: 'center',
-            gap: '48px',
+            gap: '36px',
           }}
           className="hero-grid"
         >
@@ -127,11 +127,12 @@ export const Hero: React.FC<HeroProps> = ({ onExploreProjects, onDiscussProject 
 
             {/* CTAs */}
             <div
+              className="hero-cta-group"
               style={{
                 display: 'flex',
                 flexWrap: 'wrap',
                 alignItems: 'center',
-                gap: '16px',
+                gap: '14px',
                 marginBottom: '32px',
               }}
             >
@@ -139,8 +140,8 @@ export const Hero: React.FC<HeroProps> = ({ onExploreProjects, onDiscussProject 
                 onClick={onExploreProjects}
                 className="btn-primary"
                 style={{
-                  padding: '14px 30px',
-                  fontSize: '0.98rem',
+                  padding: '14px 28px',
+                  fontSize: '0.96rem',
                 }}
               >
                 <span>Explore Project Catalog</span>
@@ -302,6 +303,20 @@ export const Hero: React.FC<HeroProps> = ({ onExploreProjects, onDiscussProject 
         @media (min-width: 960px) {
           .hero-grid {
             grid-template-columns: 1.15fr 0.85fr !important;
+          }
+        }
+        @media (max-width: 640px) {
+          #home {
+            padding-top: 105px !important;
+            padding-bottom: 90px !important;
+          }
+          .hero-cta-group {
+            flex-direction: column !important;
+            align-items: stretch !important;
+          }
+          .hero-cta-group button {
+            width: 100% !important;
+            justify-content: center !important;
           }
         }
       `}</style>

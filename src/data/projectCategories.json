@@ -1,0 +1,68 @@
+[
+  {
+    "id": "Mechanical Projects",
+    "slug": "mechanical-projects",
+    "title": "Mechanical Engineering & Projects",
+    "shortTitle": "Mechanical",
+    "catalogGroups": ["MH", "ME"],
+    "badge": "Precision In Motion",
+    "description": "Kinematic mechanism models, CNC precision assemblies, planetary gear systems, hydraulic test benches, and dynamic mechanical prototyping rigs.",
+    "icon": "Wrench",
+    "image": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "Robotics & Automation",
+    "slug": "robotics-and-automation",
+    "title": "Robotics & Automation",
+    "shortTitle": "Robotics",
+    "catalogGroups": ["MR"],
+    "badge": "Bridging Autonomous Action",
+    "description": "Autonomous mobile rovers, multi-axis robotic arms, precision LiDAR SLAM navigation, rocker-bogie mechanisms, and industrial automation prototypes.",
+    "icon": "Cpu",
+    "image": "/images/cat_robotics.jpg"
+  },
+  {
+    "id": "IoT & Embedded Systems",
+    "slug": "iot-and-embedded-systems",
+    "title": "IoT & Embedded Systems",
+    "shortTitle": "IoT & Embedded",
+    "catalogGroups": ["IOT", "MI"],
+    "badge": "Reigniting Connected Systems",
+    "description": "Smart microcontrollers, ESP32 wearables, LoRa telemetry, wireless sensor networks, edge agricultural nodes, and real-time cloud dashboards.",
+    "icon": "Wifi",
+    "image": "/images/cat_iot.jpg"
+  },
+  {
+    "id": "Electronics & Electrical",
+    "slug": "electronics-and-electrical",
+    "title": "Electronics & Electrical",
+    "shortTitle": "Electronics",
+    "catalogGroups": ["EE"],
+    "badge": "Power & Circuit Architecture",
+    "description": "Analog signal conditioning, PWM thermal controls, precision thermistor alarms, BLDC field-oriented vector controllers, and PCB fabrication.",
+    "icon": "Zap",
+    "image": "/images/cat_elec.jpg"
+  },
+  {
+    "id": "Software & Web Development",
+    "slug": "software-and-web-development",
+    "title": "Software & Web Development",
+    "shortTitle": "Software",
+    "catalogGroups": ["SW"],
+    "badge": "Engineering Digital Platforms",
+    "description": "Full-stack engineering telemetry dashboards, C algorithm engines, institutional management portals, Progressive Web Apps (PWAs), and APIs.",
+    "icon": "Code",
+    "image": "/images/cat_software.jpg"
+  },
+  {
+    "id": "Renewable Energy & Sustainability",
+    "slug": "renewable-energy-and-sustainability",
+    "title": "Renewable Energy & Sustainability",
+    "shortTitle": "Renewable Energy",
+    "catalogGroups": ["RE"],
+    "badge": "Green Tech Innovation",
+    "description": "Autonomous solar tracking systems, smart energy sub-metering, power factor harmonic analysis, and clean technology prototypes.",
+    "icon": "Flame",
+    "image": "/images/cat_renew.jpg"
+  }
+]

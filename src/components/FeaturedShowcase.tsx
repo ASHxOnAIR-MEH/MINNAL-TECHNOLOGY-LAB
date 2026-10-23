@@ -592,6 +592,16 @@ export const FeaturedShowcase: React.FC<FeaturedShowcaseProps> = ({
           </div>
         </div>
       )}
+
+      {/* Mobile styles */}
+      <style>{`
+        @media (max-width: 640px) {
+          .geo-backdrop-rounded,
+          .geo-backdrop-pill {
+            display: none !important;
+          }
+        }
+      `}</style>
     </section>
   );
 };

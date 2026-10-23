@@ -31,6 +31,7 @@ export const CredibilityCard: React.FC = () => {
 
   return (
     <div
+      className="credibility-section"
       style={{
         position: 'relative',
         zIndex: 25,
@@ -43,7 +44,7 @@ export const CredibilityCard: React.FC = () => {
           <div
             style={{
               display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))',
+              gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 200px), 1fr))',
               gap: '24px',
               position: 'relative',
             }}
@@ -137,6 +138,19 @@ export const CredibilityCard: React.FC = () => {
         @media (max-width: 900px) {
           .credibility-separator {
             display: none !important;
+          }
+        }
+        @media (max-width: 640px) {
+          .credibility-section {
+            margin-top: -28px !important;
+            margin-bottom: 40px !important;
+          }
+          .credibility-card {
+            padding: 22px 18px !important;
+            border-radius: 20px !important;
+          }
+          .credibility-grid {
+            gap: 16px !important;
           }
         }
       `}</style>

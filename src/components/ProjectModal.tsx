@@ -155,6 +155,11 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({
 
           {/* Overview */}
           <div style={{ marginBottom: '28px' }}>
+            {project.originalTitle && project.originalTitle !== project.title && (
+              <div style={{ fontSize: '0.82rem', color: 'var(--ink-500)', fontStyle: 'italic', marginBottom: '8px' }}>
+                Original Catalogue Entry: "{project.originalTitle}"
+              </div>
+            )}
             <h3
               style={{
                 fontSize: '1.1rem',
@@ -167,164 +172,174 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({
               Project Overview
             </h3>
             <p style={{ color: 'var(--ink-700)', fontSize: '0.94rem', lineHeight: 1.65 }}>
-              {project.fullOverview}
+              {project.fullOverview || project.shortDescription}
             </p>
           </div>
 
           {/* Key Features */}
-          <div style={{ marginBottom: '28px' }}>
-            <h3
-              style={{
-                fontSize: '1.1rem',
-                color: 'var(--navy-900)',
-                fontFamily: 'var(--font-sans)',
-                fontWeight: 700,
-                marginBottom: '12px',
-              }}
-            >
-              Key Engineering Features
-            </h3>
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '10px' }}>
-              {project.keyFeatures.map((feat, i) => (
-                <div
-                  key={i}
-                  style={{
-                    display: 'flex',
-                    alignItems: 'flex-start',
-                    gap: '10px',
-                    fontSize: '0.88rem',
-                    color: 'var(--ink-700)',
-                    lineHeight: 1.45,
-                  }}
-                >
-                  <CheckCircle2 size={16} color="var(--blue-500)" style={{ flexShrink: 0, marginTop: '2px' }} />
-                  <span>{feat}</span>
-                </div>
-              ))}
+          {project.keyFeatures && project.keyFeatures.length > 0 && (
+            <div style={{ marginBottom: '28px' }}>
+              <h3
+                style={{
+                  fontSize: '1.1rem',
+                  color: 'var(--navy-900)',
+                  fontFamily: 'var(--font-sans)',
+                  fontWeight: 700,
+                  marginBottom: '12px',
+                }}
+              >
+                Key Engineering Features
+              </h3>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '10px' }}>
+                {project.keyFeatures.map((feat, i) => (
+                  <div
+                    key={i}
+                    style={{
+                      display: 'flex',
+                      alignItems: 'flex-start',
+                      gap: '10px',
+                      fontSize: '0.88rem',
+                      color: 'var(--ink-700)',
+                      lineHeight: 1.45,
+                    }}
+                  >
+                    <CheckCircle2 size={16} color="var(--blue-500)" style={{ flexShrink: 0, marginTop: '2px' }} />
+                    <span>{feat}</span>
+                  </div>
+                ))}
+              </div>
             </div>
-          </div>
+          )}
 
           {/* Hardware Components & Software Stack Columns */}
-          <div
-            style={{
-              display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))',
-              gap: '20px',
-              marginBottom: '28px',
-            }}
-          >
-            {/* Hardware BOM */}
+          {((project.hardwareComponents && project.hardwareComponents.length > 0) || (project.softwareStack && project.softwareStack.length > 0)) && (
             <div
               style={{
-                background: 'var(--off-white)',
-                padding: '20px',
-                borderRadius: '16px',
-                border: '1px solid var(--card-border)',
+                display: 'grid',
+                gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))',
+                gap: '20px',
+                marginBottom: '28px',
               }}
             >
-              <div
-                style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                  gap: '8px',
-                  marginBottom: '12px',
-                  color: 'var(--navy-900)',
-                  fontWeight: 700,
-                  fontSize: '0.95rem',
-                }}
-              >
-                <Cpu size={18} color="var(--blue-500)" />
-                <span>Hardware Components / BOM</span>
-              </div>
-              <ul style={{ paddingLeft: '18px', color: 'var(--ink-700)', fontSize: '0.86rem', lineHeight: 1.6 }}>
-                {project.hardwareComponents.map((c, i) => (
-                  <li key={i}>{c}</li>
-                ))}
-              </ul>
-            </div>
-
-            {/* Software Stack */}
-            <div
-              style={{
-                background: 'var(--off-white)',
-                padding: '20px',
-                borderRadius: '16px',
-                border: '1px solid var(--card-border)',
-              }}
-            >
-              <div
-                style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                  gap: '8px',
-                  marginBottom: '12px',
-                  color: 'var(--navy-900)',
-                  fontWeight: 700,
-                  fontSize: '0.95rem',
-                }}
-              >
-                <Code2 size={18} color="var(--blue-500)" />
-                <span>Software & Firmware Stack</span>
-              </div>
-              <ul style={{ paddingLeft: '18px', color: 'var(--ink-700)', fontSize: '0.86rem', lineHeight: 1.6 }}>
-                {project.softwareStack.map((s, i) => (
-                  <li key={i}>{s}</li>
-                ))}
-              </ul>
-            </div>
-          </div>
-
-          {/* Academic Deliverables Package */}
-          <div
-            style={{
-              background: 'linear-gradient(135deg, rgba(36, 107, 253, 0.05) 0%, rgba(100, 200, 220, 0.08) 100%)',
-              padding: '24px',
-              borderRadius: '16px',
-              border: '1px solid rgba(36, 107, 253, 0.2)',
-              marginBottom: '32px',
-            }}
-          >
-            <div
-              style={{
-                display: 'flex',
-                alignItems: 'center',
-                gap: '8px',
-                color: 'var(--navy-900)',
-                fontWeight: 700,
-                fontSize: '1rem',
-                marginBottom: '14px',
-              }}
-            >
-              <FileCheck size={20} color="var(--blue-500)" />
-              <span>Complete Deliverables Package Included</span>
-            </div>
-
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '10px' }}>
-              {project.deliverables.map((del, i) => (
+              {/* Hardware BOM */}
+              {project.hardwareComponents && project.hardwareComponents.length > 0 && (
                 <div
-                  key={i}
                   style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: '8px',
-                    fontSize: '0.86rem',
-                    color: 'var(--ink-800)',
-                    fontWeight: 500,
+                    background: 'var(--off-white)',
+                    padding: '20px',
+                    borderRadius: '16px',
+                    border: '1px solid var(--card-border)',
                   }}
                 >
-                  <span
+                  <div
                     style={{
-                      width: '6px',
-                      height: '6px',
-                      borderRadius: '50%',
-                      background: 'var(--blue-500)',
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '8px',
+                      marginBottom: '12px',
+                      color: 'var(--navy-900)',
+                      fontWeight: 700,
+                      fontSize: '0.95rem',
                     }}
-                  />
-                  <span>{del}</span>
+                  >
+                    <Cpu size={18} color="var(--blue-500)" />
+                    <span>Hardware Components / BOM</span>
+                  </div>
+                  <ul style={{ paddingLeft: '18px', color: 'var(--ink-700)', fontSize: '0.86rem', lineHeight: 1.6 }}>
+                    {project.hardwareComponents.map((c, i) => (
+                      <li key={i}>{c}</li>
+                    ))}
+                  </ul>
                 </div>
-              ))}
+              )}
+
+              {/* Software Stack */}
+              {project.softwareStack && project.softwareStack.length > 0 && (
+                <div
+                  style={{
+                    background: 'var(--off-white)',
+                    padding: '20px',
+                    borderRadius: '16px',
+                    border: '1px solid var(--card-border)',
+                  }}
+                >
+                  <div
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '8px',
+                      marginBottom: '12px',
+                      color: 'var(--navy-900)',
+                      fontWeight: 700,
+                      fontSize: '0.95rem',
+                    }}
+                  >
+                    <Code2 size={18} color="var(--blue-500)" />
+                    <span>Software & Firmware Stack</span>
+                  </div>
+                  <ul style={{ paddingLeft: '18px', color: 'var(--ink-700)', fontSize: '0.86rem', lineHeight: 1.6 }}>
+                    {project.softwareStack.map((s, i) => (
+                      <li key={i}>{s}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
             </div>
-          </div>
+          )}
+
+          {/* Academic Deliverables Package */}
+          {project.deliverables && project.deliverables.length > 0 && (
+            <div
+              style={{
+                background: 'linear-gradient(135deg, rgba(36, 107, 253, 0.05) 0%, rgba(100, 200, 220, 0.08) 100%)',
+                padding: '24px',
+                borderRadius: '16px',
+                border: '1px solid rgba(36, 107, 253, 0.2)',
+                marginBottom: '32px',
+              }}
+            >
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '8px',
+                  color: 'var(--navy-900)',
+                  fontWeight: 700,
+                  fontSize: '1rem',
+                  marginBottom: '14px',
+                }}
+              >
+                <FileCheck size={20} color="var(--blue-500)" />
+                <span>Complete Deliverables Package Included</span>
+              </div>
+
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '10px' }}>
+                {project.deliverables.map((del, i) => (
+                  <div
+                    key={i}
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '8px',
+                      fontSize: '0.86rem',
+                      color: 'var(--ink-800)',
+                      fontWeight: 500,
+                    }}
+                  >
+                    <span
+                      style={{
+                        width: '6px',
+                        height: '6px',
+                        borderRadius: '50%',
+                        background: 'var(--blue-500)',
+                      }}
+                    />
+                    <span>{del}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
 
           {/* Modal Action Footer */}
           <div

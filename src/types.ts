@@ -1,5 +1,6 @@
 export type ProjectCategory = 
   | 'Mechanical Engineering'
+  | 'Mechanical Projects'
   | 'IoT & Embedded Systems'
   | 'Electronics & Electrical'
   | 'Robotics & Automation'
@@ -13,19 +14,26 @@ export type ProjectComplexity =
   | 'Research & Competition Rig';
 
 export interface ProjectItem {
-  id: string; // e.g. MNL-IOT-001
+  id: string; // e.g. MH001, MNL-IOT-001
+  originalTitle?: string;
   title: string;
+  catalogGroup?: string;
   category: ProjectCategory;
-  complexity: ProjectComplexity;
-  shortDescription: string;
-  fullOverview: string;
+  slug?: string;
+  complexity?: ProjectComplexity | string;
+  shortDescription?: string;
+  fullOverview?: string;
   image: string;
-  tags: string[];
-  hardwareComponents: string[];
-  softwareStack: string[];
-  deliverables: string[];
-  keyFeatures: string[];
-  estimatedTimeline: string;
+  hasCustomImage?: boolean;
+  fallbackImage?: string;
+  imageAlt?: string;
+  imagePrompt?: string;
+  tags?: string[];
+  hardwareComponents?: string[];
+  softwareStack?: string[];
+  deliverables?: string[];
+  keyFeatures?: string[];
+  estimatedTimeline?: string;
 }
 
 export interface TeamMember {

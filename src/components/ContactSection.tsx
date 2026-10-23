@@ -90,14 +90,15 @@ export const ContactSection: React.FC = () => {
         <div
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
-            gap: '40px',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 280px), 1fr))',
+            gap: '32px',
             alignItems: 'start',
           }}
           className="contact-grid"
         >
           {/* Left Column: Interactive Enquiry Form */}
           <div
+            className="contact-form-box"
             style={{
               background: 'rgba(255, 255, 255, 0.04)',
               backdropFilter: 'blur(16px)',
@@ -527,8 +528,20 @@ export const ContactSection: React.FC = () => {
 
       <style>{`
         @media (max-width: 640px) {
+          #contact {
+            padding: 60px 0 80px !important;
+          }
+          .contact-form-box {
+            padding: 24px 18px !important;
+            border-radius: 20px !important;
+          }
           .form-row-2 {
             grid-template-columns: 1fr !important;
+          }
+          .contact-form-box input,
+          .contact-form-box select,
+          .contact-form-box textarea {
+            font-size: 16px !important;
           }
         }
       `}</style>

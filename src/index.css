@@ -59,13 +59,17 @@ html {
   color: var(--ink-800);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
-body {
+body, #root {
+  max-width: 100%;
   overflow-x: hidden;
   background-color: var(--off-white);
   color: var(--ink-800);
   line-height: 1.6;
+  position: relative;
 }
 
 /* Typography styles */
@@ -317,6 +321,16 @@ button {
   position: relative;
   box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.4);
   animation: modalSlideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@media (max-width: 640px) {
+  .modal-overlay {
+    padding: 12px;
+  }
+  .modal-content {
+    border-radius: 20px;
+    max-height: 94vh;
+  }
 }
 
 @keyframes fadeIn {

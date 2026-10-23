@@ -23,6 +23,32 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  // Prevent background scrolling when mobile menu is open
+  useEffect(() => {
+    if (mobileMenuOpen) {
+      document.body.style.overflow = 'hidden';
+      document.body.style.touchAction = 'none';
+    } else {
+      document.body.style.overflow = '';
+      document.body.style.touchAction = '';
+    }
+    return () => {
+      document.body.style.overflow = '';
+      document.body.style.touchAction = '';
+    };
+  }, [mobileMenuOpen]);
+
+  // Auto-close mobile menu on desktop resize
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth >= 900 && mobileMenuOpen) {
+        setMobileMenuOpen(false);
+      }
+    };
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, [mobileMenuOpen]);
+
   const navLinks = [
     { label: 'Home', href: '#home' },
     { label: 'Projects', href: '#projects' },
@@ -175,38 +201,49 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
             {/* Mobile Hamburger Button */}
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              aria-label="Toggle Mobile Menu"
+              aria-label={mobileMenuOpen ? 'Close Navigation Menu' : 'Open Navigation Menu'}
+              aria-expanded={mobileMenuOpen}
               className="mobile-toggle"
               style={{
-                background: 'transparent',
-                border: 'none',
+                background: 'rgba(255, 255, 255, 0.08)',
+                border: '1px solid rgba(255, 255, 255, 0.16)',
+                borderRadius: '10px',
                 color: '#FFFFFF',
-                padding: '6px',
+                width: '44px',
+                height: '44px',
+                minWidth: '44px',
+                minHeight: '44px',
                 display: 'none',
+                alignItems: 'center',
+                justifyContent: 'center',
+                cursor: 'pointer',
+                transition: 'all 0.2s ease',
               }}
             >
-              {mobileMenuOpen ? <X size={26} /> : <Menu size={26} />}
+              {mobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
             </button>
           </div>
         </div>
       </header>
 
-      {/* Mobile Drawer */}
+      {/* Mobile Drawer Navigation with Scroll Support and High Contrast */}
       {mobileMenuOpen && (
         <div
           style={{
             position: 'fixed',
             inset: 0,
             background: 'rgba(7, 20, 61, 0.98)',
-            backdropFilter: 'blur(20px)',
-            zIndex: 99,
+            backdropFilter: 'blur(24px)',
+            WebkitBackdropFilter: 'blur(24px)',
+            zIndex: 999,
             display: 'flex',
             flexDirection: 'column',
-            padding: '100px 32px 40px',
-            animation: 'fadeIn 0.25s ease-out',
+            padding: '90px 24px 32px',
+            overflowY: 'auto',
+            animation: 'fadeIn 0.2s ease-out',
           }}
         >
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '20px', marginBottom: '40px' }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', marginBottom: '28px' }}>
             {navLinks.map((link) => (
               <a
                 key={link.label}
@@ -214,11 +251,14 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
                 onClick={() => setMobileMenuOpen(false)}
                 style={{
                   color: '#FFFFFF',
-                  fontSize: '1.4rem',
+                  fontSize: '1.25rem',
                   fontFamily: 'var(--font-serif)',
                   fontWeight: 600,
                   textDecoration: 'none',
-                  paddingBottom: '8px',
+                  padding: '12px 0',
+                  minHeight: '44px',
+                  display: 'flex',
+                  alignItems: 'center',
                   borderBottom: '1px solid rgba(255, 255, 255, 0.08)',
                 }}
               >
@@ -227,14 +267,14 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
             ))}
           </div>
 
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '14px', marginTop: 'auto' }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', marginTop: 'auto', paddingTop: '16px' }}>
             <button
               onClick={() => {
                 setMobileMenuOpen(false);
                 onExploreProjects();
               }}
               className="btn-primary"
-              style={{ width: '100%', padding: '14px' }}
+              style={{ width: '100%', padding: '14px', minHeight: '48px', justifyContent: 'center' }}
             >
               <span>Explore Projects Catalog</span>
               <ArrowRight size={16} />
@@ -245,7 +285,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
                 onOpenQuotation();
               }}
               className="btn-secondary"
-              style={{ width: '100%', padding: '14px' }}
+              style={{ width: '100%', padding: '14px', minHeight: '48px', justifyContent: 'center' }}
             >
               <span>Request Custom Prototype</span>
             </button>
@@ -264,7 +304,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
             display: none !important;
           }
           .mobile-toggle {
-            display: flex !important;
+            display: inline-flex !important;
           }
         }
       `}</style>

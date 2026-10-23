@@ -80,7 +80,7 @@ export const ProjectCategories: React.FC<ProjectCategoriesProps> = ({ onSelectCa
         <div
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))',
+            gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 260px), 1fr))',
             gap: '24px',
             marginBottom: '32px',
           }}
@@ -230,7 +230,7 @@ export const ProjectCategories: React.FC<ProjectCategoriesProps> = ({ onSelectCa
         <div
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 280px), 1fr))',
             gap: '24px',
           }}
         >

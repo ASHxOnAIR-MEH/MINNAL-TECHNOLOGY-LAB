@@ -19,7 +19,7 @@ export const QuickSearchModal: React.FC<QuickSearchModalProps> = ({ onClose, onS
         p.title.toLowerCase().includes(q) ||
         p.id.toLowerCase().includes(q) ||
         p.category.toLowerCase().includes(q) ||
-        p.tags.some((t) => t.toLowerCase().includes(q))
+        (p.tags || []).some((t) => t.toLowerCase().includes(q))
     ).slice(0, 6);
   }, [query]);
 

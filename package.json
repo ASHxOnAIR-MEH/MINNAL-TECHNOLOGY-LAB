@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "validate:projects": "node scripts/validateProjects.js"
   },
   "dependencies": {
     "lucide-react": "^0.475.0",
