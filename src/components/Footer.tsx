@@ -1,5 +1,5 @@
 import React from 'react';
-import { Zap, Mail, Phone, MapPin, ArrowUp, Github, Linkedin, ExternalLink } from 'lucide-react';
+import { Mail, Phone, MapPin, ArrowUp, Github, Linkedin, ExternalLink } from 'lucide-react';
 import { ProjectCategory } from '../types';
 
 interface FooterProps {
@@ -47,16 +47,28 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onExploreProje
             <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '18px' }}>
               <div
                 style={{
-                  width: '36px',
-                  height: '36px',
+                  width: '38px',
+                  height: '38px',
                   borderRadius: '10px',
-                  background: 'linear-gradient(135deg, #246BFD 0%, #64C8DC 100%)',
+                  background: 'rgba(255, 255, 255, 0.08)',
+                  border: '1px solid rgba(255, 255, 255, 0.16)',
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
+                  overflow: 'hidden',
+                  padding: '3px',
+                  flexShrink: 0,
                 }}
               >
-                <Zap size={20} color="#FFFFFF" strokeWidth={2.5} fill="#FFFFFF" />
+                <img
+                  src="/images/logo-emblem.png"
+                  alt="MINNAL INNOVATIONS Logo"
+                  style={{
+                    width: '100%',
+                    height: '100%',
+                    objectFit: 'contain',
+                  }}
+                />
               </div>
               <div>
                 <div style={{ fontWeight: 800, fontSize: '1.05rem', letterSpacing: '0.04em' }}>

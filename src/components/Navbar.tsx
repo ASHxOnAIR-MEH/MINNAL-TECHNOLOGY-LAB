@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Search, Menu, X, ArrowRight, Zap } from 'lucide-react';
+import { Search, Menu, X, ArrowRight } from 'lucide-react';
 
 interface NavbarProps {
   onOpenSearch: () => void;
@@ -89,17 +89,29 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
           >
             <div
               style={{
-                width: '38px',
-                height: '38px',
-                borderRadius: '10px',
-                background: 'linear-gradient(135deg, #246BFD 0%, #64C8DC 100%)',
+                width: '40px',
+                height: '40px',
+                borderRadius: '11px',
+                background: 'rgba(255, 255, 255, 0.08)',
+                border: '1px solid rgba(255, 255, 255, 0.16)',
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
-                boxShadow: '0 4px 14px rgba(36, 107, 253, 0.4)',
+                boxShadow: '0 4px 16px rgba(0, 0, 0, 0.25)',
+                overflow: 'hidden',
+                padding: '3px',
+                flexShrink: 0,
               }}
             >
-              <Zap size={20} color="#FFFFFF" strokeWidth={2.5} fill="#FFFFFF" />
+              <img
+                src="/images/logo-emblem.png"
+                alt="MINNAL INNOVATIONS Logo"
+                style={{
+                  width: '100%',
+                  height: '100%',
+                  objectFit: 'contain',
+                }}
+              />
             </div>
             <div>
               <div

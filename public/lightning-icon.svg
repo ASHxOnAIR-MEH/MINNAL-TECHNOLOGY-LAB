@@ -1,15 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
   <defs>
-    <linearGradient id="minnalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#246BFD"/>
-      <stop offset="100%" stop-color="#64C8DC"/>
+    <!-- Lightning Bolt Vibrant Gradient -->
+    <linearGradient id="boltGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFDD00"/>
+      <stop offset="45%" stop-color="#FFAC00"/>
+      <stop offset="100%" stop-color="#FF7A00"/>
     </linearGradient>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#07143D"/>
-      <stop offset="100%" stop-color="#0E235C"/>
+    <!-- Navy Wing Gradient -->
+    <linearGradient id="wingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E2458"/>
+      <stop offset="100%" stop-color="#061234"/>
     </linearGradient>
+    <!-- Subtle Glow for Lightning -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
   </defs>
-  <rect width="100" height="100" rx="24" fill="url(#bgGrad)"/>
-  <rect x="2" y="2" width="96" height="96" rx="22" stroke="url(#minnalGrad)" stroke-width="2" stroke-opacity="0.3"/>
-  <path d="M54 18L26 56H48L44 82L74 44H50L54 18Z" fill="url(#minnalGrad)" stroke="#FFFFFF" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Left 'M' Wing -->
+  <path d="M72 76 H178 V332 L236 242 L160 148 L238 76 L72 76 Z" fill="url(#wingGrad)" />
+  <path d="M72 76 L72 436 L178 332 V180 L256 76 Z" fill="#07143D" />
+
+  <!-- Right 'M' Wing -->
+  <path d="M440 76 H334 V332 L276 242 L352 148 L274 76 L440 76 Z" fill="url(#wingGrad)" />
+  <path d="M440 76 L440 436 L334 332 V180 L256 76 Z" fill="#07143D" />
+
+  <!-- Embedded High-Resolution Logo Vector / Raster fallback -->
+  <image href="/images/logo-emblem.png" x="16" y="16" width="480" height="480" />
 </svg>
