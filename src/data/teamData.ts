@@ -7,7 +7,10 @@ export const TEAM_MEMBERS: TeamMember[] = [
     headline: 'Fellow, IIT Kanpur | Control Systems | Healthcare Technology | Entrepreneurship',
     bio: 'Fellow at the Indian Institute of Technology (IIT) Kanpur (School of International Biodesign – Synergizing Healthcare Innovation and Entrepreneurship, SIB-SHInE). Former Academic Intern at Kerala Startup Mission (KSUM). Former Control Systems Engineer at Genrobotics and co-founder of Scify Technologies, bringing proven expertise in multidisciplinary engineering, healthcare technology, and startup incubation.',
     initials: 'MS',
+    photo: '/images/team/muhammad_sadikh.jpg',
     linkedin: 'https://www.linkedin.com/in/muhammad-sadikh-n-55683a36a/',
+    instagram: 'https://www.instagram.com/s_d_ik_?utm_source=ig_web_button_share_sheet&vrfl=ZDNlZDc0MzIxNw==',
+    instagramHandle: '@s_d_ik_',
     badges: [
       'Fellow, IIT Kanpur (SIB-SHInE)',
       'Former Intern, Kerala Startup Mission',
@@ -30,7 +33,10 @@ export const TEAM_MEMBERS: TeamMember[] = [
     headline: 'IoT Developer | Embedded Systems | Innovation & Entrepreneurship',
     bio: 'IoT developer and embedded systems engineer specializing in low-power microcontrollers, sensor integration, edge telemetry, and rapid prototyping. Active across Kerala’s startup ecosystem with an engaged community of 10,000+ LinkedIn followers.',
     initials: 'MA',
+    photo: '/images/team/muhammed_ashik.jpg',
     linkedin: 'https://www.linkedin.com/in/connentashik/',
+    instagram: 'https://www.instagram.com/ashxon.air/?__pwa=1#',
+    instagramHandle: '@ashxon.air',
     followerCount: '10K+',
     badges: [
       '10K+ LinkedIn Followers',
@@ -47,12 +53,15 @@ export const TEAM_MEMBERS: TeamMember[] = [
     ]
   },
   {
-    name: 'Sybu Jhon',
+    name: 'Saybu Jhon',
     role: 'Hardware Expert',
     headline: 'Hardware Expert | Electronics Prototyping | Product Development',
     bio: 'Hardware development and physical prototyping specialist. Focuses on physical prototyping, electronics integration, circuit troubleshooting, board testing, and functional engineering build construction.',
     initials: 'SJ',
+    photo: '/images/team/saybu_jhon.jpg',
     linkedin: 'https://www.linkedin.com/in/sybu-john-03251a361/',
+    instagram: 'https://www.instagram.com/_e_xo_dus_29_?utm_source=ig_web_button_share_sheet&vrfl=ZDNlZDc0MzIxNw==',
+    instagramHandle: '@_e_xo_dus_29_',
     badges: [
       'Prototype 3.0 Winner',
       'Hardware Development Specialist',

@@ -34,7 +34,10 @@ export interface TeamMember {
   headline: string;
   bio: string;
   initials: string;
+  photo?: string;
   linkedin: string;
+  instagram?: string;
+  instagramHandle?: string;
   badges: string[];
   confirmedAchievements: string[];
   followerCount?: string;

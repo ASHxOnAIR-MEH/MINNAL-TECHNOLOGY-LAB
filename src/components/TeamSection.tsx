@@ -1,5 +1,5 @@
 import React from 'react';
-import { Users, Linkedin, ShieldCheck, CheckCircle2, ExternalLink } from 'lucide-react';
+import { Users, Linkedin, Instagram, ShieldCheck, CheckCircle2, ExternalLink } from 'lucide-react';
 import { TEAM_MEMBERS } from '../data/teamData';
 
 export const TeamSection: React.FC = () => {
@@ -55,7 +55,7 @@ export const TeamSection: React.FC = () => {
           </p>
         </div>
 
-        {/* 3 Team Cards Grid — Beautiful balanced 3-column layout */}
+        {/* 3 Team Cards Grid */}
         <div
           style={{
             display: 'grid',
@@ -78,7 +78,7 @@ export const TeamSection: React.FC = () => {
                 background: '#FFFFFF',
               }}
             >
-              {/* Top Row: Avatar & LinkedIn Link */}
+              {/* Top Row: Photo Avatar & Social Icons */}
               <div
                 style={{
                   display: 'flex',
@@ -87,39 +87,59 @@ export const TeamSection: React.FC = () => {
                   marginBottom: '22px',
                 }}
               >
-                {/* Neutral Professional Placeholder Avatar */}
+                {/* Genuine Photo Avatar Frame */}
                 <div
                   style={{
-                    width: '82px',
-                    height: '82px',
+                    width: '92px',
+                    height: '92px',
                     borderRadius: '24px',
-                    background: 'linear-gradient(135deg, var(--navy-900) 0%, var(--navy-800) 100%)',
-                    border: '2px solid rgba(100, 200, 220, 0.45)',
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
+                    overflow: 'hidden',
+                    border: '2.5px solid rgba(36, 107, 253, 0.4)',
                     boxShadow: '0 12px 28px -6px rgba(7, 20, 61, 0.22)',
                     position: 'relative',
+                    background: 'var(--navy-900)',
+                    flexShrink: 0,
                   }}
                 >
-                  <span
-                    style={{
-                      fontFamily: 'var(--font-serif)',
-                      fontSize: '1.75rem',
-                      fontWeight: 700,
-                      color: 'var(--cyan-400)',
-                      letterSpacing: '0.04em',
-                    }}
-                  >
-                    {member.initials}
-                  </span>
+                  {member.photo ? (
+                    <img
+                      src={member.photo}
+                      alt={member.name}
+                      style={{
+                        width: '100%',
+                        height: '100%',
+                        objectFit: 'cover',
+                        objectPosition: 'center 20%',
+                        display: 'block',
+                        transition: 'transform 0.3s ease',
+                      }}
+                      onMouseEnter={(e) => (e.currentTarget.style.transform = 'scale(1.08)')}
+                      onMouseLeave={(e) => (e.currentTarget.style.transform = 'scale(1.0)')}
+                    />
+                  ) : (
+                    <div
+                      style={{
+                        width: '100%',
+                        height: '100%',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        color: 'var(--cyan-400)',
+                        fontSize: '1.75rem',
+                        fontWeight: 700,
+                        fontFamily: 'var(--font-serif)',
+                      }}
+                    >
+                      {member.initials}
+                    </div>
+                  )}
 
                   {/* Verified indicator badge */}
                   <div
                     style={{
                       position: 'absolute',
-                      bottom: '-5px',
-                      right: '-5px',
+                      bottom: '-2px',
+                      right: '-2px',
                       width: '24px',
                       height: '24px',
                       borderRadius: '50%',
@@ -136,39 +156,78 @@ export const TeamSection: React.FC = () => {
                   </div>
                 </div>
 
-                {/* LinkedIn Icon Button */}
-                <a
-                  href={member.linkedin}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label={`View ${member.name}'s LinkedIn profile`}
-                  style={{
-                    width: '42px',
-                    height: '42px',
-                    borderRadius: '12px',
-                    background: 'rgba(36, 107, 253, 0.08)',
-                    border: '1px solid rgba(36, 107, 253, 0.16)',
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    color: 'var(--blue-500)',
-                    transition: 'all 0.25s ease',
-                  }}
-                  onMouseEnter={(e) => {
-                    e.currentTarget.style.background = '#0077B5';
-                    e.currentTarget.style.borderColor = '#0077B5';
-                    e.currentTarget.style.color = '#FFFFFF';
-                    e.currentTarget.style.transform = 'translateY(-2px)';
-                  }}
-                  onMouseLeave={(e) => {
-                    e.currentTarget.style.background = 'rgba(36, 107, 253, 0.08)';
-                    e.currentTarget.style.borderColor = 'rgba(36, 107, 253, 0.16)';
-                    e.currentTarget.style.color = 'var(--blue-500)';
-                    e.currentTarget.style.transform = 'translateY(0)';
-                  }}
-                >
-                  <Linkedin size={20} />
-                </a>
+                {/* Top-Right Social Icons Cluster */}
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  {/* LinkedIn Icon Button */}
+                  <a
+                    href={member.linkedin}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={`View ${member.name}'s LinkedIn profile`}
+                    style={{
+                      width: '40px',
+                      height: '40px',
+                      borderRadius: '12px',
+                      background: 'rgba(36, 107, 253, 0.08)',
+                      border: '1px solid rgba(36, 107, 253, 0.16)',
+                      display: 'flex',
+                      alignItems: 'center',
+                      justifyContent: 'center',
+                      color: 'var(--blue-500)',
+                      transition: 'all 0.25s ease',
+                    }}
+                    onMouseEnter={(e) => {
+                      e.currentTarget.style.background = '#0077B5';
+                      e.currentTarget.style.borderColor = '#0077B5';
+                      e.currentTarget.style.color = '#FFFFFF';
+                      e.currentTarget.style.transform = 'translateY(-2px)';
+                    }}
+                    onMouseLeave={(e) => {
+                      e.currentTarget.style.background = 'rgba(36, 107, 253, 0.08)';
+                      e.currentTarget.style.borderColor = 'rgba(36, 107, 253, 0.16)';
+                      e.currentTarget.style.color = 'var(--blue-500)';
+                      e.currentTarget.style.transform = 'translateY(0)';
+                    }}
+                  >
+                    <Linkedin size={18} />
+                  </a>
+
+                  {/* Instagram Icon Button */}
+                  {member.instagram && (
+                    <a
+                      href={member.instagram}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label={`View ${member.name}'s Instagram profile`}
+                      style={{
+                        width: '40px',
+                        height: '40px',
+                        borderRadius: '12px',
+                        background: 'rgba(225, 48, 108, 0.08)',
+                        border: '1px solid rgba(225, 48, 108, 0.18)',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        color: '#E1306C',
+                        transition: 'all 0.25s ease',
+                      }}
+                      onMouseEnter={(e) => {
+                        e.currentTarget.style.background = 'linear-gradient(45deg, #F58529, #DD2A7B, #8134AF, #515BD4)';
+                        e.currentTarget.style.borderColor = 'transparent';
+                        e.currentTarget.style.color = '#FFFFFF';
+                        e.currentTarget.style.transform = 'translateY(-2px)';
+                      }}
+                      onMouseLeave={(e) => {
+                        e.currentTarget.style.background = 'rgba(225, 48, 108, 0.08)';
+                        e.currentTarget.style.borderColor = 'rgba(225, 48, 108, 0.18)';
+                        e.currentTarget.style.color = '#E1306C';
+                        e.currentTarget.style.transform = 'translateY(0)';
+                      }}
+                    >
+                      <Instagram size={18} />
+                    </a>
+                  )}
+                </div>
               </div>
 
               {/* Name & Role */}
@@ -261,7 +320,7 @@ export const TeamSection: React.FC = () => {
                   width: '100%',
                   borderTop: '1px solid var(--card-border)',
                   paddingTop: '18px',
-                  marginBottom: '22px',
+                  marginBottom: '20px',
                 }}
               >
                 <div
@@ -301,43 +360,91 @@ export const TeamSection: React.FC = () => {
                 </div>
               </div>
 
-              {/* LinkedIn Full Action Button */}
-              <a
-                href={member.linkedin}
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label={`Open ${member.name}'s profile on LinkedIn`}
+              {/* Dual Social Action Buttons at Bottom */}
+              <div
                 style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  gap: '8px',
-                  background: 'var(--off-white)',
-                  color: 'var(--navy-900)',
-                  border: '1px solid var(--card-border)',
-                  borderRadius: '12px',
-                  padding: '11px',
-                  fontSize: '0.84rem',
-                  fontWeight: 600,
-                  textDecoration: 'none',
-                  transition: 'all 0.25s ease',
+                  display: 'grid',
+                  gridTemplateColumns: member.instagram ? '1fr 1fr' : '1fr',
+                  gap: '10px',
                   marginTop: 'auto',
                 }}
-                onMouseEnter={(e) => {
-                  e.currentTarget.style.background = '#0077B5';
-                  e.currentTarget.style.borderColor = '#0077B5';
-                  e.currentTarget.style.color = '#FFFFFF';
-                }}
-                onMouseLeave={(e) => {
-                  e.currentTarget.style.background = 'var(--off-white)';
-                  e.currentTarget.style.borderColor = 'var(--card-border)';
-                  e.currentTarget.style.color = 'var(--navy-900)';
-                }}
               >
-                <Linkedin size={16} />
-                <span>View LinkedIn Profile</span>
-                <ExternalLink size={13} style={{ opacity: 0.7 }} />
-              </a>
+                {/* LinkedIn Action */}
+                <a
+                  href={member.linkedin}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label={`Open ${member.name}'s profile on LinkedIn`}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    gap: '6px',
+                    background: 'var(--off-white)',
+                    color: 'var(--navy-900)',
+                    border: '1px solid var(--card-border)',
+                    borderRadius: '12px',
+                    padding: '10px 8px',
+                    fontSize: '0.8rem',
+                    fontWeight: 600,
+                    textDecoration: 'none',
+                    transition: 'all 0.25s ease',
+                  }}
+                  onMouseEnter={(e) => {
+                    e.currentTarget.style.background = '#0077B5';
+                    e.currentTarget.style.borderColor = '#0077B5';
+                    e.currentTarget.style.color = '#FFFFFF';
+                  }}
+                  onMouseLeave={(e) => {
+                    e.currentTarget.style.background = 'var(--off-white)';
+                    e.currentTarget.style.borderColor = 'var(--card-border)';
+                    e.currentTarget.style.color = 'var(--navy-900)';
+                  }}
+                >
+                  <Linkedin size={15} />
+                  <span>LinkedIn</span>
+                  <ExternalLink size={12} style={{ opacity: 0.6 }} />
+                </a>
+
+                {/* Instagram Action */}
+                {member.instagram && (
+                  <a
+                    href={member.instagram}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={`Open ${member.name}'s profile on Instagram`}
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      justifyContent: 'center',
+                      gap: '6px',
+                      background: 'rgba(225, 48, 108, 0.04)',
+                      color: '#E1306C',
+                      border: '1px solid rgba(225, 48, 108, 0.2)',
+                      borderRadius: '12px',
+                      padding: '10px 8px',
+                      fontSize: '0.8rem',
+                      fontWeight: 600,
+                      textDecoration: 'none',
+                      transition: 'all 0.25s ease',
+                    }}
+                    onMouseEnter={(e) => {
+                      e.currentTarget.style.background = 'linear-gradient(45deg, #F58529, #DD2A7B, #8134AF, #515BD4)';
+                      e.currentTarget.style.borderColor = 'transparent';
+                      e.currentTarget.style.color = '#FFFFFF';
+                    }}
+                    onMouseLeave={(e) => {
+                      e.currentTarget.style.background = 'rgba(225, 48, 108, 0.04)';
+                      e.currentTarget.style.borderColor = 'rgba(225, 48, 108, 0.2)';
+                      e.currentTarget.style.color = '#E1306C';
+                    }}
+                  >
+                    <Instagram size={15} />
+                    <span>{member.instagramHandle || 'Instagram'}</span>
+                    <ExternalLink size={12} style={{ opacity: 0.6 }} />
+                  </a>
+                )}
+              </div>
             </div>
           ))}
         </div>
