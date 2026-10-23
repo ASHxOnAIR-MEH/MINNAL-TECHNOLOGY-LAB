@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { Play, ArrowRight, Wrench, X, CheckCircle, ExternalLink } from 'lucide-react';
+import { Play, ArrowRight, Wrench, X, CheckCircle, ExternalLink, Globe, Building2, Award, Rocket, Network } from 'lucide-react';
+import { ECOSYSTEM_ITEMS, ECOSYSTEM_HEADING, ECOSYSTEM_SUBTITLE } from '../data/ecosystemData';
 
 interface FeaturedShowcaseProps {
   onExploreProjects: () => void;
@@ -11,14 +12,6 @@ export const FeaturedShowcase: React.FC<FeaturedShowcaseProps> = ({
   onRequestPrototype,
 }) => {
   const [videoModalOpen, setVideoModalOpen] = useState(false);
-
-  const partners = [
-    { name: 'IEDC UKFCET', role: 'Host Incubator' },
-    { name: 'MSME India', role: 'Registered Enterprise' },
-    { name: 'KSUM & RINK', role: 'Innovation Network' },
-    { name: 'IEEE Student Branch', role: 'Technical Synergy' },
-    { name: 'APJ KTU Hub', role: 'Academic Framework' },
-  ];
 
   return (
     <section
@@ -237,65 +230,194 @@ export const FeaturedShowcase: React.FC<FeaturedShowcaseProps> = ({
           </div>
         </div>
 
-        {/* Partner / Ecosystem Strip (Replicating podcast strip from reference) */}
+        {/* Recognised Across Kerala’s Innovation Ecosystem Section */}
         <div
+          id="ecosystem"
           style={{
-            marginTop: '56px',
-            textAlign: 'center',
+            marginTop: '76px',
+            paddingTop: '64px',
+            borderTop: '1px solid rgba(7, 20, 61, 0.08)',
           }}
         >
-          <div
-            style={{
-              fontSize: '0.78rem',
-              fontWeight: 700,
-              letterSpacing: '0.14em',
-              textTransform: 'uppercase',
-              color: 'var(--ink-500)',
-              marginBottom: '20px',
-            }}
-          >
-            Incubated & Collaborating Across Kerala's Premier Innovation Ecosystem:
+          {/* Section Header */}
+          <div style={{ textAlign: 'center', maxWidth: '820px', margin: '0 auto 48px' }}>
+            <div className="section-badge section-badge-light" style={{ marginBottom: '14px' }}>
+              <Globe size={14} />
+              <span>INNOVATION ECOSYSTEM</span>
+            </div>
+
+            <h2
+              style={{
+                fontSize: 'clamp(2rem, 3.4vw, 3rem)',
+                color: 'var(--navy-900)',
+                fontFamily: 'var(--font-serif)',
+                fontWeight: 700,
+                lineHeight: 1.2,
+                marginBottom: '16px',
+              }}
+            >
+              {ECOSYSTEM_HEADING}
+            </h2>
+
+            <p
+              style={{
+                color: 'var(--ink-500)',
+                fontSize: '1.04rem',
+                lineHeight: 1.65,
+                margin: '0 auto',
+              }}
+            >
+              {ECOSYSTEM_SUBTITLE}
+            </p>
           </div>
 
+          {/* 4 Ecosystem Cards Grid */}
           <div
             style={{
-              display: 'flex',
-              flexWrap: 'wrap',
-              alignItems: 'center',
-              justifyContent: 'center',
-              gap: '16px',
+              display: 'grid',
+              gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))',
+              gap: '24px',
+              alignItems: 'stretch',
             }}
+            className="ecosystem-grid"
           >
-            {partners.map((p) => (
-              <div
-                key={p.name}
-                style={{
-                  background: '#FFFFFF',
-                  borderRadius: '16px',
-                  padding: '12px 22px',
-                  border: '1px solid var(--card-border)',
-                  boxShadow: '0 4px 14px rgba(7, 20, 61, 0.04)',
-                  display: 'flex',
-                  alignItems: 'center',
-                  gap: '10px',
-                }}
-              >
-                <span
+            {ECOSYSTEM_ITEMS.map((item) => {
+              const renderIcon = () => {
+                switch (item.iconType) {
+                  case 'building':
+                    return <Building2 size={24} color="var(--blue-500)" strokeWidth={1.8} />;
+                  case 'award':
+                    return <Award size={24} color="var(--blue-500)" strokeWidth={1.8} />;
+                  case 'rocket':
+                    return <Rocket size={24} color="var(--blue-500)" strokeWidth={1.8} />;
+                  case 'network':
+                    return <Network size={24} color="var(--blue-500)" strokeWidth={1.8} />;
+                  default:
+                    return <Globe size={24} color="var(--blue-500)" strokeWidth={1.8} />;
+                }
+              };
+
+              return (
+                <div
+                  key={item.id}
+                  className="cat-card"
                   style={{
-                    width: '8px',
-                    height: '8px',
-                    borderRadius: '50%',
-                    background: 'var(--cyan-400)',
+                    background: '#FFFFFF',
+                    borderRadius: '20px',
+                    padding: '32px 26px',
+                    border: '1px solid var(--card-border)',
+                    boxShadow: '0 8px 24px -4px rgba(7, 20, 61, 0.05)',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    position: 'relative',
+                    transition: 'all 0.3s cubic-bezier(0.16, 1, 0.3, 1)',
                   }}
-                />
-                <div style={{ textAlign: 'left' }}>
-                  <div style={{ fontSize: '0.86rem', fontWeight: 700, color: 'var(--navy-900)' }}>
-                    {p.name}
+                  onMouseEnter={(e) => {
+                    e.currentTarget.style.transform = 'translateY(-4px)';
+                    e.currentTarget.style.boxShadow = '0 16px 36px -6px rgba(7, 20, 61, 0.1)';
+                    e.currentTarget.style.borderColor = 'rgba(36, 107, 253, 0.35)';
+                  }}
+                  onMouseLeave={(e) => {
+                    e.currentTarget.style.transform = 'translateY(0)';
+                    e.currentTarget.style.boxShadow = '0 8px 24px -4px rgba(7, 20, 61, 0.05)';
+                    e.currentTarget.style.borderColor = 'var(--card-border)';
+                  }}
+                >
+                  {/* Top row: Icon in subtle pill + Geographic indicator */}
+                  <div
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      justifyContent: 'space-between',
+                      marginBottom: '22px',
+                    }}
+                  >
+                    <div
+                      style={{
+                        width: '52px',
+                        height: '52px',
+                        borderRadius: '14px',
+                        background: 'rgba(36, 107, 253, 0.08)',
+                        border: '1px solid rgba(36, 107, 253, 0.16)',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                      }}
+                    >
+                      {renderIcon()}
+                    </div>
+
+                    <span
+                      style={{
+                        display: 'inline-flex',
+                        alignItems: 'center',
+                        gap: '6px',
+                        fontSize: '0.68rem',
+                        fontWeight: 700,
+                        letterSpacing: '0.06em',
+                        color: 'var(--blue-500)',
+                        background: 'rgba(36, 107, 253, 0.06)',
+                        border: '1px solid rgba(36, 107, 253, 0.12)',
+                        padding: '4px 10px',
+                        borderRadius: '20px',
+                        textTransform: 'uppercase',
+                      }}
+                    >
+                      <span
+                        style={{
+                          width: '6px',
+                          height: '6px',
+                          borderRadius: '50%',
+                          background: 'var(--cyan-400)',
+                        }}
+                      />
+                      Kerala
+                    </span>
                   </div>
-                  <div style={{ fontSize: '0.7rem', color: 'var(--ink-500)' }}>{p.role}</div>
+
+                  {/* Label / Badge */}
+                  <div
+                    style={{
+                      fontSize: '0.72rem',
+                      fontWeight: 800,
+                      letterSpacing: '0.08em',
+                      textTransform: 'uppercase',
+                      color: 'var(--blue-500)',
+                      marginBottom: '8px',
+                    }}
+                  >
+                    {item.label}
+                  </div>
+
+                  {/* Card Title */}
+                  <h3
+                    style={{
+                      fontSize: '1.25rem',
+                      fontFamily: 'var(--font-serif)',
+                      fontWeight: 700,
+                      color: 'var(--navy-900)',
+                      marginBottom: '12px',
+                      lineHeight: 1.25,
+                    }}
+                  >
+                    {item.name}
+                  </h3>
+
+                  {/* Description */}
+                  <p
+                    style={{
+                      fontSize: '0.88rem',
+                      color: 'var(--ink-500)',
+                      lineHeight: 1.6,
+                      margin: 0,
+                      flexGrow: 1,
+                    }}
+                  >
+                    {item.description}
+                  </p>
                 </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </div>

@@ -67,3 +67,11 @@ export interface QuotationFormState {
   description: string;
   projectId?: string;
 }
+
+export interface EcosystemItem {
+  id: string;
+  name: string;
+  label: string;
+  description: string;
+  iconType: 'building' | 'award' | 'rocket' | 'network';
+}
