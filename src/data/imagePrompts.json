@@ -273,5 +273,265 @@
     "imagePath": "/images/cat_mech.jpg",
     "status": "pending",
     "pendingReason": "Image generation quota reset pending (scheduled for subsequent batch); utilizing verified high-resolution category fallback asset."
+  },
+  {
+    "id": "MI203",
+    "title": "Motorized Hydraulic Jack",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a motorized hydraulic jack. Show the compact hydraulic cylinder, electric pump motor, oil reservoir, heavy-duty scissor or bottle lifting arm, and toggle switch controller in a clean workshop setting, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI204",
+    "title": "Automatic Punching Machine by Geneva Mechanism",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of an automatic sheet metal punching machine driven by a 4-slot Geneva mechanism. Show the motor, drive pin wheel, slotted Geneva disc, reciprocating punch ram, die block, and conveyor feed strip in a clean machine shop, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI205",
+    "title": "Variable Angle Gearless Power Transmission",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a variable angle gearless power transmission mechanism. Show multiple bent sliding rods or elbow links transmitting torque between two shafts at variable angles inside a precision cylindrical housing, machined aluminum construction, workshop lighting, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI206",
+    "title": "Bucket Wheel Escalator Material Elevator",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a bucket wheel escalator continuous material elevator. Show the rotating bucket wheel scooping aggregate from a lower hopper and transferring it onto an inclined escalator-style bucket belt, structural frame, mechanical drive sprockets, industrial studio setting, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI207",
+    "title": "Solar-Powered Sand Collecting Vehicle",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a solar-powered sand collecting vehicle. Show a mobile rugged chassis with high-traction treads, a rotating collection scoop drum, onboard storage hopper, and roof-mounted photovoltaic solar panel in an open outdoor terrain setting, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_renew.jpg",
+    "fallbackImage": "/images/cat_renew.jpg"
+  },
+  {
+    "id": "MI208",
+    "title": "Hydro-Pneumatic Disc Brake System",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a hydro-pneumatic disc brake test bench. Show a ventilated steel brake disc on a shaft, twin-piston hydraulic caliper, pneumatic air-over-oil booster cylinder, pressure gauge, and master cylinder assembly, clean technical studio, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI209",
+    "title": "Electromagnetic Regenerative Braking System",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of an electromagnetic regenerative braking test rig. Show a copper flywheel disk spinning between high-power electromagnetic stator coils, eddy current generation, capacitor energy recovery bank, and digital voltmeter display, technical lab setting, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_elec.jpg",
+    "fallbackImage": "/images/cat_elec.jpg"
+  },
+  {
+    "id": "MI210",
+    "title": "Pneumatic Multipurpose Grinder & Surface Finisher",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a workshop benchtop pneumatic multipurpose grinder. Show the pneumatic air turbine spindle, interchangeable abrasive grinding wheel and wire brush attachments, compressed air regulator valve, and adjustable tool rest, workshop background, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI211",
+    "title": "Push-Operated Agricultural Sprayer Pump",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a push-operated agricultural sprayer cart. Show a two-wheeled ergonomic push trolley, wheel cam linkage driving a reciprocating piston pump, 20L chemical fluid tank, and multi-nozzle spray boom with mist atomization in an agro-tech lab, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI212",
+    "title": "Obstacle Alert & Automated Braking System",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of an automotive obstacle alert and automatic emergency braking demonstrator. Show a quarter-scale vehicle chassis with front ultrasonic radar sensors, electronic brake servo actuator pushing a disc brake caliper, warning buzzer, and microcontroller circuit, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_robotics.jpg",
+    "fallbackImage": "/images/cat_robotics.jpg"
+  },
+  {
+    "id": "MI213",
+    "title": "Hybrid Wind & Solar Water Pumping System",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a hybrid wind and solar agricultural water pump. Show a small vertical-axis wind turbine and monocrystalline solar panel powering a submersible DC brushless water pump, transparent plumbing column, digital flow meter, and dual-source MPPT charge controller, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_renew.jpg",
+    "fallbackImage": "/images/cat_renew.jpg"
+  },
+  {
+    "id": "MI214",
+    "title": "Electromagnetic Active Suspension System",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of an electromagnetic active suspension strut. Show a cylindrical strut with internal opposing neodymium permanent magnets and electromagnetic coils, linear optical travel sensor, damping controller, and A-arm suspension assembly on a dynamic vibration test rig, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI215",
+    "title": "Sensor-Automated Agricultural Irrigation Pumping System",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a smart moisture-controlled irrigation station. Show stainless soil moisture sensors in soil sample beds, 12V DC centrifugal water pump, solenoid distribution manifold, LCD status display, and relay controller box in a precision agriculture setting, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_iot.jpg",
+    "fallbackImage": "/images/cat_iot.jpg"
+  },
+  {
+    "id": "MI216",
+    "title": "Reciprocating Jigsaw Cutting Machine Table",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a benchtop motorized scroll jigsaw cutting table. Show a heavy cast iron worktable, scotch yoke or eccentric crank mechanism driving a fine vertical jigsaw blade, electric motor, blade guide arm, and chip blower, workshop setting, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI217",
+    "title": "Industrial 2x72 Abrasive Belt Grinder",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of an industrial 2x72 abrasive belt grinder. Show a multi-wheel articulated aluminum tooling arm, continuous alumina grinding belt, electric induction motor, tracking adjustment tensioner, and flat platen work rest in a modern metal fabrication shop, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI218",
+    "title": "Vertical Axis Highway Wind Turbine Generator",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a vertical-axis highway median wind turbine. Show helical curved Savonius-Darrieus blades mounted on a highway median barrier column, spinning from passing vehicle slipstream turbulence, alternator base, and LED street lighting mast, clean dusk highway render, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_renew.jpg",
+    "fallbackImage": "/images/cat_renew.jpg"
+  },
+  {
+    "id": "MI219",
+    "title": "Automated Motorized Motorcycle Center Stand",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of an automated motorized center stand on a motorcycle chassis. Show a high-torque 12V worm gear motor and power screw linkage deploying a heavy-duty twin-leg center stand, handlebar push-button switch, and motorcycle rear swingarm in a technical studio, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI220",
+    "title": "Pedal-Powered Water Filtration Bicycle",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a pedal-powered water purification bicycle. Show a stationary trainer bicycle frame with a rear wheel friction roller driving a high-pressure diaphragm pump, multi-stage activated carbon and ceramic filter canisters, intake hose, and pure water outflow, clean studio, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI221",
+    "title": "Pneumatic Gear Tooth Grinding & Deburring Machine",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a pneumatic gear tooth profile grinding and deburring machine. Show a rotary indexing mandrel holding a spur gear, reciprocating pneumatic cylinder carrying a profiled grinding wheel, air lubricator regulator, and indexer ratchet mechanism, workshop setting, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI222",
+    "title": "High-Efficiency Parabolic Solar Thermal Oven",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a parabolic solar cooking oven. Show an anodized parabolic reflective concentrator dish focusing sunlight onto an insulated vacuum-jacketed cooking chamber, sun-tracking angle quadrant, and thermal thermocouple probe in an outdoor sunlight setting, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_renew.jpg",
+    "fallbackImage": "/images/cat_renew.jpg"
+  },
+  {
+    "id": "MI223",
+    "title": "Industrial Hydraulic Pallet Truck Demonstration Rig",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of an industrial manual hydraulic pallet truck. Show reinforced steel fork tines, hydraulic ram pump body, three-position ergonomic tiller handle, tandem polyurethane load rollers, and pressure release trigger in a clean logistics warehouse, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI224",
+    "title": "Motorized Power Screw Jack with Integrated Workpiece Clamper",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a motorized Acme screw jack with integrated pneumatic or mechanical workpiece clamping jaws. Show the high-torque geared motor, precision lead screw, thrust bearing housing, self-locking nut, and heavy-duty adjustable clamping vice jaws on a machine bed, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI225",
+    "title": "Automated Solar Panel Water-Cooling & Efficiency System",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of an automated solar panel water-cooling system. Show a photovoltaic panel frame equipped with top spray mist manifold, temperature sensors, automated pump, runoff collection gutter, and efficiency monitoring display, bright outdoor daylight render, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_renew.jpg",
+    "fallbackImage": "/images/cat_renew.jpg"
+  },
+  {
+    "id": "MI226",
+    "title": "Miniature Precision Wood Lathe & Grooving Machine",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a mini benchtop wood lathe machine for wood grooving. Show an aluminum extruded bed rail, 3-jaw headstock chuck, variable-speed electric motor, adjustable tailstock with live center, and micro-grooving chisel carriage in a craftsman workshop setting, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI227",
+    "title": "Positive Displacement Rotary External Gear Pump",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of an acrylic transparent educational rotary external gear pump. Show two interlocking spur gears rotating inside a precision-machined clear acrylic casing, inlet and outlet fluid ports, drive shaft, and pressure gauge, fluid mechanics laboratory render, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "MI228",
+    "title": "2D/3D Mechanical Pantograph Copy Milling Machine",
+    "catalogGroup": "MI",
+    "category": "Mechanical & Industrial Innovation Projects",
+    "imagePrompt": "Create a realistic engineering prototype concept render of a mechanical pantograph copy milling and engraving machine. Show an articulated parallelogram four-bar linkage mechanism, tracer stylus tracing a template master, high-speed rotary milling spindle duplicating the pattern at scaled ratios, and cast iron base in a toolroom, no text, no watermark.",
+    "status": "pending",
+    "imagePath": "/images/cat_mech.jpg",
+    "fallbackImage": "/images/cat_mech.jpg"
   }
 ]

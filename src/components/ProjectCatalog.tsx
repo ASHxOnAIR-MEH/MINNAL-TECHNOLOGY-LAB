@@ -46,6 +46,7 @@ export const ProjectCatalog: React.FC<ProjectCatalogProps> = ({
   const categories = [
     'All',
     'Mechanical Projects',
+    'Mechanical & Industrial Innovation',
     'Robotics & Automation',
     'IoT & Embedded Systems',
     'Electronics & Electrical',
@@ -57,7 +58,7 @@ export const ProjectCatalog: React.FC<ProjectCatalogProps> = ({
     { code: 'All', label: 'All Series' },
     { code: 'MH', label: 'MH (Mech Automations)' },
     { code: 'MR', label: 'MR (Robotics Systems)' },
-    { code: 'MI', label: 'MI (Microcontroller & IoT)' },
+    { code: 'MI', label: 'MI (Mechanical & Industrial)' },
     { code: 'ME', label: 'ME (Fabrication & Machining)' },
     { code: 'IOT', label: 'IOT (Edge Telemetry)' },
     { code: 'EE', label: 'EE (Power & Circuit)' },
@@ -67,10 +68,21 @@ export const ProjectCatalog: React.FC<ProjectCatalogProps> = ({
 
   const filteredProjects = useMemo(() => {
     let list = PROJECTS_DATA.filter((project) => {
-      // Category filter (support both 'Mechanical Projects' and 'Mechanical Engineering')
+      // Category filter (support Mechanical, Mechanical & Industrial Innovation, and others)
       if (activeCategory !== 'All') {
         if (activeCategory === 'Mechanical Projects') {
-          if (project.category !== 'Mechanical Projects' && project.category !== 'Mechanical Engineering') {
+          if (
+            project.category !== 'Mechanical Projects' &&
+            project.category !== 'Mechanical Engineering' &&
+            project.category !== 'Mechanical & Industrial Innovation Projects'
+          ) {
+            return false;
+          }
+        } else if (activeCategory === 'Mechanical & Industrial Innovation') {
+          if (
+            project.category !== 'Mechanical & Industrial Innovation Projects' &&
+            project.catalogGroup !== 'MI'
+          ) {
             return false;
           }
         } else if (project.category !== activeCategory) {
