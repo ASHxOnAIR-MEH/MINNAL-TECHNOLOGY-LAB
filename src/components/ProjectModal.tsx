@@ -16,7 +16,7 @@ export const ProjectModal: React.FC<ProjectModalProps> = ({
   if (!project) return null;
 
   const whatsappMessage = encodeURIComponent(
-    `Hello MINNAL TECHNOLOGY LAB! I am interested in project ${project.id} - "${project.title}". Please share the quotation, academic deliverables, and availability.`
+    `Hello MINNAL INNOVATIONS! I am interested in project ${project.id} - "${project.title}". Please share the quotation, academic deliverables, and availability.`
   );
 
   return (

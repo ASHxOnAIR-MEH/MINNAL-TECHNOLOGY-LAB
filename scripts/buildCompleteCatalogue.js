@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-console.log('--- MINNAL TECHNOLOGY LAB: Full 1,334 Project Catalogue Builder ---');
+console.log('--- MINNAL INNOVATIONS: Full 1,334 Project Catalogue Builder ---');
 
 const part1Path = path.resolve('scripts/raw_part1.txt');
 const part2Path = path.resolve('scripts/raw_part2.txt');
@@ -209,7 +209,7 @@ for (const pFile of parts) {
     const customImagePath = `/images/projects/${rawId.toLowerCase()}.webp`;
     const fallbackImage = categoryFallbackMap[category] || '/images/cat_mech.jpg';
     const activeImage = hasCustomImage ? customImagePath : fallbackImage;
-    const imageAlt = `${cleanedTitle} - Engineering prototype concept for MINNAL TECHNOLOGY LAB`;
+    const imageAlt = `${cleanedTitle} - Engineering prototype concept for MINNAL INNOVATIONS`;
     const imagePrompt = generateImagePrompt(rawId, cleanedTitle, group, category);
     const shortDesc = generateAbstract(rawId, cleanedTitle, group, category);
     const tags = generateTags(group, cleanedTitle);

@@ -25,7 +25,7 @@ export const ContactSection: React.FC = () => {
   };
 
   const whatsappMessage = encodeURIComponent(
-    `*NEW PROJECT INQUIRY — MINNAL TECHNOLOGY LAB*\n` +
+    `*NEW PROJECT INQUIRY — MINNAL INNOVATIONS*\n` +
     `---------------------------------------\n` +
     `*Name:* ${name}\n` +
     `*Institution:* ${institution}\n` +
@@ -489,7 +489,7 @@ export const ContactSection: React.FC = () => {
                       Incubation Headquarters
                     </div>
                     <div style={{ fontSize: '0.82rem', color: 'rgba(255, 255, 255, 0.72)', lineHeight: 1.5 }}>
-                      MINNAL TECHNOLOGY LAB, IEDC UKFCET, UKF College of Engineering and Technology, Meenambalam, Puthenkulam P.O., Parippally, Kollam, Kerala — 691574
+                      MINNAL INNOVATIONS, IEDC UKFCET, UKF College of Engineering and Technology, Meenambalam, Puthenkulam P.O., Parippally, Kollam, Kerala — 691574
                     </div>
                   </div>
                 </div>

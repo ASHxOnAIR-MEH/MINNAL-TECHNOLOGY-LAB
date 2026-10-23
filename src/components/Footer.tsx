@@ -63,7 +63,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onExploreProje
                   MINNAL
                 </div>
                 <div style={{ fontSize: '0.64rem', color: 'var(--cyan-400)', textTransform: 'uppercase', letterSpacing: '0.12em', fontWeight: 600 }}>
-                  Technology Lab
+                  Innovations
                 </div>
               </div>
             </div>
@@ -202,7 +202,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onExploreProje
           }}
         >
           <div>
-            &copy; {new Date().getFullYear()} <strong>MINNAL TECHNOLOGY LAB</strong>. All rights reserved. MSME Registered Enterprise.
+            &copy; {new Date().getFullYear()} <strong>MINNAL INNOVATIONS</strong>. All rights reserved. MSME Registered Enterprise.
           </div>
 
           <button

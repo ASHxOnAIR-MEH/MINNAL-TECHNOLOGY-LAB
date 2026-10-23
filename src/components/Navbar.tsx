@@ -123,7 +123,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
                   fontWeight: 600,
                 }}
               >
-                Technology Lab
+                Innovations
               </div>
             </div>
           </a>

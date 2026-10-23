@@ -121,7 +121,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreProjects, onDiscussProject 
               }}
             >
               From student project concepts to working engineering prototypes,{' '}
-              <strong style={{ color: '#FFFFFF', fontWeight: 600 }}>MINNAL TECHNOLOGY LAB</strong> helps schools,
+              <strong style={{ color: '#FFFFFF', fontWeight: 600 }}>MINNAL INNOVATIONS</strong> helps schools,
               colleges, and innovators turn ideas into practical, industry-grade solutions.
             </p>
 

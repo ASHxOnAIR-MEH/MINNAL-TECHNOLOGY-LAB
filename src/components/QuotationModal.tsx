@@ -33,7 +33,7 @@ export const QuotationModal: React.FC<QuotationModalProps> = ({ project, onClose
   };
 
   const formattedWhatsAppText = encodeURIComponent(
-    `*MINNAL TECHNOLOGY LAB — PROJECT ENQUIRY*\n` +
+    `*MINNAL INNOVATIONS — PROJECT ENQUIRY*\n` +
     `--------------------------------------\n` +
     `*Name:* ${name}\n` +
     `*Institution:* ${institution}\n` +

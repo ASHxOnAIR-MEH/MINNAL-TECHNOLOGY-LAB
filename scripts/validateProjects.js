@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-console.log('--- MINNAL TECHNOLOGY LAB: Project Catalogue Validator ---');
+console.log('--- MINNAL INNOVATIONS: Project Catalogue Validator ---');
 
 const projectsPath = path.resolve('src/data/projects.json');
 const categoriesPath = path.resolve('src/data/projectCategories.json');

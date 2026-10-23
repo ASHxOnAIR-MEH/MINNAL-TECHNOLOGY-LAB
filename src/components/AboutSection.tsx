@@ -96,7 +96,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onDiscussProject }) 
           <div>
             <div className="section-badge section-badge-light">
               <Target size={14} />
-              <span>About Minnal Technology Lab</span>
+              <span>About Minnal Innovations</span>
             </div>
 
             <h2
@@ -129,7 +129,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onDiscussProject }) 
                 marginBottom: '24px',
               }}
             >
-              <strong>MINNAL TECHNOLOGY LAB</strong> is an MSME-registered enterprise proudly incubated at the Innovation and Entrepreneurship Development Centre (IEDC), UKF College of Engineering and Technology (UKFCET), Parippally, Kollam, Kerala.
+              <strong>MINNAL INNOVATIONS</strong> is an MSME-registered enterprise proudly incubated at the Innovation and Entrepreneurship Development Centre (IEDC), UKF College of Engineering and Technology (UKFCET), Parippally, Kollam, Kerala.
             </p>
 
             <p
