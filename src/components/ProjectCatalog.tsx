@@ -32,49 +32,51 @@ export const ProjectCatalog: React.FC<ProjectCatalogProps> = ({
   const [activeCategory, setActiveCategory] = useState<string>(selectedCategoryFilter);
   const [activeGroup, setActiveGroup] = useState<string>('All');
   const [sortBy, setSortBy] = useState<'default' | 'id-asc' | 'id-desc' | 'title-asc' | 'title-desc'>('default');
-  const [visibleCount, setVisibleCount] = useState(9);
+  const [visibleCount, setVisibleCount] = useState(12);
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false);
 
   // Sync category if parent changes it
   useEffect(() => {
     if (selectedCategoryFilter) {
       setActiveCategory(selectedCategoryFilter);
-      setVisibleCount(9);
+      setVisibleCount(12);
     }
   }, [selectedCategoryFilter]);
 
   const categories = [
     'All',
-    'Mechanical Projects',
-    'Mechanical & Industrial Innovation',
-    'Robotics & Automation',
-    'IoT & Embedded Systems',
-    'Electronics & Electrical',
-    'Software & Web Development',
-    'Renewable Energy & Sustainability',
+    'Mechanical Engineering Projects',
+    'Mechanical & Industrial Innovation Projects',
+    'PHP / Web Application Projects',
+    'Microcontroller & Electronics Projects',
+    'Robotics & Automation Projects',
+    'Internet of Things (IoT) Projects',
+    'Mechanical Mechanism Projects',
+    'Web & Software Projects',
   ];
 
   const catalogGroups = [
-    { code: 'All', label: 'All Series' },
-    { code: 'MH', label: 'MH (Mech Automations)' },
-    { code: 'MR', label: 'MR (Robotics Systems)' },
-    { code: 'MI', label: 'MI (Mechanical & Industrial)' },
-    { code: 'ME', label: 'ME (Fabrication & Machining)' },
-    { code: 'IOT', label: 'IOT (Edge Telemetry)' },
-    { code: 'EE', label: 'EE (Power & Circuit)' },
-    { code: 'SW', label: 'SW (Software & Data)' },
-    { code: 'RE', label: 'RE (Renewable Systems)' },
+    { code: 'All', label: 'All Series (1,334)' },
+    { code: 'ME', label: 'ME — Mechanical (336)' },
+    { code: 'MI', label: 'MI — Industrial (273)' },
+    { code: 'PHP', label: 'PHP — Web Apps (236)' },
+    { code: 'MC', label: 'MC — Microcontrollers (183)' },
+    { code: 'MR', label: 'MR — Robotics (129)' },
+    { code: 'IOT', label: 'IOT — Connected (77)' },
+    { code: 'MH', label: 'MH — Mechanisms (67)' },
+    { code: 'CWEB', label: 'CWEB — Software (33)' },
   ];
 
   const filteredProjects = useMemo(() => {
     let list = PROJECTS_DATA.filter((project) => {
-      // Category filter (support Mechanical, Mechanical & Industrial Innovation, and others)
+      // Category filter (supports exact official categories and friendly aliases)
       if (activeCategory !== 'All') {
-        if (activeCategory === 'Mechanical Projects') {
+        if (activeCategory === 'Mechanical Projects' || activeCategory === 'Mechanical Engineering') {
           if (
-            project.category !== 'Mechanical Projects' &&
-            project.category !== 'Mechanical Engineering' &&
-            project.category !== 'Mechanical & Industrial Innovation Projects'
+            project.category !== 'Mechanical Engineering Projects' &&
+            project.category !== 'Mechanical Mechanism Projects' &&
+            project.catalogGroup !== 'ME' &&
+            project.catalogGroup !== 'MH'
           ) {
             return false;
           }
@@ -82,6 +84,36 @@ export const ProjectCatalog: React.FC<ProjectCatalogProps> = ({
           if (
             project.category !== 'Mechanical & Industrial Innovation Projects' &&
             project.catalogGroup !== 'MI'
+          ) {
+            return false;
+          }
+        } else if (activeCategory === 'Robotics & Automation') {
+          if (
+            project.category !== 'Robotics & Automation Projects' &&
+            project.catalogGroup !== 'MR'
+          ) {
+            return false;
+          }
+        } else if (activeCategory === 'IoT & Embedded Systems') {
+          if (
+            project.category !== 'Internet of Things (IoT) Projects' &&
+            project.catalogGroup !== 'IOT'
+          ) {
+            return false;
+          }
+        } else if (activeCategory === 'Electronics & Electrical') {
+          if (
+            project.category !== 'Microcontroller & Electronics Projects' &&
+            project.catalogGroup !== 'MC'
+          ) {
+            return false;
+          }
+        } else if (activeCategory === 'Software & Web Development') {
+          if (
+            project.category !== 'Web & Software Projects' &&
+            project.category !== 'PHP / Web Application Projects' &&
+            project.catalogGroup !== 'CWEB' &&
+            project.catalogGroup !== 'PHP'
           ) {
             return false;
           }
@@ -826,7 +858,7 @@ export const ProjectCatalog: React.FC<ProjectCatalogProps> = ({
         {hasMore && (
           <div style={{ textAlign: 'center', marginTop: '48px' }}>
             <button
-              onClick={() => setVisibleCount((prev) => prev + 9)}
+              onClick={() => setVisibleCount((prev) => prev + 12)}
               aria-label="Load more engineering projects"
               style={{
                 display: 'inline-flex',

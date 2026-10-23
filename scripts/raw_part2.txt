@@ -1,0 +1,522 @@
+[Microcontroller & Electronics Projects]
+MC001 — Bidirectional rotation of Single phase induction Motor using remote Control
+MC002 — Railway pedestrian crossing between railway platforms without staircase
+MC003 — On line temperature monitoring of power distribution equipment
+MC004 — Automatic Traffic Controller for Ambulance and VIP Vehicles
+MC005 — Automated toll collection with complex security system
+MC006 — Vehicle Safety Speed Controller under Driver Fatigue using Eye Blink Sensor
+MC007 — Voice Controlled D.C/A.C Motor
+MC008 — Digital lock for electronic devices
+MC009 — Automatic Vehicle over Speed Indication and Controlling System
+MC010 — MEMS based smart and secure Home automation and Home appliances Control
+MC011 — Microcontroller based wireless energy meter
+MC012 — Speech reorganization based locker Security System
+MC013 — Microcontroller based Automatic LPG gas Controller
+MC014 — RFID based identification of ATM card loss
+MC015 — Solar powered SPWM generator for high switching frequency DC / AC inverters
+MC016 — Garden management System by changing climate
+MC017 — Integrated Home service Network on intelligent intranet
+MC018 — Experimental study in Switching of solar cell using Microcontroller
+MC019 — Digital lock Fuel Pump & break locking System for Automobile
+MC020 — Advanced digital wireless automatic vehicle register system for highways
+MC021 — Microcontroller based remote Controlled fan Speed Controller
+MC022 — Touch screen based Light and Fan Control System
+MC023 — Automatic employee tracking system using ZIGBEE network and I2C memory card reader
+MC024 — Automatic theater sheet positioning System
+MC025 — Automatic Conveyor based rice batching Machine
+MC026 — Coin Based Mobile Phone Charger
+MC027 — RFID based ignition Control System for Vehicles
+MC028 — Involuntary toll gate System for Vehicle traffic management
+MC029 — Automatic Traffic and Street Light Controlling System
+MC030 — Shoe Size measuring equipment using IR Sensor
+MC031 — Microcontroller based wireless Windmill Monitoring
+MC032 — Energy Management and Warning System for Resident
+MC033 — Microcontroller based smart cradle with timer
+MC034 — PC controlled advanced wireless robot vehicle with camera for bomb detection / human surveillance application for dangerous areas
+MC035 — Wheel chair operated by voice and hand
+MC036 — Automatic Street light Controller
+MC037 — Automatic Moisture and Light Control System for Garden
+MC038 — Automated Irrigation System Using a Wireless Sensor Network and GPRS Module
+MC039 — Prepaid card for Electronic Bus fare System
+MC040 — Oil well health monitoring by using sensor
+MC041 — Distance calculation for underground cable fault
+MC042 — A vehicle-to-vehicle communication protocol for cooperative collision warning
+MC043 — Digital locking System (Password) for Two Wheeler
+MC044 — GPS and GSM based real time bus/train location finder and display on earth's map
+MC045 — Boiler automation with Digital steam Power plant
+MC046 — Object detection and Vibration alert to blind people
+MC047 — Automatic Vehicle overload alert System
+MC048 — Automatic Plant Humidification for Textile Industries
+MC049 — Energy Billing Through Power Line Carrier Communication
+MC050 — IVRS based Students Mark Annunciation for their Parents
+MC051 — Automatic Idli batter filling Mechanism
+MC052 — Solar Powered DC To DC Buck-Boost Converter with MPPT Control
+MC053 — Automatic pollution detection and Monitoring System using carbon sensors
+MC054 — MOSFET based Current Mode Control Buck / Boost Converter
+MC055 — SCADA for A.C Motor Controller with IGBT
+MC056 — Controlling of transformer from substation
+MC057 — Finger print authenticated, access control & automated door opening system
+MC058 — Microcontroller based Automated Pet feeder for dog
+MC059 — Automatic Car washing System by using IR Sensor
+MC060 — Microcontroller based web camera positioning System
+MC061 — Automated Guided Vehicle (AGV)
+MC062 — Development of a model for Electronic check post
+MC063 — Real Time Passenger Information System (RTPIS) using ZIGBEE Technology
+MC064 — Automatic load sharer for transformer
+MC065 — Highway car accident identification and auto communication to patrol or hospital
+MC066 — Automatic attendance Monitoring and Light ON/OFF System
+MC067 — Microcontroller based carbon monoxide level warning System
+MC068 — Automatic Track Guided Vehicle (ATGV)
+MC069 — Guardhouse visitor screening security system
+MC070 — Intelligent public transport system - bus status - arriving / leaving / breakdown indication system in the bus stop
+MC071 — Wireless based railway bridge damage or track fault notification with alarm systems
+MC072 — CAN Based Energy Billing System
+MC073 — Automatic touch screen based vehicle driving system
+MC074 — Automatic Mirror adjustment System for Car by using Sensor
+MC075 — Microcontroller Based Magnetically levitated train/Aero plane
+MC076 — Remote distribution transformer Monitoring and Controlling System using F.M
+MC077 — Sensor less Operation of Brushless DC Motor Drive using Back EMF Technique
+MC078 — Microcontroller based intelligent Security System for apartments or ban with police Control
+MC079 — Automatic vehicle toll collection & gate entry exit system using RFID
+MC080 — Microcontroller Based 3D led cube
+MC081 — Vehicle tracking using acoustic & view sensors
+MC082 — Automatic auditorium Controlling System
+MC083 — Microcontroller based talking key pad for blind people
+MC084 — Front vehicle monitoring system with accident preventer
+MC085 — Robotic exploration in under water with remote RF controller and 2.4 Ghz automatic IR cameras for night vision and remote receiver
+MC086 — Intelligent Power Sharing of Transformers with Auto Protection
+MC087 — Automatic Speed breaker on time demand
+MC088 — Temperature and Respiration Monitoring System
+MC089 — Automated urban drinking water supply System
+MC090 — PIR based human focus light movement
+MC091 — Image based password authentication for Security System
+MC092 — A service of Home Security System on intelligent Network
+MC093 — Finger print based ATM authentication & money management system
+MC094 — Microcontroller Based Building Security System
+MC095 — Automatic drunken drive Avoiding System for automobile
+MC096 — Automatic station alert System in train
+MC097 — Microcontroller based fire and smoke based water dispensing System
+MC098 — Signal transmission by galvanic coupling through the human body
+MC099 — Automatic Gas leakage detection and auto dialing
+MC100 — Monitoring Wind Turbine Using Wi-Fi Network For Reliable Communication
+MC101 — Automatic gas pipe lining System for apartments
+MC102 — Automatic power factor Controlling System
+MC103 — People / visitors tracking and management with area localization / monitoring and warning system using E-ticket and super RFID for amusement park / child care / play school in real time
+MC104 — Microcontroller Based Prepaid card for petrol bunk
+MC105 — A PID Controller for Real Time D.C Motor Speed Control
+MC106 — Adding new functions to the remote airfield lighting System
+MC107 — Smart Sensor with CAN Bus
+MC108 — Automatic multiple transformer fault detection and production System
+MC109 — Microcontroller based mini-computer dictionary
+MC110 — Driver fatigue accident prevention using eye blink sensor
+MC111 — Automatic Water Level Indicator and Controlling System
+MC112 — Automatic extra Wheel balancing System for Two Wheeler
+MC113 — Fully automatic intelligent wireless remote railway gate controller & monitoring system with remote train stopper for railway using active RFID system
+MC114 — Solar grass Cutter with Automatic sun tracking System
+MC115 — Voice operated Home appliances Controlling System
+MC116 — Automatic Shopping & Billing in Super Market
+MC117 — Intelligent briefcase with digital code lock and shock generator during unauthorized access
+MC118 — Temperature Monitoring System in cupola furnace
+MC119 — Ultrasonic based Vehicle Parking Guidance System
+MC120 — PWM Based Three Phase Induction Motor Speed Controller
+MC121 — Automatic drip Irrigation depends upon moisture using Solar PV cell
+MC122 — Analysis and design of a push-pull quasi-resonant boost power factor corrector
+MC123 — Ethernet based Home/industrial automation and Controlling System
+MC124 — Microcontroller based Smart Bike
+MC125 — Development of an FPGA-Based SPWM Generator for High Switching Frequency DC/AC Inverters
+MC126 — Highway Car Accident Identification and Auto Communication to Patrol or Hospital
+MC127 — Microcontroller based automatic weighing and sealing Machine
+MC128 — Driver Fatigue Accident Prevention using Eye Blink Sensor
+MC129 — Automatic Water overflow Controlling System
+MC130 — A Zero-Crossing Noise Filter for Driving Synchronous Rectifiers of LLC Resonant Converter
+MC131 — Unaided Guided Vehicle (UGV)
+MC132 — Wireless printer by using laser communication
+MC133 — Automatic wallet parking System
+MC134 — Touch screen based dancing Lights
+MC135 — Locker security system with SMS informer to police station and owner
+MC136 — Crack detection System for railway track by using ultrasonic and PIR sensor
+MC137 — Microcontroller based Semi-Automatic water tank cleaner
+MC138 — Power Generation from sea water by MHD Power Generation method
+MC139 — Real time Monitoring and protection of coal conveyor using Microcontroller
+MC140 — Modern wireless entry / exit register & alarm display system for advanced amusement park
+MC141 — Automatic steering Control System for Automobile
+MC142 — Automatic fire safety System for Fuel tank and Engine
+MC143 — Two Wheeler Starter Motor over running Prevention
+MC144 — ZIGBEE - college / industry - wireless network and data synchronization using hand held device
+MC145 — Digital Fuel Level & Tyre pressure indication System
+MC146 — Automatic touch Screen based Vehicle Driving System
+MC147 — A low-cost solution for an integrated multi sensor lane departure warning system
+MC148 — Solid state direct online starter for medium voltage three phase induction Motor with soft start operation
+MC149 — Automatic Electronic Bus Fare System
+MC150 — Electrical energy produces by Vibration by using Foot step method
+MC151 — An automatic collision detection and acceleration control using multi zone transmission and reception through RF technology and GSM communication
+MC152 — Automatic gate Open and Close System by using IR Sensor
+MC153 — Person identification system - RFID system used for tracking & authentication purposes applying back scattering technology
+MC154 — Automatic Train Station Announcement with Bomb Detection System
+MC155 — Wireless traffic system with speed controller for vehicles
+MC156 — Computing optimal scheduling of battery usage in embedded System
+MC157 — Voice based room light and fan Controlling System for physically challenged people
+MC158 — Bus Identification System For Visually Impaired People
+MC159 — Automatic shopping & billing in super market
+MC160 — Finger print and Bar Code Scanner based voting machine
+MC161 — Automatic Agarbhatti stick counting Machine
+MC162 — Transformer less grid feeding current source inverting for solar photovoltaic inverter
+MC163 — Conveyor automation with Dimension inspection
+MC164 — Paperless circular with password security
+MC165 — Finger Print based ATM Authentication & Money Management System
+MC166 — Securing E-passport
+MC167 — GSM based home security system to get intrusion alerts like door/windows open alerts onto your cell phone
+MC168 — Microcontroller based Automatic Power theft identifier
+MC169 — Automatic Over load indicator for Bridge
+MC170 — Embedded based customized wireless message circular System for college / industries
+MC171 — Automatic signal Indicator for Vehicles in Hairpin Bend
+MC172 — Microcontroller based windmill Monitoring using internet
+MC173 — Automatic cell phone detector and mute switch for TV / DVD
+MC174 — Automatic Line fault detection in distribution side
+MC175 — Microcontroller based Automatic Rotary water Bottle filling System
+MC176 — Motion activated power saving system using MEMS accelerometer and I2C protocol
+MC177 — Industrial Parameter Monitoring and Controlling Using GSM and Web Server
+MC178 — A personal authentication based on IRIS recognition
+MC179 — Involuntary station name Display with voice attentive System for train
+MC180 — Anti-theft break locking with Remote Control System
+MC181 — MPPT Control strategy for Wind energy conversion System
+MC182 — Microcontroller Based Fire Fighting AGV
+MC183 — Moving Person Place (MPP) Detecting System
+
+[Mechanical Engineering Projects]
+ME001 — Design and fabrication of domestic incinerator or sanitary napkin crushing and burning disposal Incinerator machine
+ME002 — Trash Removal system in water bodies/Canals
+ME003 — Automatic fertilizer mixing machine using PLC
+ME004 — Automatic Murukku / String Hopper machine
+ME005 — Waste Plastic converted into plastic brick / tiles making machine
+ME006 — Solar powered soil digging with grass cutter and water spraying vehicle
+ME007 — Semi-Automatic Hole Depth Measurement And Pothole Filling machine
+ME008 — One side hacksaw and another side shaping machine by using scotch yoke mechanism
+ME009 — Water well drilling rig
+ME010 — IOT based material dimension checking and rejection system
+ME011 — Motorized shaper and slotter in a single Machine
+ME012 — Automatic Gear milling Machine using proximity sensor
+ME013 — Waste plastic converted into power generation
+ME014 — Solar panel cleaning with water spraying machine
+ME015 — Drone Catching Gun / Air powered net Gun
+ME016 — Remote controlled Double axis Motorized Crane
+ME017 — Motorized Pipe/wood Cutting Machine using quick return Mechanism
+ME018 — Centrifugal spinning machine to produce Nano fiber
+ME019 — 360 degree Tilting ceiling fan
+ME020 — Smart step for children and aged people
+ME021 — Automatic weighing and packing machine with auto rejection
+ME022 — Motorized Hack saw cutting and grinding Machine
+ME023 — Banana Fiber Extracting Machine
+ME024 — Abrasive Jet Machine
+ME025 — Automatic Motorized Drilling and Tapping Machine
+ME026 — Semi-automatic Hydraulic cast iron cutting machine
+ME027 — Coconut/Areca nut tree climbing and cutting Machine
+ME028 — Low cost Key duplicating Machine
+ME029 — Solar based sand filter machine / solar sand sieving machine
+ME030 — Automatic onion/Tomato/potato sorting machine
+ME031 — Automatic sweeping dust collecting Vehicle
+ME032 — Dual type grinding Machine
+ME033 — Solar powered drainage cleaning machine
+ME034 — Pneumatic multi Axis Welding Machine
+ME035 — Pneumatic Coconut Husk remover & Shell Cutter
+ME036 — Solar powered electric tiller Machine
+ME037 — Motorized 3 axis CNC Friction welding machine
+ME038 — Automatic plastic, wood and metal separation (shorting) machine
+ME039 — Automated paper plate Feeding and making Machine
+ME040 — Bio fertilizer unit from food waste (Food Shredder with dryer)
+ME041 — Pneumatic Spring End Grinding Machine
+ME042 — Pedal operated organic (food) waste crushing machine
+ME043 — Motorized hammer by using VINCI cam mechanism
+ME044 — 360 degree remote/Mobile controlled fork lifting mechanism
+ME045 — Motorized clay, dust and water removing and cleaning machine after floods
+ME046 — Mechanical paint stirrer/mixer
+ME047 — Vacuum conveyor for industrial Application
+ME048 — Automatic work piece inspection cum counting conveyer
+ME049 — Pneumatic Machining Time Reduction in Shaping Machine
+ME050 — Metal polishing / shot blasting by using Abrasive jet Machine
+ME051 — Activated Carbon Manufacturing Plant
+ME052 — External and internal grinding attachment for lathe
+ME053 — Automatic chocolate/water bottle dispensing Machine
+ME054 — Semi-Automatic Tea/coffee glass cleaning machine
+ME055 — Coconut tree sprayer
+ME056 — Automatic high speed portable Pipe feeding and cutting Machine
+ME057 — Time Reduction for Duplex milling Machine
+ME058 — Pantograph duplicate wood grooving/milling machine
+ME059 — Fabrication of motorized greasing machine
+ME060 — Coconut shredder with squeezer / Coconut scrapper cum milk extraction machine
+ME061 — Pin on Disc Wear Testing machine with speed control
+ME062 — Motorized Portable Slotting Machine
+ME063 — Fabrication of porter governor
+ME064 — Automatic paper feeding and Pneumatic sealing Machine
+ME065 — Magnetic Power Transmission and power Generation system
+ME066 — Electrical Power Generation from Waste oil burning System
+ME067 — Pneumatic Hack saw Machine with shaping attachment
+ME068 — Pedal powered threshing cum milling machine
+ME069 — Hydraulic Machine vice with power pack
+ME070 — Scotch yoke mechanism based single side water pumping system
+ME071 — Pneumatic Plastic bottle crusher by using heater
+ME072 — Double drum wet grinder
+ME073 — Pneumatic belt Conveyor
+ME074 — Pedal operated scotch yoke mechanism based water pumping system
+ME075 — Ginger cutting, feeding and drying Machine
+ME076 — Automatic Dosa / Appam making Machine
+ME077 — Agricultural model pump for garden
+ME078 — Push type (drum type) seed sowing machine
+ME079 — Sugarcane skin de-husker Machine / Cane pealing machine
+ME080 — Combined form of Multi-operational buffing machine
+ME081 — Pedal operated Washing Machine for Cloth
+ME082 — Motorized semi-automatic specimen making machine
+ME083 — Coin based Automatic shoe polishing Machine
+ME084 — Mechanical CAN crusher by using quick return Mechanism
+ME085 — Pedal/Foot operated hydro Pneumatic vice
+ME086 — Automatic Quick tool Retrieval System for Industry
+ME087 — Mini Paddy rice harvesting and threshing Machine
+ME088 — Automatic slow and high speed Ventilation system
+ME089 — Semi-automatic Shell core making and painting machine
+ME090 — Power production and Water pumping from Speed Breaker
+ME091 — Motorized Tomato Pick and place harvester Machine
+ME092 — Friction stir welding Machine
+ME093 — Pedal operated biomass briquetting Machine
+ME094 — Remote controlled motorized zip crane
+ME095 — Electro-magnetic paint dipping machine with dryer
+ME096 — Automatic 3 Axis CNC milling/drilling Machine
+ME097 — Hack saw cutter by using width work Mechanism
+ME098 — Eccentric Motorized punching/cutting Machine
+ME099 — Combined model of Plastic brick and 3d film making machine
+ME100 — Virgin coconut oil extraction machine
+ME101 — Hydraulic/Pneumatic spiral punching machine
+ME102 — Pneumatic slotting and drilling machine
+ME103 — Motorized Gear type Injection Moulding Machine
+ME104 — Sewage Water treatment plant
+ME105 — Ceiling fan cleaning machine
+ME106 — Combined model of Pneumatic TMT rod bending cum roller bending Machine
+ME107 — Motorized metal chip crushing Machine
+ME108 — Hydro-Pneumatic crane with pressure booster
+ME109 — Pedal dish (Plate) Washing Machine
+ME110 — Eccentric motorized pipe/sheet cutting Machine
+ME111 — Single side hack saw cutting by scotch yoke mechanism
+ME112 — Automatic multi point grease Gun
+ME113 — Automatic Idli batter filling Mechanism
+ME114 — Waste water treatment in washing machine
+ME115 — Nutmeg Shell removing (Threshing) machine
+ME116 — Accident preventing System in cutting / Punching Machine
+ME117 — Contour/concave Turning Attachment for Lathe
+ME118 — Electronic Weighing Jug
+ME119 — Motorized Eccentric Forging/hammering Machine
+ME120 — Multi-utility Agriculture vehicle for Grass cutting, digger and tiller
+ME121 — Motorized eccentric spiral punching machine
+ME122 — Hydro Power plant with salt Water purification System
+ME123 — Automatic bearing implanter with counting machine
+ME124 — Pneumatic auto feed Drilling/Grinding Machine
+ME125 — 360 degree rotation with speed control of Football/cricket ball kicking machine
+ME126 — Manual operated hydraulic bailing machine
+ME127 — Shaft run out checker Machine
+ME128 — Pneumatic potato chips making Machine
+ME129 — Automatic Dry waste shorting machine
+ME130 — Multi-purpose Pneumatic grinding Machine
+ME131 — Motorized screw conveyor for material transport
+ME132 — Automatic Multi Spindle drilling machine
+ME133 — Solar powered mini Paddy Rice milling machine
+ME134 — Tilting swivel Vice
+ME135 — Engine/Motor Powered Sugarcane harvesting machine
+ME136 — Pedal operated hack saw and grinding Machine
+ME137 — Motorized / Pneumatic 360 degree flexible drilling and tapping machine
+ME138 — Vacuum based Paddy/Grain collecting cum weight based packing system
+ME139 — Sensor based Automatic Shoe cleaning cum polishing machine
+ME140 — Pepper thresher Machine
+ME141 — Double coil Dewaxing Machine
+ME142 — Semi-automatic tiles laying Machine
+ME143 — Fabrication of Rotary Kaller
+ME144 — Tesla Turbine with load test
+ME145 — Electro-Magnetic Scrap and Dust collecting Vehicle
+ME146 — Automatic Pneumatic Slotting Machine
+ME147 — Three in one waste plastic collecting and crushing and shorting machine
+ME148 — Sheet metal rolling Machine with accident avoiding System
+ME149 — IR lamp based melting Furnace
+ME150 — Dual side water pumping by crank and slotted link mechanism
+ME151 — Pedal cranking mechanism for paddy wheat threshing Machine
+ME152 — Single shaft cloth shredder
+ME153 — Automatic Fault Egg sorting Machine
+ME154 — Mechanical Pump by using Kaplan turbine
+ME155 — Mini hacksaw powered beam engine
+ME156 — Kitchen waste decomposition cum crushing machine
+ME157 — Jominy End quench test Apparatus
+ME158 — Mechanical Seed crushing Machine
+ME159 — Pneumatic exoskeleton for total body with DC compressor / Pneumatic powered human arm exoskeleton
+ME160 — Automatic rubber sheet drying machine with temperature control
+ME161 — Automatic Paper/sheet metal feeding and punching Machine
+ME162 — Motorized spring rolling Machine
+ME163 — Salt water purification by Steam Method
+ME164 — Single motor Multi-stage sand filter cum separator machine
+ME165 — Automatic vada / bhaji making machine
+ME166 — Multiple operation Hack saw cutting, drilling, Grinding and shaping in a single Machine
+ME167 — Human Powered Auto Charging Grinding Machine
+ME168 — Pneumatic/Engine ground driller
+ME169 — Double side hack saw Machine by using scotch yoke mechanism
+ME170 — Waste Paper recycling machine
+ME171 — Removal of dyes from textile waste water by using activated carbon
+ME172 — Motorized three axis coconut scraping Machine
+ME173 — Coconut shell/Plastic Crushing machine
+ME174 — joystick controlled wall glass cleaning machine
+ME175 — Solar Air dryer with automatic temperature cut off system
+ME176 — Bio-mass briquette pellet making machine with heater
+ME177 — Automatic quantity based Electrical incinerator cum aqua silencer
+ME178 — Automatic scrap collecting & Disposing Machine
+ME179 — Scissor lifting wheel chair / pneumatic lifting wheel chair
+ME180 — Beans Sheller Machine
+ME181 — Coconut fiber extraction Machine
+ME182 — Multi-purpose mini slog Cutting Machine
+ME183 — Fitness equipment for localized electrical Power Generation
+ME184 — Automatic pneumatic Pineapple Peeling machine
+ME185 — Pedal operated drilling, grinding and mobile charging machine
+ME186 — Load bearing suit for soldiers
+ME187 — IoT based pneumatic wall climber
+ME188 — Dual side shaping machine by using scotch yoke Mechanism
+ME189 — Automatic Motorized Three axis Gas cutting machine
+ME190 — Multi-purpose Agro Machine for Seed sowing with weed remover and fertilizer sprayer
+ME191 — Floating Plastic waste collector from river
+ME192 — Uni-Mill for lathe / milling attachment for lathe
+ME193 — Foldable conveyor with height adjustment
+ME194 — Automatic stamping machine by scotch yoke mechanism
+ME195 — Pneumatic double axis excavator Arm/Crane
+ME196 — Pneumatic bus door expansion system / Easy Lift Stairs Elderly And Physically Challenged Passengers
+ME197 — Oxygen and temperature sensor based home door open and close system with SMS alert
+ME198 — Waste Plastic separation and crushing for municipal solid waste
+ME199 — Wood splitting machine by using slider crank mechanism
+ME200 — Extraction of mercury from CFL waste
+ME201 — Semi-automatic copra coconut cutting machine
+ME202 — Automatic CPR Medical Machine for Heart Patient
+ME203 — Four way hack saw machine with automatic Stop
+ME204 — Welding slag cleaning Machine
+ME205 — Conveyor Automation
+ME206 — Punching Machine using width worth Quick return mechanism
+ME207 — Waste plastic crushing and Pneumatic Injection Moulding Machine
+ME208 — Automatic Foot Dust Cleaning Machine
+ME209 — Fly Wheel based Water pumping System
+ME210 — Pedal operated wet grinder with Cell phone charger
+ME211 — Three axis Hydraulic/pneumatic Modern Trailer
+ME212 — Automatic bar code sensor based news paper wending machine
+ME213 — Rubber tree tapping Machine
+ME214 — Manual operated plate bending machine
+ME215 — Motorized Electrode flux removing Machine
+ME216 — Fully Automated potato Chip Slice making Machine
+ME217 — Automatic Pneumatic sheet metal feeding and cutting Machine
+ME218 — Copra dry coconut de-shelling machine
+ME219 — Pneumatic garage door opener
+ME220 — Pedal operated vertical Hack saw Machine
+ME221 — Pneumatic fork lift mechanism
+ME222 — Motorized Wall Cement spraying/laying machine
+ME223 — Pneumatic sand sieving machine
+ME224 — Waste plastic into 3d printer filament making machine
+ME225 — Semi-Automated Areca Nut collecting conveyor
+ME226 — Motorized Roller bending machine
+ME227 — Pedestal Spot Welding Machine
+ME228 — Pendulum based Water pumping System
+ME229 — Conveyor for quality control Machine
+ME230 — Motorized reciprocating water pumping system
+ME231 — Semi-automatic Pneumatic Knockout Machine
+ME232 — Torsion (spring) testing Machine
+ME233 — Sand level control in core shooter hopper using sensors
+ME234 — Coin Separator/shorter Machine
+ME235 — Pedal powered blender / Mixie
+ME236 — Automatic T-Shirt folding Machine
+ME237 — Pedal operated CAN crushing Machine
+ME238 — Solar scroll saw machine / Solar switch board cutter
+ME239 — Soldiers Bag Weight Reduction System
+ME240 — Hydraulic clamping device (Vice) with power pack
+ME241 — Automatic Motorized paper cup and paper plate making machine
+ME242 — Fully automated chapatti making Machine
+ME243 — Electrical Power Generation from Kaplan / Francis / Pelton wheel turbine
+ME244 — Pneumatic (hydraulic) TMT rod bending machine
+ME245 — Motorized groundnut seed sowing Machine
+ME246 — Eccentric Sheet/Paper Cutting Machine
+ME247 — Automatic vertical Board cleaner
+ME248 — Remote controlled Sweeping dust collecting Machine
+ME249 — Button operated Pneumatic mobile crane
+ME250 — Automatic Intelligent ingot feeder for pick and place operation
+ME251 — Automatic paint spraying pick and place Equipment
+ME252 — Horizontal and vertical tiles cleaner
+ME253 — Multiple Cam operated multiple operations Machine
+ME254 — Pneumatic Gear tooth grinding Machine
+ME255 — Water treatment by using electro-magnetic conditioning system
+ME256 — Automatic Pneumatic Drilling and Tapping machine
+ME257 — Six bar slider crank hammer
+ME258 — Motorized Tender coconut peeling machine
+ME259 — Mini vertical Lathe
+ME260 — Pressure pump for automobile vehicle cleaning cum washing machine
+ME261 — Automatic Colour code sensing and punching Machine
+ME262 — Hand operated Edge folding Machine
+ME263 — Organic Waste Chopping Machine to Obtain Compost
+ME264 — Pipeline Cleaning Robot
+ME265 — Belt model based stair climbing Wheel chair
+ME266 — Multi-angular (Variable angular) gearless drive drilling machine
+ME267 — Multi Operation Machine (Hack saw and shaping) by using cam Mechanism
+ME268 — Motorized High Speed Four way hack saw Machine
+ME269 — Hydraulic/Pneumatic bearing press/Puller
+ME270 — Paper Bailing Machine
+ME271 — Pedal operated Cell phone Charger
+ME272 — Automatic punching Machine by using Geneva mechanism
+ME273 — Automatic vegetable/lemon cutting Machine
+ME274 — Hydraulic/Pneumatic sheet metal cutting machine
+ME275 — Motorized biomass briquetting Machine
+ME276 — Bore well child rescuing Machine
+ME277 — Motorized two in one Coconut cutting cum scrapping machine
+ME278 — Hydraulic/Pneumatic Pipe/TMT Rod Bending Machine
+ME279 — Automatic Pneumatic Bar Bending Machine
+ME280 — Automatic Conveyor based Water Bottle filling Machine
+ME281 — Three Axis CNC Drilling/milling Machine
+ME282 — Motorized hole digging machine / Solar operated hole digger machine
+ME283 — Pedal operated air Compressor
+ME284 — Semi-Automatic open well/overhead tank cleaning machine
+ME285 — Motorized Sheet metal Rolling Machine
+ME286 — Ginger/Onion Harvesting machine
+ME287 — Pneumatic/Hydraulic Paper cup making Machine
+ME288 — Automatic paper cutting using Geneva mechanism
+ME289 — Staircase/Step climbing Transporter/Trolley
+ME290 — Electro-Mechanical ladder
+ME291 — Pedal operated Hacksaw with mobile phone charge
+ME292 — Geneva conveyer with Pneumatic pin punch
+ME293 — Metal and non-metal separation system for Waste segregator
+ME294 — Multiple operation machine - Drilling, hack sawing and shaping
+ME295 — Fabrication of Inspection Conveyor
+ME296 — Mobile controlled solar Beach cleaning machine
+ME297 — Automatic waste paper recycling machine
+ME298 — Automatic paper bag making machine
+ME299 — Conveyor for Material dimension checking System
+ME300 — Potato (ginger / onion) peeling and slicing or cutting machine
+ME301 — Remote controlled floor cleaning Machine
+ME302 — Motorized triangular air Compressor with common compression chamber
+ME303 — Plastic shredder cum gear type injection moulding machine
+ME304 — Air Compressor using quick return Mechanism
+ME305 — Automatic solar grass cutting machine
+ME306 — Pedal operated drilling and Grinding Machine
+ME307 — Automated two axis welding machine
+ME308 — Square hole drilling Machine
+ME309 — Pneumatic CAN crusher with Automatic feeding Mechanism
+ME310 — Motorized Coconut De-husking Machine
+ME311 — Motorized Sand sieving and cement mixing machine
+ME312 — Automatic Motorized dual side CAN crusher
+ME313 — Automatic Pneumatic sheet/bar bending Machine
+ME314 — Hydraulic/Pneumatic Bending and Bend Removing Machine
+ME315 — Auto Indexing Gear cutting attachment for Pneumatic shaping Machine
+ME316 — 360 degree flexible Pneumatic Drilling Machine
+ME317 — Dual side Water pumping System by using scotch yoke mechanism
+ME318 — Automatic wall painting Machine
+ME319 — Vertical Lift Mechanism for Kattwyk Bridge
+ME320 — Automatic Pneumatic Hole punching Machine
+ME321 — Automatic Box shifting by four Bar Mechanism
+ME322 — Born (coconut shell) shredder / Plastic shredder
+ME323 — Multipurpose eco- friendly road cleaning machine
+ME324 — Bio-Diesel extraction from waste plastic material
+ME325 — Pedal operated plate cleaning Machine with Dryer
+ME326 — Automatic timing based Pneumatic TMT bar/rod bending machine
+ME327 — Multifunctional machine for cutting, shaping, grinding and drilling
+ME328 — Multipurpose Keyway milling Attachments in Lathe
+ME329 — Automatic roller based wall painting machine
+ME330 — Solar remote control Seed Sowing Machine
+ME331 — Motorized double axis drilling Machine
+ME332 — Semi-Automatic feeding Mechanism for small scale Poultry Farm
+ME333 — Multipurpose Seed Sowing, weed removing cum water spraying Machine
+ME334 — Drilling and grinding operation by using multiple gearless power transmission
+ME335 — Multi spindle drilling head machine
+ME336 — Groundnut Shelling and Separating Machine

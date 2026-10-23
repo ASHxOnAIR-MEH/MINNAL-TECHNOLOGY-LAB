@@ -11,51 +11,67 @@ export interface CategoryInfo {
 
 export const CATEGORIES_DATA: CategoryInfo[] = [
   {
-    id: 'IoT & Embedded Systems',
-    title: 'IoT & Embedded Systems',
-    badge: 'Reigniting Connected Systems',
-    shortDescription: 'Smart microcontrollers, wireless sensor networks, edge telemetry, and real-time remote cloud control.',
-    image: '/images/cat_iot.jpg',
-    sampleCount: 28
-  },
-  {
-    id: 'Robotics & Automation',
-    title: 'Robotics & Automation',
-    badge: 'Bridging Autonomous Action',
-    shortDescription: 'Autonomous mobile rovers, multi-axis robotic arms, precision LiDAR navigation, and industrial automation.',
-    image: '/images/cat_robotics.jpg',
-    sampleCount: 22
-  },
-  {
-    id: 'Mechanical Engineering',
+    id: 'Mechanical Engineering Projects',
     title: 'Mechanical Engineering',
-    badge: 'Precision In Motion',
-    shortDescription: 'Kinematic mechanism models, CNC precision assemblies, planetary gear systems, and dynamic mechanical rigs.',
+    badge: 'ME Series · 336 Projects',
+    shortDescription: 'Special-purpose machines, agricultural automation, material processing rigs, cutting mechanisms, and CNC fabrication prototypes.',
     image: '/images/cat_mech.jpg',
-    sampleCount: 19
+    sampleCount: 336
   },
   {
-    id: 'Electronics & Electrical',
-    title: 'Electronics & Electrical',
-    badge: 'Power & Circuit Architecture',
-    shortDescription: 'Analog signal conditioning, power electronic converters, thermistor alarms, and closed-loop motor drivers.',
-    image: '/images/cat_elec.jpg',
-    sampleCount: 24
+    id: 'Mechanical & Industrial Innovation Projects',
+    title: 'Industrial Innovation',
+    badge: 'MI Series · 273 Projects',
+    shortDescription: 'Hydraulic and pneumatic jacks, workshop tooling, power generation rigs, safety braking systems, and shopfloor equipment.',
+    image: '/images/cat_mech.jpg',
+    sampleCount: 273
   },
   {
-    id: 'Software & Web Development',
-    title: 'Software & Web Development',
-    badge: 'Engineering Digital Platforms',
-    shortDescription: 'Full-stack engineering telemetry dashboards, C algorithm engines, institutional management systems, and APIs.',
+    id: 'PHP / Web Application Projects',
+    title: 'PHP & Web Applications',
+    badge: 'PHP Series · 236 Projects',
+    shortDescription: 'Enterprise portal management systems, online booking portals, institutional databases, and full-stack CRUD applications.',
     image: '/images/cat_software.jpg',
-    sampleCount: 18
+    sampleCount: 236
   },
   {
-    id: 'Renewable Energy & Sustainability',
-    title: 'Renewable Energy & Sustainability',
-    badge: 'Green Tech Innovation',
-    shortDescription: 'Single and dual-axis solar tracking rigs, micro-hydro generators, and intelligent power optimization setups.',
-    image: '/images/cat_renew.jpg',
-    sampleCount: 15
+    id: 'Microcontroller & Electronics Projects',
+    title: 'Microcontroller & Electronics',
+    badge: 'MC Series · 183 Projects',
+    shortDescription: 'Embedded motor control, sensor-based safety monitors, RF/GSM tracking, power converters, and intelligent automation systems.',
+    image: '/images/cat_elec.jpg',
+    sampleCount: 183
+  },
+  {
+    id: 'Robotics & Automation Projects',
+    title: 'Robotics & Automation',
+    badge: 'MR Series · 129 Projects',
+    shortDescription: 'Autonomous mobile robots, stair-climbing wheelchairs, multi-axis robotic arms, firefighting AGVs, and bipedal walkers.',
+    image: '/images/cat_robotics.jpg',
+    sampleCount: 129
+  },
+  {
+    id: 'Internet of Things (IoT) Projects',
+    title: 'Internet of Things (IoT)',
+    badge: 'IOT Series · 77 Projects',
+    shortDescription: 'Connected smart devices, environmental sensor nodes, edge computing rigs, and cloud telemetry monitoring systems.',
+    image: '/images/cat_iot.jpg',
+    sampleCount: 77
+  },
+  {
+    id: 'Mechanical Mechanism Projects',
+    title: 'Mechanical Mechanisms',
+    badge: 'MH Series · 67 Projects',
+    shortDescription: 'Scotch yoke linkages, Geneva indexing drives, Whitworth quick-return mechanisms, and gearless power transmissions.',
+    image: '/images/cat_mech.jpg',
+    sampleCount: 67
+  },
+  {
+    id: 'Web & Software Projects',
+    title: 'Web & Software Systems',
+    badge: 'CWEB Series · 33 Projects',
+    shortDescription: 'Full-stack software architectures, graphical authentication, decision prediction models, and cloud database engines.',
+    image: '/images/cat_software.jpg',
+    sampleCount: 33
   }
 ];

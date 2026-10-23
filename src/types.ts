@@ -1,12 +1,19 @@
 export type ProjectCategory = 
+  | 'Web & Software Projects'
+  | 'PHP / Web Application Projects'
+  | 'Internet of Things (IoT) Projects'
+  | 'Microcontroller & Electronics Projects'
+  | 'Mechanical Engineering Projects'
+  | 'Mechanical & Industrial Innovation Projects'
+  | 'Mechanical Mechanism Projects'
+  | 'Robotics & Automation Projects'
   | 'Mechanical Engineering'
   | 'Mechanical Projects'
-  | 'Mechanical & Industrial Innovation Projects'
   | 'IoT & Embedded Systems'
   | 'Electronics & Electrical'
-  | 'Robotics & Automation'
   | 'Software & Web Development'
-  | 'Renewable Energy & Sustainability';
+  | 'Renewable Energy & Sustainability'
+  | string;
 
 export type ProjectComplexity = 
   | 'Mini Project (S3-S5)'

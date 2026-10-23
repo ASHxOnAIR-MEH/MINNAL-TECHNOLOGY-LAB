@@ -1,0 +1,351 @@
+[Web & Software Projects]
+CWEB001 — Web based Graphical Password Authentication System
+CWEB002 — Student Information System
+CWEB003 — Employee Tracking System
+CWEB004 — Agri Shop: Farmers Online Selling Application
+CWEB005 — Library App - Library Management System
+CWEB006 — Telephone Billing System
+CWEB007 — Inventory Management system
+CWEB008 — Online Election System
+CWEB009 — Vehicle management system
+CWEB010 — Doctor Appointment Booking System
+CWEB011 — Insurance Database
+CWEB012 — SQL based Employee Management System
+CWEB013 — Result alert system with E-mail and SMS
+CWEB014 — Hospital Appointment Booking and Patient Prescription Application
+CWEB015 — Implementation of mini search engine
+CWEB016 — Hospital Management System
+CWEB017 — Online Voting System Project Application
+CWEB018 — Smart Health Prediction Using Data Mining
+CWEB019 — Customer Complaint Report Software
+CWEB020 — E Commerce Product Rating Based On Customer Review Mining
+CWEB021 — E-Vaccination management System app
+CWEB022 — Online Complaint Registration and Management system : street light, water pipe leakage, rain water drainage, road
+CWEB023 — Organ Sharing - Donator & Finder Application
+CWEB024 — Online Bus reservation system
+CWEB025 — Bank Management System
+CWEB026 — Student Attendance Management system
+CWEB027 — Online Examination system
+CWEB028 — Virtual Shopping System
+CWEB029 — Web Based Bus Ticket Reservation System
+CWEB030 — Web based Online Blood Donation system
+CWEB031 — Web based application for Insurance Services
+CWEB032 — Security system for DNS using cryptography
+CWEB033 — Stock Management and Control System
+
+[PHP / Web Application Projects]
+PHP001GK — Accounting Journal Entries System
+PHP002GK — Agriculture Exam Reviewer
+PHP003GK — Airline Reservation System
+PHP004GK — Apartment Gate Security Visitor Controller
+PHP005GK — Assessment Management
+PHP006GK — Attendance Management System
+PHP007GK — Audit Management System
+PHP008GK — Automated Timetable Generator
+PHP009GK — Badminton Court Club Daily System
+PHP010GK — Banking Transaction Services Provider
+PHP011GK — Beauty Parlour Hair Salon Services
+PHP012GK — Bike Rental Portal System
+PHP013GK — Blood Bank Linked in Hospital
+PHP014GK — Blood Bank Management System
+PHP015GK — Blood Bank Report Details
+PHP016GK — Blood Donations Hander Controller
+PHP017GK — Blood Doner Management System
+PHP018GK — Book Store Sale System
+PHP019GK — BP Monitoring Management System
+PHP020GK — Bus Booking System
+PHP021GK — Bus Ticket Booking Seat Allocation
+PHP022GK — Campus Recruitment System
+PHP023GK — Car Parking Management System
+PHP024GK — Car Rental Management System
+PHP025GK — Car Test Drive System
+PHP026GK — Cargo Shipment Management System
+PHP027GK — Chat Multiple User Create Application
+PHP028GK — Child Day Care
+PHP029GK — Child Safety
+PHP030GK — Child Safety Secure Information System
+PHP031GK — Cinema Ticket Booking System
+PHP032GK — Club Management System
+PHP033GK — College Admission Management System
+PHP034GK — College Admission Predictor
+PHP035GK — College Management System
+PHP036GK — College Noties Class and Exam Time Table System
+PHP037GK — College Time Table System
+PHP038GK — Comment Posting
+PHP039GK — Company Employee Leave Management
+PHP040GK — Company Visitor Entry System
+PHP041GK — Courier Parcel Delivery Management System
+PHP042GK — Courier Track Parcel Services
+PHP043GK — Crime Reporting Issues System
+PHP044GK — Crop Photo and Images
+PHP045GK — Crypto Currency Wallet System
+PHP046GK — Customer Service Provider Ticket System
+PHP047GK — Daily Expense Report Tracker
+PHP048GK — Daily Expense Tracker
+PHP049GK — Dairy Product Management
+PHP050GK — Directory Details Information Service Provider Details
+PHP051GK — Doctor and Patient Management System
+PHP052GK — Doctor Appointment
+PHP053GK — Document Sharing and Backup Information
+PHP054GK — Donation Management System
+PHP055GK — Drag and Drop Image
+PHP056GK — Driving School
+PHP057GK — Ecommerce Management System
+PHP058GK — Ecommerce Shoping and Delivery Website
+PHP059GK — ECommerce Shoping Multi Products Sales System
+PHP060GK — E-Doctor Patient Management System
+PHP061GK — Efficient Doctor Patient
+PHP062GK — E-Learning
+PHP063GK — Employee Attendance In Time & Out Time Entry System
+PHP064GK — Employee Attendance System
+PHP065GK — Employee Furlough
+PHP066GK — Employee Payroll Allowance Information
+PHP067GK — Employee Power
+PHP068GK — Employee Task Work Scheduler
+PHP069GK — Employee Visitors Pass
+PHP070GK — Empoyee Assign Projects Status System
+PHP071GK — Empoyee Equipments Maintenance System
+PHP072GK — E-Page Student Performance
+PHP073GK — E-PASS Schedule System
+PHP074GK — Event Booking System
+PHP075GK — Event Management
+PHP076GK — Events Calendar Holidays System
+PHP077GK — Exam Hall Room Schedule System
+PHP078GK — Exam Rank Result Schedule
+PHP079GK — Exam Result System
+PHP080GK — Expense Maintenance Control System
+PHP081GK — Facebook Like Notification
+PHP082GK — Faculty Evaluation System
+PHP083GK — Farm Sales Maintenance System
+PHP084GK — Farmer Delivery Courier to Buyer System
+PHP085GK — Farmer Kit Market System
+PHP086GK — Farmer Sales Products Sytem
+PHP087GK — Farming Management System
+PHP088GK — Farming Products Purchasing
+PHP089GK — Fees Collection System
+PHP090GK — Financial Services Funds Provider
+PHP091GK — Fitness Management System
+PHP092GK — Flight Booking System
+PHP093GK — Food Court Ordering System
+PHP094GK — Food Order
+PHP095GK — Food Ordering and Management System
+PHP096GK — Forum Management System
+PHP097GK — Fruits Buying Ecommerce
+PHP098GK — Game Play in Child
+PHP099GK — Graphical Password Authentication
+PHP100GK — Graphical Password one Image Multiple Location
+PHP101GK — Gym Information System
+PHP102GK — Help Desk Support in Client
+PHP103GK — Help Support Desk
+PHP104GK — Home Budget and Expense Controller
+PHP105GK — Hospital Dcotor Information Details
+PHP106GK — Hospital Management System
+PHP107GK — Hospital Treatment Appointment Mangement
+PHP108GK — Hotel Dine and Lounge Reseration System
+PHP109GK — Hotel Floor and Room Booking System
+PHP110GK — Hotel Reservation Allocation
+PHP111GK — Hotel Room Booking
+PHP112GK — House Rental and Tenants Payment Report System
+PHP113GK — HR Employee Event and Notice System
+PHP114GK — Image Editors Rechanged Image Colors
+PHP115GK — Index Management System(Truecaller
+PHP116GK — Insurance Information System
+PHP117GK — Internet Banking Management System
+PHP118GK — Internet based Discussion Forum
+PHP119GK — Inventory Management Systems
+PHP120GK — Inventory Mangement
+PHP121GK — Inventory Products Store orders System
+PHP122GK — Inventory Purchase Vendor Sales System
+PHP123GK — Job Portal
+PHP124GK — Job Portal ERP
+PHP125GK — Job Portal System
+PHP126GK — Land Registration System
+PHP127GK — Laundry Expenditure Report System
+PHP128GK — Leave Management System
+PHP129GK — Library Booking System
+PHP130GK — Library Manage Book Issue
+PHP131GK — Library Management System
+PHP132GK — Library System
+PHP133GK — Library Time Monitoring
+PHP134GK — Loan Management System
+PHP135GK — Lobby Chat Rooms Information System
+PHP136GK — Mess Management System
+PHP137GK — Mobile Shopping
+PHP138GK — Mobile Shopping System
+PHP139GK — Multi Member Live Chat APP
+PHP140GK — Music Analysis
+PHP141GK — News Portal Management System
+PHP142GK — NGO Management System
+PHP143GK — Notes Making
+PHP144GK — Office Chat Box System
+PHP145GK — Office Election Voting System
+PHP146GK — Old Age Home Management System
+PHP147GK — Online Bakery Shop System
+PHP148GK — Online Blood Bank Project
+PHP149GK — Online Bus Pass System
+PHP150GK — Online Daily Expense Tracker
+PHP151GK — Online E-Learning with Payment
+PHP152GK — Online E-voting System
+PHP153GK — Online Exam Management System
+PHP154GK — Online Examination and Performance
+PHP155GK — Online Examination System
+PHP156GK — Online Fire Reporting System
+PHP157GK — Online Food Ordering System
+PHP158GK — Online Forum
+PHP159GK — Online Marriage Registration System
+PHP160GK — Online Medicine Donation System
+PHP161GK — Online Pharmacy Management System
+PHP162GK — Online Projects Viva System
+PHP163GK — Online Restaurant Management System
+PHP164GK — Online Shoe Shopping
+PHP165GK — Organic Products Buying
+PHP166GK — Parking College Campus Reservation
+PHP167GK — Parking Management
+PHP168GK — Parking Slot Allocation System
+PHP169GK — Parking System Price Collection
+PHP170GK — Paying Guest on Home System
+PHP171GK — Personal Loan Issue and Collection System
+PHP172GK — Pet Shop Purchasing
+PHP173GK — Pharmacy Information System
+PHP174GK — Pharmacy Management System
+PHP175GK — Plant Shopping
+PHP176GK — Point of Sale
+PHP177GK — Police Complaint
+PHP178GK — Post Blog System
+PHP179GK — Product Complaint Report System
+PHP180GK — Product Details
+PHP181GK — Product Stock Maintenance
+PHP182GK — Projects Allocation Mangement System
+PHP183GK — QR Code Generator
+PHP184GK — QR Code Ticketing
+PHP185GK — Question Paper Generator
+PHP186GK — Question Paper Generator layout
+PHP187GK — Question Paper Generator System
+PHP188GK — Rail Pass Management System
+PHP189GK — Real Estate Search
+PHP190GK — Recipes Guidance
+PHP191GK — Reports and Tools
+PHP192GK — Restaurant Reservation
+PHP193GK — Sales And Inventory
+PHP194GK — Sales Inventory Management System
+PHP195GK — Salon Management System
+PHP196GK — School Approval Management System
+PHP197GK — School Exam Rank Card Informations
+PHP198GK — School Management System
+PHP199GK — School Student Record File Management System
+PHP200GK — School Student Staff Allocation Management System
+PHP201GK — Shopping Sales Management System
+PHP202GK — Simple CURD
+PHP203GK — Smart City Infrastructures
+PHP204GK — Social Media Sharing Platform
+PHP205GK — Sports Scheduling
+PHP206GK — Staff Salary Leave Management System
+PHP207GK — Student Attendance Percentage Tracker
+PHP208GK — Student Attendance System
+PHP209GK — Student Hostel Room Allocation System
+PHP210GK — Student Management System
+PHP211GK — Student Placement Management System
+PHP212GK — Student Record Management Systems
+PHP213GK — Student Result Management System
+PHP214GK — Student Supervision System
+PHP215GK — System Help Desk
+PHP216GK — Task Assigned and Closed
+PHP217GK — Task Assigned System
+PHP218GK — Task Tool Management System
+PHP219GK — Television Shopping
+PHP220GK — Tenant and Owner Rental System
+PHP221GK — Ticket Booking Portal
+PHP222GK — Tourism Package System
+PHP223GK — Trade Deposits Collection System
+PHP224GK — Trading Stock Management
+PHP225GK — Transport Management System
+PHP226GK — Travel Agency Management System
+PHP227GK — Travel Management System
+PHP228GK — Travel Package Expense Management System
+PHP229GK — Tuition Fees Collection System
+PHP230GK — Voting System
+PHP231GK — Water Billing System
+PHP232GK — Weather Report to help Agriculture
+PHP233GK — Website Design Task Allocation System
+PHP234GK — Website Page Creation
+PHP235GK — Website Visitor Analysis Tools System
+PHP236GK — Zoo Management System
+
+[Internet of Things (IoT) Projects]
+IOT001 — Challenges and opportunities of integrating Internet of Things (IoT) and Light Fidelity (LiFi)
+IOT002 — The Industrial Internet of Things
+IOT003 — Agricultural environment monitoring system using wireless sensor networks and IoT
+IOT004 — IoT Liquid Level Monitoring System
+IOT005 — IoT Alcohol & Health Monitoring System
+IOT006 — IoT based solar powered Agribot for irrigation and farm monitoring
+IOT007 — Design and Implementation of Robot Assisted Surgery Based on Internet of Things (IoT)
+IOT008 — Biometric Attendance System over IoT
+IOT009 — IoT based smart home automation system using sensor node
+IOT010 — Robust Multi-Path Communications for UAVs in the Urban IoT
+IOT011 — Application of IoT in military operations in a smart city
+IOT012 — Design and implementation of smart movable road divider using IoT
+IOT013 — Prototype industrial IoT applied to temperature monitoring in storage silos of dairy products
+IOT014 — IoT Asset tracking System
+IOT015 — Environment, People, and Time as Factors in the Internet of Things Technical Revolution
+IOT016 — IoT Car Parking System
+IOT017 — The design of IoT system for icehouse manufacturing
+IOT018 — IoT Based Home Automation
+IOT019 — IoT Gas Pipe Leakage Detector Insect Robot
+IOT020 — IoT Air & Sound Pollution Monitoring System
+IOT021 — IoT Weather Reporting System
+IOT022 — IoT Based Person/Wheelchair Fall Detection
+IOT023 — IoT Theft Detection Using Raspberry Pi
+IOT024 — IoT Based ICU Patient Monitoring System
+IOT025 — Smart Dustbin with IoT Notifications
+IOT026 — A low cost system for real time water quality monitoring and controlling using IoT
+IOT027 — Analysis of smart city transportation using IoT
+IOT028 — IoT-based LED lighting control in smart home
+IOT029 — IoT Streetlight Controller System
+IOT030 — IoT in mining for sensing, monitoring and prediction of underground mines roof support
+IOT031 — Efficient surveillance and monitoring using the ELK stack for IoT powered Smart Buildings
+IOT032 — IoT Underground Cable Fault Detector Project
+IOT033 — IoT based flow control system using Raspberry PI
+IOT034 — IoT Based Fire Department Alerting System
+IOT035 — Internet of Things in Smart Ambulance and Emergency Medicine
+IOT036 — IoT based cold chain logistics monitoring
+IOT037 — IoT Industry Automation Using Raspberry Pi
+IOT038 — IoT Heart Attack Detection & Heart Rate Monitor
+IOT039 — Home monitoring system based internet of things (IoT)
+IOT040 — IoT Traffic Signal Monitoring & Controller System
+IOT041 — IoT enabled home with smart security
+IOT042 — IoT approach to save life using GPS for the traveller during accident
+IOT043 — IoT Colour Based Product Sorting Machine Project
+IOT044 — IoT based solar energy monitoring system
+IOT045 — Internet of Things: A survey of technologies and security risks in smart home and city environments
+IOT046 — IoT Smart Energy Grid
+IOT047 — IoT data acquisition in fashion retail application: Fuzzy logic approach
+IOT048 — IoT Based Industry Automation
+IOT049 — IoT Solar Power Monitoring System
+IOT050 — IoT based smart emergency response system for fire hazards
+IOT051 — IoT-based OLED lighting control system for providing comfort space
+IOT052 — IoT Irrigation Monitoring & Controller System
+IOT053 — Energy Meter Monitoring Over IoT
+IOT054 — An overview of IoT based smart homes
+IOT055 — IoT based automated protection and control of DC micro-grids
+IOT056 — IoT Garbage Monitoring System
+IOT057 — Hardware-Assisted Cyber security for IoT Devices
+IOT058 — IoT Garbage Monitoring With Weight Sensing
+IOT059 — Design of IoT based smart shop floor-an exploratory case study
+IOT060 — IoT based waste management: An application to smart city
+IOT061 — Intelligent medicine box for medication management using IoT
+IOT062 — Internet of Things Applications for Smart Cities
+IOT063 — Healthcare IoT: Benefits, vulnerabilities and solution
+IOT064 — IoT Based Office Automation
+IOT065 — IoT Based Antenna Positioning System
+IOT066 — IoT Based Toll Booth Manager System
+IOT067 — IoT based traffic light control system using Raspberry Pi
+IOT068 — IOT clinic-Internet based patient monitoring and diagnosis system
+IOT069 — IoT based smart crop-field monitoring and automation irrigation system
+IOT070 — Off-shore wind power as a pillar of energy transmission using IoT(OSWPETIOT)
+IOT071 — IoT Patient Health Monitoring System
+IOT072 — A smart system for face detection with spatial correlation improvement in IoT environment
+IOT073 — IoT Home Automation Using Raspberry Pi
+IOT074 — IoT Smart Mirror with News & Temperature
+IOT075 — Arduino mega and IoT based intelligent energy meter (IEM) to increase efficiency and accuracy in current billing methodology
+IOT076 — IoT Electronic Door Opener
+IOT077 — Thermo electric generator module in driving the vehicle and monitoring using IoT

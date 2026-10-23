@@ -1,68 +1,106 @@
 [
   {
-    "id": "Mechanical Projects",
-    "slug": "mechanical-projects",
-    "title": "Mechanical Engineering & Projects",
-    "shortTitle": "Mechanical",
-    "catalogGroups": ["MH", "ME", "MI"],
-    "badge": "Precision In Motion",
-    "description": "Kinematic mechanism models, CNC precision assemblies, planetary gear systems, hydraulic test benches, and dynamic mechanical prototyping rigs.",
-    "icon": "Wrench",
-    "image": "/images/cat_mech.jpg"
-  },
-  {
-    "id": "Robotics & Automation",
-    "slug": "robotics-and-automation",
-    "title": "Robotics & Automation",
-    "shortTitle": "Robotics",
-    "catalogGroups": ["MR"],
-    "badge": "Bridging Autonomous Action",
-    "description": "Autonomous mobile rovers, multi-axis robotic arms, precision LiDAR SLAM navigation, rocker-bogie mechanisms, and industrial automation prototypes.",
-    "icon": "Cpu",
-    "image": "/images/cat_robotics.jpg"
-  },
-  {
-    "id": "IoT & Embedded Systems",
-    "slug": "iot-and-embedded-systems",
-    "title": "IoT & Embedded Systems",
-    "shortTitle": "IoT & Embedded",
-    "catalogGroups": ["IOT"],
-    "badge": "Reigniting Connected Systems",
-    "description": "Smart microcontrollers, ESP32 wearables, LoRa telemetry, wireless sensor networks, edge agricultural nodes, and real-time cloud dashboards.",
-    "icon": "Wifi",
-    "image": "/images/cat_iot.jpg"
-  },
-  {
-    "id": "Electronics & Electrical",
-    "slug": "electronics-and-electrical",
-    "title": "Electronics & Electrical",
-    "shortTitle": "Electronics",
-    "catalogGroups": ["EE"],
-    "badge": "Power & Circuit Architecture",
-    "description": "Analog signal conditioning, PWM thermal controls, precision thermistor alarms, BLDC field-oriented vector controllers, and PCB fabrication.",
-    "icon": "Zap",
-    "image": "/images/cat_elec.jpg"
-  },
-  {
-    "id": "Software & Web Development",
-    "slug": "software-and-web-development",
-    "title": "Software & Web Development",
-    "shortTitle": "Software",
-    "catalogGroups": ["SW"],
-    "badge": "Engineering Digital Platforms",
-    "description": "Full-stack engineering telemetry dashboards, C algorithm engines, institutional management portals, Progressive Web Apps (PWAs), and APIs.",
+    "id": "Web & Software Projects",
+    "slug": "web-and-software-projects",
+    "title": "Web & Software Development",
+    "shortTitle": "Web & Software",
+    "catalogGroups": [
+      "CWEB"
+    ],
+    "badge": "Full-Stack Platforms",
+    "description": "Database authentication systems, administrative management portals, educational software, and cloud applications.",
     "icon": "Code",
     "image": "/images/cat_software.jpg"
   },
   {
-    "id": "Renewable Energy & Sustainability",
-    "slug": "renewable-energy-and-sustainability",
-    "title": "Renewable Energy & Sustainability",
-    "shortTitle": "Renewable Energy",
-    "catalogGroups": ["RE"],
-    "badge": "Green Tech Innovation",
-    "description": "Autonomous solar tracking systems, smart energy sub-metering, power factor harmonic analysis, and clean technology prototypes.",
-    "icon": "Flame",
-    "image": "/images/cat_renew.jpg"
+    "id": "PHP / Web Application Projects",
+    "slug": "php-web-applications",
+    "title": "PHP & Web Applications",
+    "shortTitle": "PHP & Database",
+    "catalogGroups": [
+      "PHP"
+    ],
+    "badge": "Enterprise CRUD Solutions",
+    "description": "Robust PHP MySQL portal systems, online booking engines, enterprise resource trackers, and institutional management applications.",
+    "icon": "Layers",
+    "image": "/images/cat_software.jpg"
+  },
+  {
+    "id": "Internet of Things (IoT) Projects",
+    "slug": "internet-of-things",
+    "title": "Internet of Things (IoT)",
+    "shortTitle": "IoT Systems",
+    "catalogGroups": [
+      "IOT"
+    ],
+    "badge": "Reigniting Connected Systems",
+    "description": "Smart microcontrollers, ESP32 wearables, environmental sensor networks, edge agricultural nodes, and cloud telemetry.",
+    "icon": "Wifi",
+    "image": "/images/cat_iot.jpg"
+  },
+  {
+    "id": "Microcontroller & Electronics Projects",
+    "slug": "microcontroller-and-electronics",
+    "title": "Microcontroller & Electronics",
+    "shortTitle": "Microcontrollers",
+    "catalogGroups": [
+      "MC"
+    ],
+    "badge": "Power & Circuit Architecture",
+    "description": "Motor speed controllers, sensor-based safety triggers, analog-to-digital signal processing, and embedded automation rigs.",
+    "icon": "Zap",
+    "image": "/images/cat_elec.jpg"
+  },
+  {
+    "id": "Mechanical Engineering Projects",
+    "slug": "mechanical-engineering",
+    "title": "Mechanical Engineering",
+    "shortTitle": "Mechanical",
+    "catalogGroups": [
+      "ME"
+    ],
+    "badge": "Precision In Motion",
+    "description": "Special-purpose machinery, material testing rigs, CNC prototypes, waste recycling shredders, and multi-operational machine tools.",
+    "icon": "Wrench",
+    "image": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "Mechanical & Industrial Innovation Projects",
+    "slug": "mechanical-industrial-innovation",
+    "title": "Mechanical & Industrial Innovation",
+    "shortTitle": "Industrial Innovation",
+    "catalogGroups": [
+      "MI"
+    ],
+    "badge": "Shopfloor & Productivity",
+    "description": "Hydraulic jacks, fluid power braking systems, pneumatic grinding tools, agricultural sprayers, and shopfloor automation.",
+    "icon": "Wrench",
+    "image": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "Mechanical Mechanism Projects",
+    "slug": "mechanical-mechanisms",
+    "title": "Mechanical Mechanisms",
+    "shortTitle": "Mechanisms",
+    "catalogGroups": [
+      "MH"
+    ],
+    "badge": "Kinematic Linkages",
+    "description": "Scotch yoke linkages, Geneva indexing mechanisms, Whitworth quick-return motions, and bevel-gear transmissions.",
+    "icon": "Wrench",
+    "image": "/images/cat_mech.jpg"
+  },
+  {
+    "id": "Robotics & Automation Projects",
+    "slug": "robotics-and-automation",
+    "title": "Robotics & Automation",
+    "shortTitle": "Robotics",
+    "catalogGroups": [
+      "MR"
+    ],
+    "badge": "Bridging Autonomous Action",
+    "description": "Autonomous rovers, stair-climbing wheelchairs, multi-axis robotic arms, mobile firefighting AGVs, and hexapod walkers.",
+    "icon": "Cpu",
+    "image": "/images/cat_robotics.jpg"
   }
 ]

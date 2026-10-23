@@ -226,15 +226,15 @@ export const ProjectCategories: React.FC<ProjectCategoriesProps> = ({ onSelectCa
           ))}
         </div>
 
-        {/* 2 Additional Categories in bottom grid to complete the full 6 */}
+        {/* 4 Additional Categories in secondary grid to showcase all 8 disciplines */}
         <div
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 280px), 1fr))',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 320px), 1fr))',
             gap: '24px',
           }}
         >
-          {CATEGORIES_DATA.slice(4, 6).map((cat) => (
+          {CATEGORIES_DATA.slice(4, 8).map((cat) => (
             <div
               key={cat.id}
               className="cat-card cat-card-horizontal"

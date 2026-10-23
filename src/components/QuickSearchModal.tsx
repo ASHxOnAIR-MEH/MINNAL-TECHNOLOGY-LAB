@@ -48,7 +48,7 @@ export const QuickSearchModal: React.FC<QuickSearchModalProps> = ({ onClose, onS
           <input
             type="text"
             autoFocus
-            placeholder="Type project ID (e.g. MNL-IOT-001), keyword, or sensor..."
+            placeholder="Search 1,334 projects by code (e.g. ME001, IOT006, MR019) or keyword..."
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             style={{

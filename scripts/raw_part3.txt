@@ -1,0 +1,474 @@
+[Mechanical & Industrial Innovation Projects]
+MI001 — Automatic pneumatic bumper for four wheelers
+MI002 — Automatic transformer heat reduction System
+MI003 — Conveyor for quality control
+MI004 — Mini Solar Race Car
+MI005 — Pneumatic plastic/CAN crushing Machine
+MI006 — Power Generator Forearms Machine
+MI007 — Rocker bogie 6-wheel suspension model
+MI008 — Automatic Street light Controller depending upon moving vehicle
+MI009 — Fabrication of porter governor
+MI010 — Intelligent Braking System in Four Wheeler (IBS)
+MI011 — 360-degree firefighting robot
+MI012 — Solar Fan with Lighting System
+MI013 — Mini Water Service Station
+MI014 — Automatic Vehicle Accident Information System
+MI015 — Pneumatic speed breaker control by emergency and VIP vehicle
+MI016 — Mini Jet Engine
+MI017 — Pedal/Foot operated air Compressor
+MI018 — Foot operated Hydro-Pneumatic Vice
+MI019 — Remote controlled Pneumatic parallel gripper
+MI020 — Pneumatic flexible step expansion system
+MI021 — Belt type oil skimmer for tank
+MI022 — Fabrication of Wire rope elevator
+MI023 — Wood grooving Machine
+MI024 — Automatic Bottle washing Machine
+MI025 — Hydraulic/Pneumatic fork lift
+MI026 — Automatic rain operated wiper
+MI027 — Moisture control automatic hydroponic farming
+MI028 — Remote Controlled scissor jack
+MI029 — Waste water treatment in washing machine
+MI030 — DC motor-based ground drilling auger machine
+MI031 — Cutting Machine by using four bar Mechanism
+MI032 — Small leaf's and waste shredder Grinding Machine
+MI033 — Hydraulic operated Sheet Bend and Bend Removing Machine
+MI034 — Rotary Type Vegetable Cleaner
+MI035 — Pneumatic conveyor
+MI036 — Pneumatic Railway Track changer
+MI037 — Scissor lifting wheel chair / pneumatic lifting wheel chair
+MI038 — Automatic pneumatic bumper with hand break release
+MI039 — Integrated automated Pneumatic jacks for four wheelers
+MI040 — Motorized Apple peeler machine
+MI041 — Automatic Pneumatic sheet Cutting Machine
+MI042 — Pedal operated vertical Hack saw Machine
+MI043 — Hydraulic spiral punching machine
+MI044 — Universal power automatic jack
+MI045 — Electrical Steering Mechanism
+MI046 — Fabrication of Ground Dryer
+MI047 — Frictionless Permanent Magnetic Braking System
+MI048 — Hydraulic press for foundry ramming Machine
+MI049 — Six bar slider crank hammer
+MI050 — Automatic Cell Phone charger with pay System
+MI051 — Pneumatic Quick return Mechanism
+MI052 — Power Saving System for lathe
+MI053 — Highway Helical Wind Mill
+MI054 — Solar powered ultrasonic animal and birds Repeller
+MI055 — Solar operated portable vacuum cleaner
+MI056 — Automatic CPR Parallel Machine
+MI057 — Pneumatic sand sieving machine
+MI058 — Line following robot
+MI059 — Coin based Cell Phone charger with pay System
+MI060 — Automatic Rain operated wiper and Head light Dim/Bright Controller
+MI061 — Oil Pump Testing Equipment
+MI062 — Automatic wheel alignment detector with alarm
+MI063 — Remote Controlled car/bus door open/close Mechanism
+MI064 — Garlic peeler machine
+MI065 — Cyclone separator with blower
+MI066 — Automatic Rain sensing window for Home
+MI067 — Quick lifting jack with Gear Arrangement
+MI068 — Road curve finder (or) Speed Breaker Finder
+MI069 — Manual seed sowing machine
+MI070 — Automatic Lifting Vehicle inbuilt attached Hydraulic jack
+MI071 — Mechanical paint stirrer
+MI072 — Automatic Spring Rolling Machine
+MI073 — Automatic Solar Street light with day night Control
+MI074 — Fabrication of Solar dryer
+MI075 — Fabrication of Solar Wood cutter
+MI076 — Solar powered reciprocating water pumping system
+MI077 — Automatic sanitizer dispenser
+MI078 — Universal joint based Three side unloading Pneumatic Dipper
+MI079 — Vertical abrasive belt grinder
+MI080 — Hydro-Pneumatic braking system
+MI081 — Pneumatic powered Assistive limb for leg
+MI082 — Electro-Magnetic scrap collecting Vehicle
+MI083 — Solar Air Heater
+MI084 — Pedal operated multiple paper plate making machine
+MI085 — Low-cost Vertical wind mill
+MI086 — Automatic Vehicle Accident Prevention System
+MI087 — Role type agro sprayer
+MI088 — Salt water purification By using Steam method
+MI089 — Automatic Pneumatic reciprocating grinding Machine
+MI090 — Automatic Reverse Braking System for Four wheeler
+MI091 — Coconut Water Extracting Machine
+MI092 — Automatic hand Break Release
+MI093 — Pneumatic Reciprocating Water Pumping System
+MI094 — Car or Bus reverse Operation Navigation System by using IR Rays
+MI095 — Water pumping System by using river force
+MI096 — Motorized Triangular Air Compressor
+MI097 — Multi operation of grinding cutting drilling using single motor
+MI098 — Pneumatic scissor Lifter
+MI099 — Marble/Tiles Polishing Machine
+MI100 — Anti-theft Break locking with remote Control System
+MI101 — Automatic Solar Street Light Controller
+MI102 — Fabrication of Hydraulic Ladder
+MI103 — Motorized hammer
+MI104 — Hydraulic clamping device for work Piece
+MI105 — Pneumatic moving Vehicle
+MI106 — Hammering operation by using Vinci Cam Mechanism
+MI107 — Solar room warmer
+MI108 — Automatic Pressure Controller cum Valve Open/Close Arrangement
+MI109 — Motorized Bench Vice
+MI110 — Rotary Vane Pump
+MI111 — Hydraulic tail stock
+MI112 — Electrical Incinerator for sanitary pad disposal
+MI113 — Digital Gear Level Indicator for Automobile
+MI114 — Generation of electricity from cycling exercise
+MI115 — Hydraulic Cylinder Liner Puller
+MI116 — Hydraulic Sheet Cutting Machine
+MI117 — Electro-Magnetic Braking System (EMBS)
+MI118 — Brake shoe monitoring System
+MI119 — Pedal operated CAN Crushing Machine
+MI120 — Magneto-bearing System
+MI121 — Contour Turning Attachment for Lathe
+MI122 — Automatic Speed Breaker for Emergency Vehicles
+MI123 — Laminar flow Water turbine
+MI124 — Cam operated Sheet bending and Punching Machine
+MI125 — Automatic Door open/close Mechanism
+MI126 — Slotting Attachment in Drilling Machine
+MI127 — Sensor based Automatic Escalator Movement
+MI128 — Seat belt-based Vehicle ignition ON/OFF system
+MI129 — Indexing drill jig using bevel gear
+MI130 — Kinetic Energy Recovery System (KERS)
+MI131 — Automatic Self-inflating Tyre
+MI132 — Shaft drive Bi-cycle / Bevel gear cycle
+MI133 — Motorized vegetable cutter and slicer
+MI134 — Foot operated Hydraulic Lifting System
+MI135 — Ratchet Mechanism using screw jack
+MI136 — Grass cutter cum Agricultural spraying vehicle
+MI137 — Solar Water Heater with parabolic collector
+MI138 — Pre-crash safety system for automobile
+MI139 — Electrical Power Generator Pulley Rowing Machine
+MI140 — IR sensor based electro-magnetic braking system
+MI141 — Automatic Lubrication System
+MI142 — Hydraulic floor crane
+MI143 — Automatic motorized Car Lifting jack with crank arrangement
+MI144 — Load based automatic variable speed fuel injection system
+MI145 — Pedal operated Hacksaw with mobile charger
+MI146 — Combination of Agri cutter cum weed remover
+MI147 — Motorized universal jaw
+MI148 — Automatic gadgets for LPG, water open/close system
+MI149 — Fuel Injector testing equipment
+MI150 — Vertical Lift Mechanism for Kattwyk Bridge
+MI151 — Portable smokes exhaust System
+MI152 — Dual machine by using Bevel Gear (drilling and grinding)
+MI153 — Pedal operated wet grinder
+MI154 — Automatic High speed object counter
+MI155 — Bladeless Vortex Wind mill power generation
+MI156 — Automatic drip Irrigation using Solar PV cell
+MI157 — Reaction turbine power generation system
+MI158 — Jominy End quench testing apparatus
+MI159 — External and internal grinding Machine attachment for lathe
+MI160 — Advanced emergency Braking System
+MI161 — Material Transfer by pneumatic conveyor
+MI162 — Universal Tapping Machine
+MI163 — Automatic Barrel Lifting System
+MI164 — Pneumatic jack operated by compressed air using vehicle suspensor
+MI165 — Automatic Lamination Machine
+MI166 — Hydraulic Virgin coconut oil extractor
+MI167 — Wind Energy Vehicle
+MI168 — Automatic vehicle overloading alert System
+MI169 — Automatic Break Failure indicator
+MI170 — Automatic Hand wash with soap solution
+MI171 — Six leg kinematic walker
+MI172 — Box type solar cooker
+MI173 — Automatic vertical Board cleaner
+MI174 — Hydraulic bearing Press/Puller
+MI175 — Multipurpose mini slog cutting machine
+MI176 — Pedal Operated Water Pumping System
+MI177 — Pneumatic switch board cutter
+MI178 — Steam paint removing Machine
+MI179 — Dry Waste Sorting Machine
+MI180 — Automatic Water tank overflow Controlling System
+MI181 — Digital Fuel Level with expected Millage indicator
+MI182 — Motorized Cam operated punching machine with safety sensor
+MI183 — Musical Water fountain
+MI184 — Air Compressor by using Wind mill
+MI185 — Motorized screw jack with Solar panel and lighting System
+MI186 — Remote Controlled motorized Hydraulic jack
+MI187 — Motorized Sand sieving machine
+MI188 — Button operated Motorized portable mini crane
+MI189 — Self-lubricated Hydraulic gear pump
+MI190 — Wheel powered agro sprayer vehicle
+MI191 — Multipurpose keyway attachments in lathe
+MI192 — Remote Controlled boiler flame on/off with flame adjustment System
+MI193 — Automatic over load indication for bridge
+MI194 — Pneumatic sugarcane butt cutter
+MI195 — Pedal Operated Ramming Machine
+MI196 — Automatic Pneumatic bumper and Breaking System
+MI197 — Involute gear Profile Error Detector
+MI198 — Solar Lighting System with Auto Tracking
+MI199 — Eccentric motorized hack saw Machine
+MI200 — Magnetic Gearless power transmission
+MI201 — Automatic Water Tape Controlling System
+MI202 — Pneumatic garage door opener
+MI203 — Motorized Hydraulic Jack
+MI204 — Automatic punching machine by Geneva mechanism
+MI205 — Variable Angle Gearless power transmission
+MI206 — Bucket wheel escalator
+MI207 — Solar Sand collecting Vehicle
+MI208 — Hydro Pneumatic disc Brake
+MI209 — Regenerative brake by using electromagnet
+MI210 — Pneumatic Multipurpose Grinder
+MI211 — Push operated Agriculture spray Pump
+MI212 — Obstacle alert and automatic braking system
+MI213 — Hybrid wind and solar water pumping system
+MI214 — Electro Magnetic suspension
+MI215 — Automatic Water pumping System for Agriculture using Moisture Sensor
+MI216 — Zig-Saw cutting Machine
+MI217 — Abrasive Belt Grinder
+MI218 — Vertical axis high way wind mill
+MI219 — Automatic Motorized centre stand for Two Wheeler
+MI220 — Water purifier bicycle
+MI221 — Pneumatic Gear tooth grinding Machine
+MI222 — Fabrication of Solar oven
+MI223 — Hydraulic Pallet Truck
+MI224 — Motorized Screw jack with work piece clamper
+MI225 — Automatic Solar panel cooling system
+MI226 — Mini wood lathe machine for wood grooving
+MI227 — Rotary Gear Pump
+MI228 — Pantograph milling Machine
+MI229 — Motorized Pipe Cutting Machine using Quick Return Mechanism
+MI230 — Pedal operated Solar Cell Phone Charger
+MI231 — Remote controlled agricultural water spraying vehicle
+MI232 — Single wheel Pneumatic power Generation
+MI233 — Trolley mounted fertilizer Spreader
+MI234 — Motorized pipe bending Machine
+MI235 — Smart step for children and aged people
+MI236 — Pneumatic ground driller
+MI237 — Covid based Automatic door open close system
+MI238 — Anti-dazzling head light for Two Wheeler
+MI239 — Anti-theft wheel locking System
+MI240 — Pneumatic scissor jack
+MI241 — Punching Machine using width worth Mechanism
+MI242 — Low-cost Anti-lock Braking System
+MI243 — Pedal powered blender/Mixie
+MI244 — Fabrication of Turny swivel seat
+MI245 — Pneumatic reciprocating Hack saw Machine
+MI246 — Activation of pneumatic bumper by hard breaking
+MI247 — Single wheel spray pump for garden
+MI248 — Pneumatic Spiral Punching Machine
+MI249 — Compressor gas level digital indicator with alarm System
+MI250 — Pneumatic brick making Machine
+MI251 — Nano abrasive Rails filter
+MI252 — Automatic temperature Controller with cooling System
+MI253 — Automatic Dam shutter Controlling System
+MI254 — Pneumatic Multipurpose Machine
+MI255 — Beans Sheller Machine
+MI256 — Wind mill water pumping system
+MI257 — Automatic Break in hill station
+MI258 — Power Generation from Pneumatic shock Absorber
+MI259 — Automatic Pneumatic Vulcanizing Machine
+MI260 — Automatic Pneumatic Hammer
+MI261 — Solar Air Dryer
+MI262 — Multi-purpose Agri Cutter
+MI263 — Small stair/Step climber
+MI264 — Pneumatic tool grinding Machine
+MI265 — Wheel chair cum stretcher model in hospital application
+MI266 — Motorized radial Sheet bending Machine
+MI267 — Combined single pedal for acceleration and brake system
+MI268 — Multifunction drilling and grinding machining
+MI269 — Automatic dimensioning Machine
+MI270 — Cylindrical grinding Machine
+MI271 — Pantograph Universal Gas Cutting Machine
+MI272 — Automatic block Board cleaner
+MI273 — Fabrication of Green Gym
+
+[Mechanical Mechanism Projects]
+MH001 — Spring less car suspension by using bevel gear mechanism
+MH002 — 360 degree remote/Mobile controlled fork lifting mechanism
+MH003 — Motorized Pipe Cutting Machine using quick return Mechanism
+MH004 — Remote controlled Theo-Jansen Mechanism for Walking Chair
+MH005 — Centrifugal spinning machine to produce Nano fiber
+MH006 — Motorized eccentric spiral punching machine
+MH007 — 360 degree rotating car / Total car lifting and rotating mechanism
+MH008 — Motorized 3 axis CNC Friction welding machine
+MH009 — Six bar slider crank hammer Mechanism
+MH010 — Mini hacksaw powered beam engine
+MH011 — Eccentric Motorized Punching/cutting Machine
+MH012 — Drilling and grinding operation by using multiple gearless power transmission
+MH013 — Mechanical CAN crusher by using quick return Mechanism
+MH014 — Bluetooth based rocker bogie stair climbing wheel chair
+MH015 — Dual side water pumping by crank and slotted link mechanism
+MH016 — Three way dump Truck with 180 degree Rotation
+MH017 — Vertical cycle lifting mechanism
+MH018 — Accelerometer based wheel chair cum bed by Using Gesture technology
+MH019 — Double side Agri cutting Machine using scotch yoke Mechanism
+MH020 — Solar sand sieving machine by slider cam method
+MH021 — Punching Machine using width worth mechanism
+MH022 — Shaping machine by using width work quick return Mechanism
+MH023 — Pedal crank powered blender
+MH024 — Double side hack saw Machine by using scotch yoke mechanism
+MH025 — Pedal operated scotch yoke mechanism based water pumping system
+MH026 — Single motor Multi-stage sand filter cum separator machine
+MH027 — Solar scroll saw machine / Solar switch board cutter
+MH028 — Gas Cutting Machine by Four bar Mechanism
+MH029 — Multi-purpose machine for hacksaw, grinding and shaping by scotch yoke
+MH030 — Three Direction 3 cylinder pneumatic modern trailer
+MH031 — Multi Operation Machine (Hack saw and shaping) by using cam Mechanism
+MH032 — Step climber Wheel chair by planetary Gear mechanism
+MH033 — 360 degree flexible drilling and tapping machine
+MH034 — Hack saw cutting Machine by width worth Mechanism
+MH035 — Reverse locking in differential unit by ratchet bowl mechanism
+MH036 — Multiple Cam operated sheet Bending, Hammering and Punching Machine
+MH037 — Punching Machine using width worth Quick return mechanism
+MH038 — Pneumatic flexible step expansion Mechanism
+MH039 — Joystick controlled wall glass cleaning mechanism
+MH040 — Hexapod (six legged) walking robot for agricultural field
+MH041 — Remote controlled Staircase climbing Transporter
+MH042 — Dual side CAN crusher by using scotch yoke mechanism
+MH043 — Three axis Hydraulic loading/unloading truck Mechanism
+MH044 — Vertical Lift Mechanism for Kattwyk Bridge
+MH045 — Scotch yoke mechanism based single side water pumping system
+MH046 — Rocker bogie suspension Mechanism
+MH047 — Pedal cranking mechanism for paddy wheat threshing Machine
+MH048 — Single side hack saw cutting by scotch yoke mechanism
+MH049 — Two in one stair climbing wheel chair cum trolley
+MH050 — Foot operated steering vehicle for armless disabled People
+MH051 — Convertible stair ramp (Motorized stairs into Ramp conversion)
+MH052 — Motorized Roll bending machine
+MH053 — Air Compressor using quick return Mechanism
+MH054 — Air Compressor using crank and slotted link Mechanism
+MH055 — Dual side Water pumping System by using scotch yoke mechanism
+MH056 — Motorized hammer by using VINCI cam mechanism
+MH057 — Dual side shaping machine by using scotch yoke Mechanism
+MH058 — Seed ball plantation by using Geneva wheel mechanism
+MH059 — Wood splitting machine by using slider crank mechanism
+MH060 — Pantograph duplicate wood grooving/milling machine
+MH061 — One side hack saw and another side shaping by using scotch yoke mechanism
+MH062 — Automatic paper cutting using Geneva mechanism
+MH063 — Simple leg walking mechanism
+MH064 — Automatic cardboard feeding and slot punching Machine
+MH065 — Five bar mechanism based automatic Planar Robotic arm
+MH066 — Fabrication of Cruise control E-bike
+MH067 — Automatic punching Machine by using Geneva mechanism
+
+[Robotics & Automation Projects]
+MR001 — 360 degree remote/Mobile controlled fork lifter
+MR002 — Bluetooth controlled stroke therapy chair
+MR003 — Man less defense multipurpose Robot for military
+MR004 — Mechanical 6 leg spider Robot
+MR005 — Multi-purpose Agriculture Robot for Seed sowing with weed remover and fertilizer sprayer
+MR006 — Remote/mobile controlled solar Beach cleaning robot
+MR007 — Passion Walk for Handicapped vehicle
+MR008 — Neural control of a fully actuated biped Robot
+MR009 — Automatic Emergency exit for school and college bus
+MR010 — Hexapod (six legged) walking robot for agricultural field
+MR011 — Automatic fire fighting sprinkler robot
+MR012 — Exoskeleton for arm with DC compressor
+MR013 — 360 degree fire production Robot
+MR014 — Pneumatic powered Assistive limb for leg
+MR015 — Solar operated paddy Cutter
+MR016 — Remote controlled Stair climbing Robot / Step climbing Robot
+MR017 — Solar oil skimmer Robot
+MR018 — SMS Enabled Autonomous Robotics for Military
+MR019 — Rocker Bogie Stair Climbing Wheel Chair
+MR020 — Automatic sweeping cum dust collecting Robot
+MR021 — Automated prosthetic leg for physically challenged People
+MR022 — Solar powered Water weed Cutter Robot
+MR023 — Theo-Jansen 4 Leg Walking Robot
+MR024 — Remote controlled fire fighting roger bogie robot
+MR025 — Six leg Robot for Agriculture purpose which can spray Seed and water
+MR026 — Solar powered soil digging with grass cutter and water spraying vehicle
+MR027 — Autonomous Light Finder Robot
+MR028 — Unpowered exoskeleton boot
+MR029 — Bluetooth based rocker bogie stair climbing wheel chair
+MR030 — Automatic Human Seeker Robot with Body Heat Scanner
+MR031 — Automatic soil monitoring Robot
+MR032 — Automatic pick and place paint spraying Robot
+MR033 — Remote controlled fire fighting robot
+MR034 — Automatic Steering Control Robot
+MR035 — Pneumatic powered Wall climbing robot
+MR036 — CPR parallel Robot for hart patient in hospital application
+MR037 — Firefighting AGV
+MR038 — Tennis ball collector Robot
+MR039 — RFID sensor based IOT shopping trolley cum over load alert
+MR040 — Remote controlled paint spraying Robot
+MR041 — New high tech walking electric bike using solar power
+MR042 — Solar powered Floating waste collector robot
+MR043 — PIR based human focus movement Robot
+MR044 — Trash Removal system in water bodies
+MR045 — Automatic grass cutting and path following robot
+MR046 — Spring less car suspension by using bevel gear
+MR047 — Standing Wheel Chair
+MR048 — Rescue Robot for Military Purpose
+MR049 — IVRS Based Control of Alive Human Being Detector with Voice Feedback
+MR050 — Remote controlled Sweeping cum floor cleaning Robot
+MR051 — Unaided Guided Wheelchair
+MR052 — GSM based book picking and delivery robot
+MR053 — Bipedal walking Robot
+MR054 — Amphibious vehicle (bicycle) for land and water
+MR055 — Autonomous Anti-drown vehicle
+MR056 — Tread mill Bicycle with Power Generation
+MR057 — Remote controlled convertible Wheel Chair cum bed
+MR058 — Multi-purpose Soldier Robot
+MR059 — Mini Robot Car
+MR060 — Vacuum assisted wall climber robot
+MR061 — Distance Monitoring and Object Detecting Robot
+MR062 — Automatic guided medicine dispenser trolley
+MR063 — Wall cement Concrete spray Robot
+MR064 — Emergency Rescue ladder Robot for Fire Accident in apartment building
+MR065 — Robot Assistive limb for physically challenged people
+MR066 — Real time security guard Robot by using GSM
+MR067 — Robot with Search and Rescue Feature for an Accident Area or Natural Disaster Area
+MR068 — Semi-Automatic well/overhead tank cleaning Robot
+MR069 — Solar panel cleaning with water spraying robot
+MR070 — Remote controlled parallel gripper Robot
+MR071 — Bluetooth operated pick and place Robot
+MR072 — Automatic portable groundnut planting Robot
+MR073 — Under water robot with trash remover
+MR074 — Kinematics analysis of a parallel Robot with a passive segment
+MR075 — Drone Catching Gun
+MR076 — Hotel Serving Robot
+MR077 — Smart Tanker Robot for Security Operations
+MR078 — GSM based Automatic railway track crack detecting robot
+MR079 — Hydro-Pneumatic moving Robot
+MR080 — Visitor guided with material handling Robot
+MR081 — AGV by using Magnetic sensor
+MR082 — Combined model for Segway (hover board) cum 3 wheel drive forklift for industry warehouses
+MR083 — Image processing based PC inspection Robot
+MR084 — Remote operated weapons Robot for Military
+MR085 — Remote controlled pick and place Rocker bogie Robot
+MR086 — 3 side Pneumatic loading/unloading truck
+MR087 — Foldable cum detachable 3 wheel trolley cycle
+MR088 — Automatic vacuum cleaning cum scrap collecting Robot
+MR089 — Fully Automated Track Guided Vehicle (ATGV)
+MR090 — Automatic foundation excavator Robot
+MR091 — Multiple roller handling Pneumatic manipulator
+MR092 — Material dimensional analyzing Robot
+MR093 — Bluetooth control Six leg agriculture robot
+MR094 — Artificial Intelligent based Solar Vehicle
+MR095 — Agricultural Robot for weed Removing and seed sowing
+MR096 — Solar powered remote controlled mars rover
+MR097 — Automatic fire fighting Robot with visitor guided
+MR098 — Automatic Smart Robot for Library
+MR099 — Automatic lawn mower cum grass cutter Robot
+MR100 — AI Based Automatic Path finding Cum Video Analyzing Robot
+MR101 — Automatic Three axis Gas cutting Robot
+MR102 — Solar powered combined model of oil and floating waste collecting robot
+MR103 — Autonomous Line tracking Robot with Obstacle Avoidance
+MR104 — Mobile control Solar grass Cutter with Water spraying Robot
+MR105 — Drainage cleaning Robot
+MR106 — Automatic double axis wall painting robot
+MR107 — Automatic ground clearance adjustment system
+MR108 — Sensor based automatic floor cleaning cum dust collecting Robot
+MR109 — Air Powered Robot Car
+MR110 — Automatic Paint spraying Robot
+MR111 — Automatic floor cleaning Robot
+MR112 — Remote Controlled Video Analyzing pick and place Robot
+MR113 — Remote controlled solar grass cutter cum water spraying agricultural robot
+MR114 — Automatic wall painting robot
+MR115 — Ripened fruit identification and picking Robot
+MR116 — Magnetic oil skimmer robot
+MR117 — Remote Controlled Water Splash Robot for Gardening
+MR118 — Bluetooth based foldable wheel chair cum bed with height adjustment
+MR119 — Fabrication of Quad bike
+MR120 — Automatic Greenhouse assisting robot for garden
+MR121 — Multipurpose agriculture robot for water spraying with weed remover
+MR122 — Fire Fighting Robot with Automatic SMS alert
+MR123 — Wireless Voice controlled Robot
+MR124 — Pneumatic Four axis material handling Robot
+MR125 — Robot manipulator
+MR126 — Floating Water bike/cycle
+MR127 — Automatic chip and dust collecting Robot for industry
+MR128 — Simple leg walking mechanism robot
+MR129 — Areca nut tree climbing and cutting Robot
