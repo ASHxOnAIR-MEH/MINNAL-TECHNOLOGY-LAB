@@ -90,5 +90,6 @@ export interface EcosystemItem {
   name: string;
   label: string;
   description: string;
-  iconType: 'building' | 'award' | 'rocket' | 'network';
+  iconType: 'building' | 'award' | 'rocket' | 'network' | 'trophy';
+  tag?: string;
 }

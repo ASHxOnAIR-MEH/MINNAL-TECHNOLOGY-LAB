@@ -1,7 +1,7 @@
 import { EcosystemItem } from '../types';
 
-export const ECOSYSTEM_HEADING = "Recognised Across Kerala’s Innovation Ecosystem";
-export const ECOSYSTEM_SUBTITLE = "Actively participating in Kerala’s startup and innovation ecosystem through technology development, innovation programmes, research networks, and entrepreneurial initiatives.";
+export const ECOSYSTEM_HEADING = "Recognised Across the Innovation Ecosystem";
+export const ECOSYSTEM_SUBTITLE = "Actively participating in state and national startup ecosystems through technology development, competition-winning platforms, and entrepreneurial initiatives.";
 
 export const ECOSYSTEM_ITEMS: EcosystemItem[] = [
   {
@@ -10,6 +10,7 @@ export const ECOSYSTEM_ITEMS: EcosystemItem[] = [
     label: 'MSME-REGISTERED ENTERPRISE',
     description: 'A registered enterprise focused on engineering projects, technology development, prototyping, and practical innovation solutions.',
     iconType: 'award',
+    tag: 'National',
   },
   {
     id: 'ksum',
@@ -17,12 +18,14 @@ export const ECOSYSTEM_ITEMS: EcosystemItem[] = [
     label: 'ACTIVE ECOSYSTEM PARTICIPANT',
     description: 'Actively participating in Kerala Startup Mission activities and initiatives that support innovation, entrepreneurship, and startup development.',
     iconType: 'rocket',
+    tag: 'Kerala',
   },
   {
-    id: 'rink',
-    name: 'Research Innovation Network Kerala (RINK)',
-    label: 'RESEARCH INNOVATION NETWORK',
-    description: 'Connected with Research Innovation Network Kerala (RINK) initiatives to translate research ideas into viable engineering prototypes and practical technology solutions.',
-    iconType: 'network',
+    id: 'competition-winners',
+    name: 'National & State Level Project Competition Winners',
+    label: 'COMPETITION WINNERS BACKED INITIATIVE',
+    description: 'Backed by winners of prestigious national and state-level engineering project competitions, ideathons, and tech expos — translating competition-grade innovation into viable prototypes and practical technology solutions.',
+    iconType: 'trophy',
+    tag: 'National & State',
   },
 ];

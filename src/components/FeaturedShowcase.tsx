@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Play, ArrowRight, Wrench, X, CheckCircle, ExternalLink, Globe, Building2, Award, Rocket, Network } from 'lucide-react';
+import { Play, ArrowRight, Wrench, X, CheckCircle, ExternalLink, Globe, Building2, Award, Rocket, Network, Trophy } from 'lucide-react';
 import { ECOSYSTEM_ITEMS, ECOSYSTEM_HEADING, ECOSYSTEM_SUBTITLE } from '../data/ecosystemData';
 
 interface FeaturedShowcaseProps {
@@ -292,6 +292,8 @@ export const FeaturedShowcase: React.FC<FeaturedShowcaseProps> = ({
                     return <Rocket size={24} color="var(--blue-500)" strokeWidth={1.8} />;
                   case 'network':
                     return <Network size={24} color="var(--blue-500)" strokeWidth={1.8} />;
+                  case 'trophy':
+                    return <Trophy size={24} color="var(--blue-500)" strokeWidth={1.8} />;
                   default:
                     return <Globe size={24} color="var(--blue-500)" strokeWidth={1.8} />;
                 }
@@ -371,7 +373,7 @@ export const FeaturedShowcase: React.FC<FeaturedShowcaseProps> = ({
                           background: 'var(--cyan-400)',
                         }}
                       />
-                      Kerala
+                      {item.tag || 'Kerala'}
                     </span>
                   </div>
 
