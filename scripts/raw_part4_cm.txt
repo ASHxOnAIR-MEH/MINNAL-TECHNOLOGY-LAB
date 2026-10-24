@@ -1,0 +1,44 @@
+[Composite Material Projects]
+- CM001 — Experimental evaluation and buckling analysis of woven glass epoxy laminated composite plate for aircraft applications
+- CM002 — Effect of moisture and aging on adhesive strength
+- CM003 — Comparative and experimental investigation of mechanical properties of glass fibre and banana fiber reinforced composites
+- CM004 — Experimental analysis of de-lamination in drilling for aircraft structure
+- CM005 — Biaxial testing of fibre reinforced composite laminates
+- CM006 — Comparison and experimental investigation of glass fibre and natural fibre reinforced composites - mechanical properties of banana fibre reinforced composites
+- CM007 — Experimental analysis and machining characterisation of al 6063-metal matrix with Sic & fly Ash
+- CM008 — Experimental analysis and mechanical characterisation of al alloy metal matrix with alumina oxide & graphite
+- CM009 — Mechanical behaviour of natural fibre composite analysis, moulding and testing of mechanical characteristics
+- CM010 — A nickel-carbon-fibre composite for large adaptive mirrors: fabrication methods and properties
+- CM011 — Strengthening of reinforced concrete beam using composites
+- CM012 — Mechanical behaviour analysis of polyester polymer mortars modified with recycled GFRP waste materials
+- CM013 — Mechanical characterization and comparison of glass fiber and fiber enforcement with aluminium alloy (GFRAA) to improve the strengthening
+- CM014 — Experimental Analysis and machining characterisation al 356-metal matrix with fly ash and alumina oxide
+- CM015 — Experimental characterization of inter laminar shear strength and flexural strength of glass and carbon composite laminates under repeated curing
+- CM016 — Experimental investigation of elliptical de-lamination in composite laminates
+- CM017 — Glass + banana fibre natural composite moulding and testing of tensile, impact, water absorption, compression
+- CM018 — Experimental evaluation and finite element analysis of composite leaf spring for automotive vehicle
+- CM019 — Fracture toughness of through thickness reinforced composites
+- CM020 — Fatigue behaviour study on repaired Aramid fiber/epoxy composites
+- CM021 — Thermal conductivity of structural glass/fibre epoxy composite as a function of fibre orientation
+- CM022 — Experimental investigation of fiber orientation in glass fibre reinforced thermoplastic composites
+- CM023 — Experimental investigation of woven E-glass epoxy composite laminates subjected to tensile and impact at different loads
+- CM024 — Mechanical behaviour of bagasse fiber reinforced epoxy composites at liquid nitrogen temperature
+- CM025 — Composite propeller shaft by analysis and laminate plate
+- CM026 — Experiment for bending analysis of 3-phase composite plate in ship structure
+- CM027 — Experimental investigation of fibre orientation in glass fibre reinforced thermoplastic composites
+- CM028 — Effect and analysis of impact response on cross stitched and unstitched fibre - epoxy laminates
+- CM029 — Application of coir fibres as concrete composites for disaster prone structures
+- CM030 — Experimental analysis and mechanical characterisation of Al 6061 alloy metal matrix with boron carbide & graphite
+- CM031 — Evaluation and performance monitoring of corrosion protection by fiber reinforced composite wrapping
+- CM032 — Experimental analysis and mechanical characterisation of Al 7071 alloy metal matrix with alumina oxide & graphite
+- CM033 — Experimental analysis and mechanical characterisation of 2014 alloy metal matrix with alumina oxide & graphite
+- CM034 — Durability of glass fiber reinforced plastic bars
+- CM035 — Experimental analysis and machining characterisation of Al 6063 metal matrix with alumina oxide Al2O3
+- CM036 — Fatigue and fracture of fiber composites under combined inter laminar stresses
+- CM037 — Mechanical behaviour of glass/epoxy composites at liquid nitrogen temperature
+- CM038 — Impact analysis and experimental evaluation on stitched and un-stitched fibre glass epoxy laminate to increase strength in aircraft structures
+- CM039 — Hair with epoxy moulding and testing of tensile, impact, compression
+- CM040 — Finite element analysis and experimental evaluation of bonded, riveted and hybrid joints in glass fibre epoxy composite laminates for aircraft structure
+- CM041 — Surface fracture analysis of glass fibre reinforced epoxy composites treated with different type of coupling agent
+- CM042 — Effect of strain rate on the tensile failure of glass fibre braided tubes
+- CM043 — E-glass + aluminium carbon by one composition of casting and testing of hardness, corrosion and micro structure

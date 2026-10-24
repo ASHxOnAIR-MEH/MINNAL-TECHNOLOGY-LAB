@@ -102,5 +102,18 @@
     "description": "Autonomous rovers, stair-climbing wheelchairs, multi-axis robotic arms, mobile firefighting AGVs, and hexapod walkers.",
     "icon": "Cpu",
     "image": "/images/cat_robotics.jpg"
+  },
+  {
+    "id": "Composite Material Projects",
+    "slug": "composite-material-projects",
+    "title": "Composite Materials & Testing",
+    "shortTitle": "Composite Materials",
+    "catalogGroups": [
+      "CM"
+    ],
+    "badge": "Advanced Material Science",
+    "description": "Fiber-reinforced epoxy laminates, metal matrix composites, natural bio-fibers, buckling analysis, and ASTM mechanical characterisation.",
+    "icon": "Layers",
+    "image": "/images/cat_mech.jpg"
   }
 ]

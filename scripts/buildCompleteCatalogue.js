@@ -1,17 +1,18 @@
 import fs from 'fs';
 import path from 'path';
 
-console.log('--- MINNAL INNOVATIONS: Full 1,334 Project Catalogue Builder ---');
+console.log('--- MINNAL INNOVATIONS: Full 1,377 Project Catalogue Builder ---');
 
 const part1Path = path.resolve('scripts/raw_part1.txt');
 const part2Path = path.resolve('scripts/raw_part2.txt');
 const part3Path = path.resolve('scripts/raw_part3.txt');
+const part4Path = path.resolve('scripts/raw_part4_cm.txt');
 
 const projectsOutPath = path.resolve('src/data/projects.json');
 const promptsOutPath = path.resolve('src/data/imagePrompts.json');
 const categoriesOutPath = path.resolve('src/data/projectCategories.json');
 
-const parts = [part1Path, part2Path, part3Path];
+const parts = [part1Path, part2Path, part3Path, part4Path];
 
 let currentCategory = '';
 let currentGroup = '';
@@ -24,7 +25,8 @@ const groupCategoryMap = {
   'ME': 'Mechanical Engineering Projects',
   'MI': 'Mechanical & Industrial Innovation Projects',
   'MH': 'Mechanical Mechanism Projects',
-  'MR': 'Robotics & Automation Projects'
+  'MR': 'Robotics & Automation Projects',
+  'CM': 'Composite Material Projects'
 };
 
 const categoryFallbackMap = {
@@ -35,7 +37,8 @@ const categoryFallbackMap = {
   'Mechanical Engineering Projects': '/images/cat_mech.jpg',
   'Mechanical & Industrial Innovation Projects': '/images/cat_mech.jpg',
   'Mechanical Mechanism Projects': '/images/cat_mech.jpg',
-  'Robotics & Automation Projects': '/images/cat_robotics.jpg'
+  'Robotics & Automation Projects': '/images/cat_robotics.jpg',
+  'Composite Material Projects': '/images/cat_mech.jpg'
 };
 
 const customGeneratedImages = new Set([
@@ -100,6 +103,8 @@ function generateAbstract(id, title, group, category) {
       return `Precision mechanical mechanism demonstrator for ${title.toLowerCase()}, converting driving inputs into synchronized output trajectories through dedicated linkages.`;
     case 'MR':
       return `Autonomous or remote-controlled mechatronic robotics platform engineered for ${title.toLowerCase()}, featuring multi-axis motion and sensory navigation.`;
+    case 'CM':
+      return `Experimental material science and mechanical testing investigation of ${title.toLowerCase()}, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.`;
     default:
       return `Engineering project prototype implementation for ${title}.`;
   }
@@ -120,6 +125,8 @@ function generateImagePrompt(id, title, group, category) {
       return `Create a realistic engineering prototype concept render of a ${title}. Show the fabricated steel and aluminum mechanism, motor drive, linkages, structural frame, and precision machining details in a modern technical machine shop, premium technical lighting, no text, no watermark.`;
     case 'MR':
       return `Create a realistic engineering prototype concept render of a robotic ${title}. Show the articulated robotic frame, actuators, sensors, drive wheels or joints, wiring channels, and electronic controller enclosure in a high-tech engineering robotics lab, crisp studio lighting, no text, no watermark.`;
+    case 'CM':
+      return `Create a realistic engineering laboratory photograph of a material science composite testing setup for ${title}. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.`;
     default:
       return `Engineering concept prototype render of ${title}, professional laboratory background, no text, no watermark.`;
   }
@@ -134,7 +141,8 @@ function generateTags(group, title) {
     'ME': ['Mechanical Engineering', 'Machining', 'Fabrication', 'Machine Design'],
     'MI': ['Industrial Innovation', 'Mechanisms', 'Productivity', 'Mechanical Rig'],
     'MH': ['Mechanism', 'Kinematics', 'Linkages', 'Motion Control'],
-    'MR': ['Robotics', 'Mechatronics', 'Autonomous Systems', 'Actuators']
+    'MR': ['Robotics', 'Mechatronics', 'Autonomous Systems', 'Actuators'],
+    'CM': ['Composite Materials', 'Material Science', 'Epoxy Laminate', 'ASTM Testing', 'FEA Analysis']
   }[group] || ['Engineering'];
 
   // Add specific keyword tags if present in title
@@ -150,6 +158,12 @@ function generateTags(group, title) {
   if (tLower.includes('pedal')) dynamic.push('Human Powered');
   if (tLower.includes('agriculture') || tLower.includes('crop') || tLower.includes('seed')) dynamic.push('Smart Agriculture');
   if (tLower.includes('water')) dynamic.push('Fluid Systems');
+  if (tLower.includes('banana') || tLower.includes('natural') || tLower.includes('bagasse') || tLower.includes('coir')) dynamic.push('Bio-Composites');
+  if (tLower.includes('glass') || tLower.includes('gfrp')) dynamic.push('Glass Fiber');
+  if (tLower.includes('carbon') || tLower.includes('cfrp')) dynamic.push('Carbon Fiber');
+  if (tLower.includes('metal matrix')) dynamic.push('Metal Matrix (MMC)');
+  if (tLower.includes('aircraft')) dynamic.push('Aerospace Grade');
+  if (tLower.includes('delamination') || tLower.includes('de-lamination')) dynamic.push('Delamination Analysis');
 
   return Array.from(new Set([...baseTags.slice(0, 3), ...dynamic])).slice(0, 5);
 }
@@ -194,6 +208,7 @@ for (const pFile of parts) {
     else if (rawId.startsWith('MI')) group = 'MI';
     else if (rawId.startsWith('MH')) group = 'MH';
     else if (rawId.startsWith('MR')) group = 'MR';
+    else if (rawId.startsWith('CM')) group = 'CM';
 
     const category = groupCategoryMap[group] || currentCategory || 'Mechanical Engineering Projects';
     const cleanedTitle = cleanTitle(rawTitle);
@@ -230,24 +245,40 @@ for (const pFile of parts) {
       imagePrompt: imagePrompt,
       shortDescription: shortDesc,
       fullOverview: `An engineering development project for ${cleanedTitle}, offering practical demonstration of ${category.toLowerCase()} principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.`,
-      complexity: isSoftware ? 'Full-Stack Web App' : (group === 'MR' || group === 'ME' ? 'Final Year B.Tech (S7-S8)' : 'Mini Project (S3-S5)'),
+      complexity: isSoftware ? 'Full-Stack Web App' : (group === 'MR' || group === 'ME' || group === 'CM' ? 'Final Year B.Tech (S7-S8)' : 'Mini Project (S3-S5)'),
       tags: tags,
-      hardwareComponents: isSoftware ? undefined : [
+      hardwareComponents: isSoftware ? undefined : (group === 'CM' ? [
+        'Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)',
+        'Epoxy Polymer Resin & Fiber Reinforcement System',
+        'ASTM Standard Tensile / Impact / Flexural Test Coupons',
+        'Universal Testing Machine (UTM) Tensile & Bending Fixtures',
+        'Precision Extensometer & Microstructural SEM Test Samples'
+      ] : [
         'Custom Welded/Machined Mounting Frame',
         'Electric Drive Actuator / Motor Unit',
         'Electronic Control & Sensing Board',
         'Dedicated Power Supply & Harness',
         'Hardware Safety Enclosure'
-      ],
+      ]),
       softwareStack: isSoftware ? [
         group === 'PHP' ? 'PHP 8.x & MySQL Database' : 'React, TypeScript & Node.js',
         'HTML5 Semantic Markup & CSS3 Styling',
         'RESTful API Endpoints & Auth Controller'
+      ] : (group === 'CM' ? [
+        'ANSYS Composite PrepPost (ACP) / FEA Simulation',
+        'SolidWorks 3D Coupon Modeling & Stress Distribution',
+        'OriginLab / MATLAB Mechanical Data Analysis'
       ] : [
         'SolidWorks 3D CAD Modeling',
         'Embedded C/C++ or Kinematic Simulation'
-      ],
-      deliverables: [
+      ]),
+      deliverables: group === 'CM' ? [
+        'Fabricated Composite Test Specimen Coupons & Fractured Failure Samples',
+        'Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves',
+        'FEA Failure Simulation & Delamination Analysis Documentation',
+        'University-Format Engineering Project Report (KTU Guidelines)',
+        'Viva Voce Defense Cheat Sheet & Material Science Summary'
+      ] : [
         isSoftware ? 'Complete Tested Source Codebase & Database Export (.SQL)' : 'Fully Fabricated Working Scale/Benchtop Hardware Rig',
         isSoftware ? 'Full Architecture Blueprints & API Documentation' : 'Complete 2D/3D Production CAD Blueprints & Wiring Diagrams',
         'University-Format Engineering Project Report (KTU Guidelines)',
@@ -375,6 +406,17 @@ const categoriesJson = [
     description: "Autonomous rovers, stair-climbing wheelchairs, multi-axis robotic arms, mobile firefighting AGVs, and hexapod walkers.",
     icon: "Cpu",
     image: "/images/cat_robotics.jpg"
+  },
+  {
+    id: "Composite Material Projects",
+    slug: "composite-material-projects",
+    title: "Composite Materials & Testing",
+    shortTitle: "Composite Materials",
+    catalogGroups: ["CM"],
+    badge: "Advanced Material Science",
+    description: "Fiber-reinforced epoxy laminates, metal matrix composites, natural bio-fibers, buckling analysis, and ASTM mechanical characterisation.",
+    icon: "Layers",
+    image: "/images/cat_mech.jpg"
   }
 ];
 

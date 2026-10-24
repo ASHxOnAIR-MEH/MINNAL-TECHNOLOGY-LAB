@@ -13,12 +13,14 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onExploreProje
   };
 
   const categories: ProjectCategory[] = [
-    'IoT & Embedded Systems',
-    'Robotics & Automation',
-    'Mechanical Engineering',
-    'Electronics & Electrical',
-    'Software & Web Development',
-    'Renewable Energy & Sustainability',
+    'Mechanical Engineering Projects',
+    'Mechanical & Industrial Innovation Projects',
+    'Robotics & Automation Projects',
+    'Microcontroller & Electronics Projects',
+    'Internet of Things (IoT) Projects',
+    'Composite Material Projects',
+    'PHP / Web Application Projects',
+    'Web & Software Projects',
   ];
 
   return (

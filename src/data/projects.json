@@ -15931,7 +15931,8 @@
     "tags": [
       "Embedded Systems",
       "Microcontroller",
-      "Circuit Design"
+      "Circuit Design",
+      "Carbon Fiber"
     ],
     "hardwareComponents": [
       "Custom Welded/Machined Mounting Frame",
@@ -16547,7 +16548,8 @@
     "tags": [
       "Embedded Systems",
       "Microcontroller",
-      "Circuit Design"
+      "Circuit Design",
+      "Carbon Fiber"
     ],
     "hardwareComponents": [
       "Custom Welded/Machined Mounting Frame",
@@ -22687,7 +22689,8 @@
     "tags": [
       "Mechanical Engineering",
       "Machining",
-      "Fabrication"
+      "Fabrication",
+      "Bio-Composites"
     ],
     "hardwareComponents": [
       "Custom Welded/Machined Mounting Frame",
@@ -23929,7 +23932,8 @@
     "tags": [
       "Mechanical Engineering",
       "Machining",
-      "Fabrication"
+      "Fabrication",
+      "Carbon Fiber"
     ],
     "hardwareComponents": [
       "Custom Welded/Machined Mounting Frame",
@@ -24062,7 +24066,8 @@
     "tags": [
       "Mechanical Engineering",
       "Machining",
-      "Fabrication"
+      "Fabrication",
+      "Glass Fiber"
     ],
     "hardwareComponents": [
       "Custom Welded/Machined Mounting Frame",
@@ -29250,7 +29255,8 @@
       "Mechanical Engineering",
       "Machining",
       "Fabrication",
-      "Fluid Systems"
+      "Fluid Systems",
+      "Carbon Fiber"
     ],
     "hardwareComponents": [
       "Custom Welded/Machined Mounting Frame",
@@ -29382,7 +29388,8 @@
     "tags": [
       "Mechanical Engineering",
       "Machining",
-      "Fabrication"
+      "Fabrication",
+      "Glass Fiber"
     ],
     "hardwareComponents": [
       "Custom Welded/Machined Mounting Frame",
@@ -50431,7 +50438,8 @@
     "tags": [
       "Mechanism",
       "Kinematics",
-      "Linkages"
+      "Linkages",
+      "Glass Fiber"
     ],
     "hardwareComponents": [
       "Custom Welded/Machined Mounting Frame",
@@ -54641,7 +54649,8 @@
     "tags": [
       "Robotics",
       "Mechatronics",
-      "Autonomous Systems"
+      "Autonomous Systems",
+      "Bio-Composites"
     ],
     "hardwareComponents": [
       "Custom Welded/Machined Mounting Frame",
@@ -57411,6 +57420,2024 @@
       "Complete 2D/3D Production CAD Blueprints & Wiring Diagrams",
       "University-Format Engineering Project Report (KTU Guidelines)",
       "Viva Voce Defense Cheat Sheet & Demonstration Guide"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM001",
+    "originalTitle": "Experimental evaluation and buckling analysis of woven glass epoxy laminated composite plate for aircraft applications",
+    "title": "Experimental evaluation and buckling analysis of woven glass epoxy laminated composite plate for aircraft applications",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm001-experimental-evaluation-and-buckling-analysis-of-woven-glass",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental evaluation and buckling analysis of woven glass epoxy laminated composite plate for aircraft applications - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental evaluation and buckling analysis of woven glass epoxy laminated composite plate for aircraft applications. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental evaluation and buckling analysis of woven glass epoxy laminated composite plate for aircraft applications, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental evaluation and buckling analysis of woven glass epoxy laminated composite plate for aircraft applications, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber",
+      "Aerospace Grade"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM002",
+    "originalTitle": "Effect of moisture and aging on adhesive strength",
+    "title": "Effect of moisture and aging on adhesive strength",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm002-effect-of-moisture-and-aging-on-adhesive-strength",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Effect of moisture and aging on adhesive strength - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Effect of moisture and aging on adhesive strength. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of effect of moisture and aging on adhesive strength, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Effect of moisture and aging on adhesive strength, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM003",
+    "originalTitle": "Comparative and experimental investigation of mechanical properties of glass fibre and banana fiber reinforced composites",
+    "title": "Comparative and experimental investigation of mechanical properties of glass fibre and banana fiber reinforced composites",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm003-comparative-and-experimental-investigation-of-mechanical-pro",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Comparative and experimental investigation of mechanical properties of glass fibre and banana fiber reinforced composites - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Comparative and experimental investigation of mechanical properties of glass fibre and banana fiber reinforced composites. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of comparative and experimental investigation of mechanical properties of glass fibre and banana fiber reinforced composites, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Comparative and experimental investigation of mechanical properties of glass fibre and banana fiber reinforced composites, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Bio-Composites",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM004",
+    "originalTitle": "Experimental analysis of de-lamination in drilling for aircraft structure",
+    "title": "Experimental analysis of de-lamination in drilling for aircraft structure",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm004-experimental-analysis-of-de-lamination-in-drilling-for-aircr",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental analysis of de-lamination in drilling for aircraft structure - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental analysis of de-lamination in drilling for aircraft structure. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental analysis of de-lamination in drilling for aircraft structure, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental analysis of de-lamination in drilling for aircraft structure, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Aerospace Grade",
+      "Delamination Analysis"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM005",
+    "originalTitle": "Biaxial testing of fibre reinforced composite laminates",
+    "title": "Biaxial testing of fibre reinforced composite laminates",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm005-biaxial-testing-of-fibre-reinforced-composite-laminates",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Biaxial testing of fibre reinforced composite laminates - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Biaxial testing of fibre reinforced composite laminates. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of biaxial testing of fibre reinforced composite laminates, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Biaxial testing of fibre reinforced composite laminates, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM006",
+    "originalTitle": "Comparison and experimental investigation of glass fibre and natural fibre reinforced composites - mechanical properties of banana fibre reinforced composites",
+    "title": "Comparison and experimental investigation of glass fibre and natural fibre reinforced composites - mechanical properties of banana fibre reinforced composites",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm006-comparison-and-experimental-investigation-of-glass-fibre-and",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Comparison and experimental investigation of glass fibre and natural fibre reinforced composites - mechanical properties of banana fibre reinforced composites - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Comparison and experimental investigation of glass fibre and natural fibre reinforced composites - mechanical properties of banana fibre reinforced composites. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of comparison and experimental investigation of glass fibre and natural fibre reinforced composites - mechanical properties of banana fibre reinforced composites, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Comparison and experimental investigation of glass fibre and natural fibre reinforced composites - mechanical properties of banana fibre reinforced composites, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Bio-Composites",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM007",
+    "originalTitle": "Experimental analysis and machining characterisation of al 6063-metal matrix with Sic & fly Ash",
+    "title": "Experimental analysis and machining characterisation of al 6063-metal matrix with Sic & fly Ash",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm007-experimental-analysis-and-machining-characterisation-of-al-6",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental analysis and machining characterisation of al 6063-metal matrix with Sic & fly Ash - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental analysis and machining characterisation of al 6063-metal matrix with Sic & fly Ash. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental analysis and machining characterisation of al 6063-metal matrix with sic & fly ash, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental analysis and machining characterisation of al 6063-metal matrix with Sic & fly Ash, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Metal Matrix (MMC)"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM008",
+    "originalTitle": "Experimental analysis and mechanical characterisation of al alloy metal matrix with alumina oxide & graphite",
+    "title": "Experimental analysis and mechanical characterisation of al alloy metal matrix with alumina oxide & graphite",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm008-experimental-analysis-and-mechanical-characterisation-of-al-",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental analysis and mechanical characterisation of al alloy metal matrix with alumina oxide & graphite - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental analysis and mechanical characterisation of al alloy metal matrix with alumina oxide & graphite. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental analysis and mechanical characterisation of al alloy metal matrix with alumina oxide & graphite, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental analysis and mechanical characterisation of al alloy metal matrix with alumina oxide & graphite, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Metal Matrix (MMC)"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM009",
+    "originalTitle": "Mechanical behaviour of natural fibre composite analysis, moulding and testing of mechanical characteristics",
+    "title": "Mechanical behaviour of natural fibre composite analysis, moulding and testing of mechanical characteristics",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm009-mechanical-behaviour-of-natural-fibre-composite-analysis-mou",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Mechanical behaviour of natural fibre composite analysis, moulding and testing of mechanical characteristics - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Mechanical behaviour of natural fibre composite analysis, moulding and testing of mechanical characteristics. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of mechanical behaviour of natural fibre composite analysis, moulding and testing of mechanical characteristics, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Mechanical behaviour of natural fibre composite analysis, moulding and testing of mechanical characteristics, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Bio-Composites"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM010",
+    "originalTitle": "A nickel-carbon-fibre composite for large adaptive mirrors: fabrication methods and properties",
+    "title": "A nickel-carbon-fibre composite for large adaptive mirrors: fabrication methods and properties",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm010-a-nickel-carbon-fibre-composite-for-large-adaptive-mirrors-f",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "A nickel-carbon-fibre composite for large adaptive mirrors: fabrication methods and properties - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for A nickel-carbon-fibre composite for large adaptive mirrors: fabrication methods and properties. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of a nickel-carbon-fibre composite for large adaptive mirrors: fabrication methods and properties, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for A nickel-carbon-fibre composite for large adaptive mirrors: fabrication methods and properties, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Carbon Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM011",
+    "originalTitle": "Strengthening of reinforced concrete beam using composites",
+    "title": "Strengthening of reinforced concrete beam using composites",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm011-strengthening-of-reinforced-concrete-beam-using-composites",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Strengthening of reinforced concrete beam using composites - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Strengthening of reinforced concrete beam using composites. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of strengthening of reinforced concrete beam using composites, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Strengthening of reinforced concrete beam using composites, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM012",
+    "originalTitle": "Mechanical behaviour analysis of polyester polymer mortars modified with recycled GFRP waste materials",
+    "title": "Mechanical behaviour analysis of polyester polymer mortars modified with recycled GFRP waste materials",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm012-mechanical-behaviour-analysis-of-polyester-polymer-mortars-m",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Mechanical behaviour analysis of polyester polymer mortars modified with recycled GFRP waste materials - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Mechanical behaviour analysis of polyester polymer mortars modified with recycled GFRP waste materials. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of mechanical behaviour analysis of polyester polymer mortars modified with recycled gfrp waste materials, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Mechanical behaviour analysis of polyester polymer mortars modified with recycled GFRP waste materials, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM013",
+    "originalTitle": "Mechanical characterization and comparison of glass fiber and fiber enforcement with aluminium alloy (GFRAA) to improve the strengthening",
+    "title": "Mechanical characterization and comparison of glass fiber and fiber enforcement with aluminium alloy (GFRAA) to improve the strengthening",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm013-mechanical-characterization-and-comparison-of-glass-fiber-an",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Mechanical characterization and comparison of glass fiber and fiber enforcement with aluminium alloy (GFRAA) to improve the strengthening - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Mechanical characterization and comparison of glass fiber and fiber enforcement with aluminium alloy (GFRAA) to improve the strengthening. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of mechanical characterization and comparison of glass fiber and fiber enforcement with aluminium alloy (gfraa) to improve the strengthening, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Mechanical characterization and comparison of glass fiber and fiber enforcement with aluminium alloy (GFRAA) to improve the strengthening, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM014",
+    "originalTitle": "Experimental Analysis and machining characterisation al 356-metal matrix with fly ash and alumina oxide",
+    "title": "Experimental Analysis and machining characterisation al 356-metal matrix with fly ash and alumina oxide",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm014-experimental-analysis-and-machining-characterisation-al-356-",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental Analysis and machining characterisation al 356-metal matrix with fly ash and alumina oxide - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental Analysis and machining characterisation al 356-metal matrix with fly ash and alumina oxide. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental analysis and machining characterisation al 356-metal matrix with fly ash and alumina oxide, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental Analysis and machining characterisation al 356-metal matrix with fly ash and alumina oxide, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Metal Matrix (MMC)"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM015",
+    "originalTitle": "Experimental characterization of inter laminar shear strength and flexural strength of glass and carbon composite laminates under repeated curing",
+    "title": "Experimental characterization of inter laminar shear strength and flexural strength of glass and carbon composite laminates under repeated curing",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm015-experimental-characterization-of-inter-laminar-shear-strengt",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental characterization of inter laminar shear strength and flexural strength of glass and carbon composite laminates under repeated curing - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental characterization of inter laminar shear strength and flexural strength of glass and carbon composite laminates under repeated curing. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental characterization of inter laminar shear strength and flexural strength of glass and carbon composite laminates under repeated curing, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental characterization of inter laminar shear strength and flexural strength of glass and carbon composite laminates under repeated curing, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber",
+      "Carbon Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM016",
+    "originalTitle": "Experimental investigation of elliptical de-lamination in composite laminates",
+    "title": "Experimental investigation of elliptical de-lamination in composite laminates",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm016-experimental-investigation-of-elliptical-de-lamination-in-co",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental investigation of elliptical de-lamination in composite laminates - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental investigation of elliptical de-lamination in composite laminates. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental investigation of elliptical de-lamination in composite laminates, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental investigation of elliptical de-lamination in composite laminates, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Delamination Analysis"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM017",
+    "originalTitle": "Glass + banana fibre natural composite moulding and testing of tensile, impact, water absorption, compression",
+    "title": "Glass + banana fibre natural composite moulding and testing of tensile, impact, water absorption, compression",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm017-glass-banana-fibre-natural-composite-moulding-and-testing-of",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Glass + banana fibre natural composite moulding and testing of tensile, impact, water absorption, compression - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Glass + banana fibre natural composite moulding and testing of tensile, impact, water absorption, compression. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of glass + banana fibre natural composite moulding and testing of tensile, impact, water absorption, compression, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Glass + banana fibre natural composite moulding and testing of tensile, impact, water absorption, compression, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Fluid Systems",
+      "Bio-Composites"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM018",
+    "originalTitle": "Experimental evaluation and finite element analysis of composite leaf spring for automotive vehicle",
+    "title": "Experimental evaluation and finite element analysis of composite leaf spring for automotive vehicle",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm018-experimental-evaluation-and-finite-element-analysis-of-compo",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental evaluation and finite element analysis of composite leaf spring for automotive vehicle - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental evaluation and finite element analysis of composite leaf spring for automotive vehicle. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental evaluation and finite element analysis of composite leaf spring for automotive vehicle, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental evaluation and finite element analysis of composite leaf spring for automotive vehicle, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM019",
+    "originalTitle": "Fracture toughness of through thickness reinforced composites",
+    "title": "Fracture toughness of through thickness reinforced composites",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm019-fracture-toughness-of-through-thickness-reinforced-composite",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Fracture toughness of through thickness reinforced composites - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Fracture toughness of through thickness reinforced composites. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of fracture toughness of through thickness reinforced composites, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Fracture toughness of through thickness reinforced composites, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM020",
+    "originalTitle": "Fatigue behaviour study on repaired Aramid fiber/epoxy composites",
+    "title": "Fatigue behaviour study on repaired Aramid fiber/epoxy composites",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm020-fatigue-behaviour-study-on-repaired-aramid-fiberepoxy-compos",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Fatigue behaviour study on repaired Aramid fiber/epoxy composites - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Fatigue behaviour study on repaired Aramid fiber/epoxy composites. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of fatigue behaviour study on repaired aramid fiber/epoxy composites, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Fatigue behaviour study on repaired Aramid fiber/epoxy composites, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM021",
+    "originalTitle": "Thermal conductivity of structural glass/fibre epoxy composite as a function of fibre orientation",
+    "title": "Thermal conductivity of structural glass/fibre epoxy composite as a function of fibre orientation",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm021-thermal-conductivity-of-structural-glassfibre-epoxy-composit",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Thermal conductivity of structural glass/fibre epoxy composite as a function of fibre orientation - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Thermal conductivity of structural glass/fibre epoxy composite as a function of fibre orientation. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of thermal conductivity of structural glass/fibre epoxy composite as a function of fibre orientation, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Thermal conductivity of structural glass/fibre epoxy composite as a function of fibre orientation, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM022",
+    "originalTitle": "Experimental investigation of fiber orientation in glass fibre reinforced thermoplastic composites",
+    "title": "Experimental investigation of fiber orientation in glass fibre reinforced thermoplastic composites",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm022-experimental-investigation-of-fiber-orientation-in-glass-fib",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental investigation of fiber orientation in glass fibre reinforced thermoplastic composites - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental investigation of fiber orientation in glass fibre reinforced thermoplastic composites. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental investigation of fiber orientation in glass fibre reinforced thermoplastic composites, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental investigation of fiber orientation in glass fibre reinforced thermoplastic composites, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM023",
+    "originalTitle": "Experimental investigation of woven E-glass epoxy composite laminates subjected to tensile and impact at different loads",
+    "title": "Experimental investigation of woven E-glass epoxy composite laminates subjected to tensile and impact at different loads",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm023-experimental-investigation-of-woven-e-glass-epoxy-composite-",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental investigation of woven E-glass epoxy composite laminates subjected to tensile and impact at different loads - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental investigation of woven E-glass epoxy composite laminates subjected to tensile and impact at different loads. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental investigation of woven e-glass epoxy composite laminates subjected to tensile and impact at different loads, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental investigation of woven E-glass epoxy composite laminates subjected to tensile and impact at different loads, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM024",
+    "originalTitle": "Mechanical behaviour of bagasse fiber reinforced epoxy composites at liquid nitrogen temperature",
+    "title": "Mechanical behaviour of bagasse fiber reinforced epoxy composites at liquid nitrogen temperature",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm024-mechanical-behaviour-of-bagasse-fiber-reinforced-epoxy-compo",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Mechanical behaviour of bagasse fiber reinforced epoxy composites at liquid nitrogen temperature - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Mechanical behaviour of bagasse fiber reinforced epoxy composites at liquid nitrogen temperature. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of mechanical behaviour of bagasse fiber reinforced epoxy composites at liquid nitrogen temperature, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Mechanical behaviour of bagasse fiber reinforced epoxy composites at liquid nitrogen temperature, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Bio-Composites"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM025",
+    "originalTitle": "Composite propeller shaft by analysis and laminate plate",
+    "title": "Composite propeller shaft by analysis and laminate plate",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm025-composite-propeller-shaft-by-analysis-and-laminate-plate",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Composite propeller shaft by analysis and laminate plate - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Composite propeller shaft by analysis and laminate plate. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of composite propeller shaft by analysis and laminate plate, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Composite propeller shaft by analysis and laminate plate, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM026",
+    "originalTitle": "Experiment for bending analysis of 3-phase composite plate in ship structure",
+    "title": "Experiment for bending analysis of 3-phase composite plate in ship structure",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm026-experiment-for-bending-analysis-of-3-phase-composite-plate-i",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experiment for bending analysis of 3-phase composite plate in ship structure - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experiment for bending analysis of 3-phase composite plate in ship structure. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experiment for bending analysis of 3-phase composite plate in ship structure, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experiment for bending analysis of 3-phase composite plate in ship structure, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM027",
+    "originalTitle": "Experimental investigation of fibre orientation in glass fibre reinforced thermoplastic composites",
+    "title": "Experimental investigation of fibre orientation in glass fibre reinforced thermoplastic composites",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm027-experimental-investigation-of-fibre-orientation-in-glass-fib",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental investigation of fibre orientation in glass fibre reinforced thermoplastic composites - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental investigation of fibre orientation in glass fibre reinforced thermoplastic composites. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental investigation of fibre orientation in glass fibre reinforced thermoplastic composites, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental investigation of fibre orientation in glass fibre reinforced thermoplastic composites, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM028",
+    "originalTitle": "Effect and analysis of impact response on cross stitched and unstitched fibre - epoxy laminates",
+    "title": "Effect and analysis of impact response on cross stitched and unstitched fibre - epoxy laminates",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm028-effect-and-analysis-of-impact-response-on-cross-stitched-and",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Effect and analysis of impact response on cross stitched and unstitched fibre - epoxy laminates - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Effect and analysis of impact response on cross stitched and unstitched fibre - epoxy laminates. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of effect and analysis of impact response on cross stitched and unstitched fibre - epoxy laminates, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Effect and analysis of impact response on cross stitched and unstitched fibre - epoxy laminates, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM029",
+    "originalTitle": "Application of coir fibres as concrete composites for disaster prone structures",
+    "title": "Application of coir fibres as concrete composites for disaster prone structures",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm029-application-of-coir-fibres-as-concrete-composites-for-disast",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Application of coir fibres as concrete composites for disaster prone structures - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Application of coir fibres as concrete composites for disaster prone structures. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of application of coir fibres as concrete composites for disaster prone structures, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Application of coir fibres as concrete composites for disaster prone structures, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Bio-Composites"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM030",
+    "originalTitle": "Experimental analysis and mechanical characterisation of Al 6061 alloy metal matrix with boron carbide & graphite",
+    "title": "Experimental analysis and mechanical characterisation of Al 6061 alloy metal matrix with boron carbide & graphite",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm030-experimental-analysis-and-mechanical-characterisation-of-al-",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental analysis and mechanical characterisation of Al 6061 alloy metal matrix with boron carbide & graphite - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental analysis and mechanical characterisation of Al 6061 alloy metal matrix with boron carbide & graphite. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental analysis and mechanical characterisation of al 6061 alloy metal matrix with boron carbide & graphite, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental analysis and mechanical characterisation of Al 6061 alloy metal matrix with boron carbide & graphite, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Metal Matrix (MMC)"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM031",
+    "originalTitle": "Evaluation and performance monitoring of corrosion protection by fiber reinforced composite wrapping",
+    "title": "Evaluation and performance monitoring of corrosion protection by fiber reinforced composite wrapping",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm031-evaluation-and-performance-monitoring-of-corrosion-protectio",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Evaluation and performance monitoring of corrosion protection by fiber reinforced composite wrapping - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Evaluation and performance monitoring of corrosion protection by fiber reinforced composite wrapping. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of evaluation and performance monitoring of corrosion protection by fiber reinforced composite wrapping, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Evaluation and performance monitoring of corrosion protection by fiber reinforced composite wrapping, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM032",
+    "originalTitle": "Experimental analysis and mechanical characterisation of Al 7071 alloy metal matrix with alumina oxide & graphite",
+    "title": "Experimental analysis and mechanical characterisation of Al 7071 alloy metal matrix with alumina oxide & graphite",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm032-experimental-analysis-and-mechanical-characterisation-of-al-",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental analysis and mechanical characterisation of Al 7071 alloy metal matrix with alumina oxide & graphite - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental analysis and mechanical characterisation of Al 7071 alloy metal matrix with alumina oxide & graphite. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental analysis and mechanical characterisation of al 7071 alloy metal matrix with alumina oxide & graphite, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental analysis and mechanical characterisation of Al 7071 alloy metal matrix with alumina oxide & graphite, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Metal Matrix (MMC)"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM033",
+    "originalTitle": "Experimental analysis and mechanical characterisation of 2014 alloy metal matrix with alumina oxide & graphite",
+    "title": "Experimental analysis and mechanical characterisation of 2014 alloy metal matrix with alumina oxide & graphite",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm033-experimental-analysis-and-mechanical-characterisation-of-201",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental analysis and mechanical characterisation of 2014 alloy metal matrix with alumina oxide & graphite - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental analysis and mechanical characterisation of 2014 alloy metal matrix with alumina oxide & graphite. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental analysis and mechanical characterisation of 2014 alloy metal matrix with alumina oxide & graphite, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental analysis and mechanical characterisation of 2014 alloy metal matrix with alumina oxide & graphite, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Metal Matrix (MMC)"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM034",
+    "originalTitle": "Durability of glass fiber reinforced plastic bars",
+    "title": "Durability of glass fiber reinforced plastic bars",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm034-durability-of-glass-fiber-reinforced-plastic-bars",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Durability of glass fiber reinforced plastic bars - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Durability of glass fiber reinforced plastic bars. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of durability of glass fiber reinforced plastic bars, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Durability of glass fiber reinforced plastic bars, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM035",
+    "originalTitle": "Experimental analysis and machining characterisation of Al 6063 metal matrix with alumina oxide Al2O3",
+    "title": "Experimental analysis and machining characterisation of Al 6063 metal matrix with alumina oxide Al2O3",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm035-experimental-analysis-and-machining-characterisation-of-al-6",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Experimental analysis and machining characterisation of Al 6063 metal matrix with alumina oxide Al2O3 - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Experimental analysis and machining characterisation of Al 6063 metal matrix with alumina oxide Al2O3. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of experimental analysis and machining characterisation of al 6063 metal matrix with alumina oxide al2o3, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Experimental analysis and machining characterisation of Al 6063 metal matrix with alumina oxide Al2O3, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Metal Matrix (MMC)"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM036",
+    "originalTitle": "Fatigue and fracture of fiber composites under combined inter laminar stresses",
+    "title": "Fatigue and fracture of fiber composites under combined inter laminar stresses",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm036-fatigue-and-fracture-of-fiber-composites-under-combined-inte",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Fatigue and fracture of fiber composites under combined inter laminar stresses - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Fatigue and fracture of fiber composites under combined inter laminar stresses. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of fatigue and fracture of fiber composites under combined inter laminar stresses, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Fatigue and fracture of fiber composites under combined inter laminar stresses, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM037",
+    "originalTitle": "Mechanical behaviour of glass/epoxy composites at liquid nitrogen temperature",
+    "title": "Mechanical behaviour of glass/epoxy composites at liquid nitrogen temperature",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm037-mechanical-behaviour-of-glassepoxy-composites-at-liquid-nitr",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Mechanical behaviour of glass/epoxy composites at liquid nitrogen temperature - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Mechanical behaviour of glass/epoxy composites at liquid nitrogen temperature. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of mechanical behaviour of glass/epoxy composites at liquid nitrogen temperature, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Mechanical behaviour of glass/epoxy composites at liquid nitrogen temperature, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM038",
+    "originalTitle": "Impact analysis and experimental evaluation on stitched and un-stitched fibre glass epoxy laminate to increase strength in aircraft structures",
+    "title": "Impact analysis and experimental evaluation on stitched and un-stitched fibre glass epoxy laminate to increase strength in aircraft structures",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm038-impact-analysis-and-experimental-evaluation-on-stitched-and-",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Impact analysis and experimental evaluation on stitched and un-stitched fibre glass epoxy laminate to increase strength in aircraft structures - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Impact analysis and experimental evaluation on stitched and un-stitched fibre glass epoxy laminate to increase strength in aircraft structures. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of impact analysis and experimental evaluation on stitched and un-stitched fibre glass epoxy laminate to increase strength in aircraft structures, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Impact analysis and experimental evaluation on stitched and un-stitched fibre glass epoxy laminate to increase strength in aircraft structures, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber",
+      "Aerospace Grade"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM039",
+    "originalTitle": "Hair with epoxy moulding and testing of tensile, impact, compression",
+    "title": "Hair with epoxy moulding and testing of tensile, impact, compression",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm039-hair-with-epoxy-moulding-and-testing-of-tensile-impact-compr",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Hair with epoxy moulding and testing of tensile, impact, compression - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Hair with epoxy moulding and testing of tensile, impact, compression. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of hair with epoxy moulding and testing of tensile, impact, compression, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Hair with epoxy moulding and testing of tensile, impact, compression, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM040",
+    "originalTitle": "Finite element analysis and experimental evaluation of bonded, riveted and hybrid joints in glass fibre epoxy composite laminates for aircraft structure",
+    "title": "Finite element analysis and experimental evaluation of bonded, riveted and hybrid joints in glass fibre epoxy composite laminates for aircraft structure",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm040-finite-element-analysis-and-experimental-evaluation-of-bonde",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Finite element analysis and experimental evaluation of bonded, riveted and hybrid joints in glass fibre epoxy composite laminates for aircraft structure - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Finite element analysis and experimental evaluation of bonded, riveted and hybrid joints in glass fibre epoxy composite laminates for aircraft structure. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of finite element analysis and experimental evaluation of bonded, riveted and hybrid joints in glass fibre epoxy composite laminates for aircraft structure, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Finite element analysis and experimental evaluation of bonded, riveted and hybrid joints in glass fibre epoxy composite laminates for aircraft structure, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber",
+      "Aerospace Grade"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM041",
+    "originalTitle": "Surface fracture analysis of glass fibre reinforced epoxy composites treated with different type of coupling agent",
+    "title": "Surface fracture analysis of glass fibre reinforced epoxy composites treated with different type of coupling agent",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm041-surface-fracture-analysis-of-glass-fibre-reinforced-epoxy-co",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Surface fracture analysis of glass fibre reinforced epoxy composites treated with different type of coupling agent - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Surface fracture analysis of glass fibre reinforced epoxy composites treated with different type of coupling agent. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of surface fracture analysis of glass fibre reinforced epoxy composites treated with different type of coupling agent, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Surface fracture analysis of glass fibre reinforced epoxy composites treated with different type of coupling agent, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM042",
+    "originalTitle": "Effect of strain rate on the tensile failure of glass fibre braided tubes",
+    "title": "Effect of strain rate on the tensile failure of glass fibre braided tubes",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm042-effect-of-strain-rate-on-the-tensile-failure-of-glass-fibre-",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "Effect of strain rate on the tensile failure of glass fibre braided tubes - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for Effect of strain rate on the tensile failure of glass fibre braided tubes. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of effect of strain rate on the tensile failure of glass fibre braided tubes, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for Effect of strain rate on the tensile failure of glass fibre braided tubes, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
+    ],
+    "keyFeatures": [
+      "Reproducible engineering design verified against undergraduate project curriculum",
+      "Modular architecture facilitating student customization and extended research",
+      "Complete academic report documentation prepared to KTU university standards"
+    ],
+    "estimatedTimeline": "2 to 3 Weeks"
+  },
+  {
+    "id": "CM043",
+    "originalTitle": "E-glass + aluminium carbon by one composition of casting and testing of hardness, corrosion and micro structure",
+    "title": "E-glass + aluminium carbon by one composition of casting and testing of hardness, corrosion and micro structure",
+    "catalogGroup": "CM",
+    "category": "Composite Material Projects",
+    "slug": "cm043-e-glass-aluminium-carbon-by-one-composition-of-casting-and-t",
+    "image": "/images/cat_mech.jpg",
+    "hasCustomImage": false,
+    "fallbackImage": "/images/cat_mech.jpg",
+    "imageAlt": "E-glass + aluminium carbon by one composition of casting and testing of hardness, corrosion and micro structure - Engineering prototype concept for MINNAL INNOVATIONS",
+    "imagePrompt": "Create a realistic engineering laboratory photograph of a material science composite testing setup for E-glass + aluminium carbon by one composition of casting and testing of hardness, corrosion and micro structure. Show universal testing machine (UTM) tensile grips, composite test coupons with layered fiber weave, digital extensometer, fractured cross-section inspection, SEM micrograph graphs on workstation, modern materials metallurgy lab background, crisp technical lighting, no text, no watermark.",
+    "shortDescription": "Experimental material science and mechanical testing investigation of e-glass + aluminium carbon by one composition of casting and testing of hardness, corrosion and micro structure, characterizing tensile strength, flexural rigidity, interlaminar shear, and failure modes under standardized ASTM/ISO protocols.",
+    "fullOverview": "An engineering development project for E-glass + aluminium carbon by one composition of casting and testing of hardness, corrosion and micro structure, offering practical demonstration of composite material projects principles, university-standard technical specifications, and reproducible fabrication/coding frameworks.",
+    "complexity": "Final Year B.Tech (S7-S8)",
+    "tags": [
+      "Composite Materials",
+      "Material Science",
+      "Epoxy Laminate",
+      "Glass Fiber",
+      "Carbon Fiber"
+    ],
+    "hardwareComponents": [
+      "Fabricated Composite Test Laminates (Hand Lay-Up / Vacuum Bagging)",
+      "Epoxy Polymer Resin & Fiber Reinforcement System",
+      "ASTM Standard Tensile / Impact / Flexural Test Coupons",
+      "Universal Testing Machine (UTM) Tensile & Bending Fixtures",
+      "Precision Extensometer & Microstructural SEM Test Samples"
+    ],
+    "softwareStack": [
+      "ANSYS Composite PrepPost (ACP) / FEA Simulation",
+      "SolidWorks 3D Coupon Modeling & Stress Distribution",
+      "OriginLab / MATLAB Mechanical Data Analysis"
+    ],
+    "deliverables": [
+      "Fabricated Composite Test Specimen Coupons & Fractured Failure Samples",
+      "Comprehensive ASTM Standard Experimental Test Dataset & Stress-Strain Curves",
+      "FEA Failure Simulation & Delamination Analysis Documentation",
+      "University-Format Engineering Project Report (KTU Guidelines)",
+      "Viva Voce Defense Cheat Sheet & Material Science Summary"
     ],
     "keyFeatures": [
       "Reproducible engineering design verified against undergraduate project curriculum",

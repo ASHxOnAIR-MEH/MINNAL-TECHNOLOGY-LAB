@@ -7,6 +7,7 @@ export type ProjectCategory =
   | 'Mechanical & Industrial Innovation Projects'
   | 'Mechanical Mechanism Projects'
   | 'Robotics & Automation Projects'
+  | 'Composite Material Projects'
   | 'Mechanical Engineering'
   | 'Mechanical Projects'
   | 'IoT & Embedded Systems'

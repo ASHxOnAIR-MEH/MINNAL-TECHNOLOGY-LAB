@@ -234,7 +234,7 @@ export const ProjectCategories: React.FC<ProjectCategoriesProps> = ({ onSelectCa
             gap: '24px',
           }}
         >
-          {CATEGORIES_DATA.slice(4, 8).map((cat) => (
+          {CATEGORIES_DATA.slice(4).map((cat) => (
             <div
               key={cat.id}
               className="cat-card cat-card-horizontal"

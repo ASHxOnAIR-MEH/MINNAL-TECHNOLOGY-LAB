@@ -67,6 +67,14 @@ export const CATEGORIES_DATA: CategoryInfo[] = [
     sampleCount: 67
   },
   {
+    id: 'Composite Material Projects',
+    title: 'Composite Materials',
+    badge: 'CM Series · 43 Projects',
+    shortDescription: 'Fiber-reinforced epoxy laminates, metal matrix composites, natural bio-fibers, buckling analysis, and ASTM characterisation.',
+    image: '/images/cat_mech.jpg',
+    sampleCount: 43
+  },
+  {
     id: 'Web & Software Projects',
     title: 'Web & Software Systems',
     badge: 'CWEB Series · 33 Projects',

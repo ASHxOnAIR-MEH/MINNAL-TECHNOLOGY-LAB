@@ -52,11 +52,12 @@ export const ProjectCatalog: React.FC<ProjectCatalogProps> = ({
     'Robotics & Automation Projects',
     'Internet of Things (IoT) Projects',
     'Mechanical Mechanism Projects',
+    'Composite Material Projects',
     'Web & Software Projects',
   ];
 
   const catalogGroups = [
-    { code: 'All', label: 'All Series (1,334)' },
+    { code: 'All', label: 'All Series (1,377)' },
     { code: 'ME', label: 'ME — Mechanical (336)' },
     { code: 'MI', label: 'MI — Industrial (273)' },
     { code: 'PHP', label: 'PHP — Web Apps (236)' },
@@ -64,6 +65,7 @@ export const ProjectCatalog: React.FC<ProjectCatalogProps> = ({
     { code: 'MR', label: 'MR — Robotics (129)' },
     { code: 'IOT', label: 'IOT — Connected (77)' },
     { code: 'MH', label: 'MH — Mechanisms (67)' },
+    { code: 'CM', label: 'CM — Composites (43)' },
     { code: 'CWEB', label: 'CWEB — Software (33)' },
   ];
 
@@ -105,6 +107,13 @@ export const ProjectCatalog: React.FC<ProjectCatalogProps> = ({
           if (
             project.category !== 'Microcontroller & Electronics Projects' &&
             project.catalogGroup !== 'MC'
+          ) {
+            return false;
+          }
+        } else if (activeCategory === 'Composite Material Projects' || activeCategory === 'Composite Materials') {
+          if (
+            project.category !== 'Composite Material Projects' &&
+            project.catalogGroup !== 'CM'
           ) {
             return false;
           }
