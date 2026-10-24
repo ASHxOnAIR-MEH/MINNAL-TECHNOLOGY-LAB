@@ -1,9 +1,9 @@
-# MINNAL TECHNOLOGY LAB — Official Web Platform
+# MINNAL INNOVATIONS — Official Web Platform
 
 > **Ideas Into Innovation.**  
-> MSME-registered enterprise (UDYAM-KL-06-0078293), incubated at IEDC UKFCET (UKF College of Engineering & Technology, Parippally, Kollam, Kerala).
+> MSME-registered enterprise (UDYAM-KL-06-0078293), engineering prototypes across Kerala & India.
 
-A high-performance, editorial-grade web application engineered for **MINNAL TECHNOLOGY LAB**, translating academic concepts, school/college student projects, and engineering innovations into working prototypes across IoT, Robotics, Electronics, Mechanical Engineering, Software, and Renewable Energy.
+A high-performance, editorial-grade web application engineered for **MINNAL INNOVATIONS**, translating academic concepts, school/college student projects, and engineering innovations into working prototypes across IoT, Robotics, Electronics, Mechanical Engineering, Software, and Renewable Energy.
 
 ---
 
@@ -26,13 +26,13 @@ Inspired by the reference editorial layout with high visual fidelity:
 
 1. **Header & Navigation:** Slim transparent header transitioning to frosted glass on scroll, responsive mobile drawer, instant modal search.
 2. **Hero Section:** Midnight navy background with editorial headline (*Building Ideas. Engineering the Future.*), dual CTAs, and a high-resolution engineering prototype visual framed by cyan geometric shapes.
-3. **Floating Credibility Card:** Overlapping card highlighting verified credentials (MSME Registered, IEDC UKFCET Incubation, 100+ Project Experience, 50+ Team Achievements).
+3. **Floating Credibility Card:** Overlapping card highlighting verified credentials (MSME Registered, 1,370+ Engineering Designs, 100+ Project Experience, 50+ Team Achievements).
 4. **Project Categories (4+2 Grid):** Four primary cards across desktop + two secondary cards for all 6 disciplines (IoT, Robotics, Mechanical, Electronics, Software, Renewable).
 5. **Featured Laboratory Showcase:** Oversized media card with dark radial overlay, glowing play button, outlined background typography (*PROTOTYPE* / *INNOVATION*), and institutional ecosystem badges.
 6. **Ready-Made Project Catalog:** Full-featured catalog with instant title/ID/tag search, category filtering, academic complexity filtering, detailed modal views with BOM and KTU deliverables, and direct 1-click WhatsApp quotation generation.
 7. **Team Section:** Verified leadership profiles for Muhammed Sadikh N, Sibshine (IIT Kanpur), Muhammed Ashik S (IEFK 2026 Finalist, KSUM/RINK), and Saibu Jhon (Prototype 3.0 Winner) with neutral technical blueprint badges.
 8. **Achievements Section:** Contrasting midnight navy section showcasing competition wins and research milestones.
-9. **Editorial About Section:** Storytelling split layout detailing institutional incubation at IEDC UKFCET.
+9. **Editorial About Section:** Storytelling split layout detailing enterprise vision and engineering prototyping capabilities.
 10. **Approach Section:** 4-step disciplined workflow (*Discover*, *Select*, *Develop & Test*, *Demonstrate & Document*).
 11. **Contact & Consultation:** Interactive enquiry form with client-side validation and direct WhatsApp forwarding to `+91 75609 01337` and `+91 80782 78945`.
 12. **Dark Navy Footer:** Complete brand statement, quick links, and legal notice.

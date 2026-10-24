@@ -23,8 +23,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
       'Former Academic Intern, Kerala Startup Mission (KSUM)',
       'KTU-Funded Innovator for engineering research and startup technology',
       'Former Control Systems Engineer at Genrobotics',
-      'Co-Founder, Scify Technologies',
-      'Incubation Mentor at IEDC UKFCET'
+      'Co-Founder, Scify Technologies'
     ]
   },
   {
@@ -48,7 +47,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
       '10K+ LinkedIn Followers engaged in IoT, hardware, and engineering projects',
       'International Finalist at International Energy Festival Kerala (IEFK) 2026',
       'Former Academic Intern associated with Kerala Startup Mission (KSUM) and RINK',
-      'Associated with IEDC NEST 4.0 & IPR / Research Lead, IEDC UKFCET',
+      'Associated with IEDC NEST 4.0 & IPR / Research Lead',
       'Technical Lead across 50+ delivered hardware and embedded builds'
     ]
   },

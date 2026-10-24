@@ -267,7 +267,7 @@ export const QuotationModal: React.FC<QuotationModalProps> = ({ project, onClose
                   <input
                     type="text"
                     required
-                    placeholder="e.g. UKF College of Engineering (UKFCET)"
+                    placeholder="e.g. Engineering College / University"
                     value={institution}
                     onChange={(e) => setInstitution(e.target.value)}
                     style={{

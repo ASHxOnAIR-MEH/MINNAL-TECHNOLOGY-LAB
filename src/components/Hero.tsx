@@ -78,7 +78,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreProjects, onDiscussProject 
               }}
             >
               <Sparkles size={14} />
-              <span>MSME Registered • Incubated at IEDC UKFCET</span>
+              <span>MSME Registered Enterprise • Rapid Engineering Prototypes</span>
             </div>
 
             {/* Main Editorial Headline matching reference styling */}

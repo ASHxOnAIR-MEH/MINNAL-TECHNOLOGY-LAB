@@ -5,13 +5,6 @@ export const ECOSYSTEM_SUBTITLE = "Actively participating in Kerala’s startup 
 
 export const ECOSYSTEM_ITEMS: EcosystemItem[] = [
   {
-    id: 'iedc-ukfcet',
-    name: 'IEDC UKFCET',
-    label: 'HOST INNOVATION ECOSYSTEM',
-    description: 'Connected with the Innovation and Entrepreneurship Development Centre at UKFCET, supporting student innovation, prototyping, and startup initiatives.',
-    iconType: 'building',
-  },
-  {
     id: 'msme-india',
     name: 'MSME India',
     label: 'MSME-REGISTERED ENTERPRISE',

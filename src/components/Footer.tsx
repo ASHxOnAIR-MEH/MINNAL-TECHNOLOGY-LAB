@@ -83,7 +83,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onExploreProje
             </div>
 
             <p style={{ color: 'rgba(255, 255, 255, 0.65)', fontSize: '0.86rem', lineHeight: 1.6, marginBottom: '20px' }}>
-              Ideas Into Innovation. MSME-registered engineering enterprise incubated at IEDC UKFCET, building robust hardware prototypes, IoT systems, robotics, and academic project solutions.
+              Ideas Into Innovation. MSME-registered engineering enterprise building robust hardware prototypes, IoT systems, robotics, and academic project solutions.
             </p>
 
             <div
@@ -97,7 +97,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onExploreProje
                 display: 'inline-block',
               }}
             >
-              UDYAM-KL-06-0078293 • IEDC UKFCET
+              UDYAM-KL-06-0078293 • MSME India
             </div>
           </div>
 
@@ -195,7 +195,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onExploreProje
               </div>
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '10px', color: 'rgba(255, 255, 255, 0.75)' }}>
                 <MapPin size={15} color="var(--cyan-400)" style={{ flexShrink: 0, marginTop: '3px' }} />
-                <span>UKFCET Campus, Parippally, Kollam, Kerala - 691574</span>
+                <span>Parippally, Kollam, Kerala - 691574</span>
               </div>
             </div>
           </div>

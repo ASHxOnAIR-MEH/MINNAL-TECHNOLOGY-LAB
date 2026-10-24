@@ -245,7 +245,7 @@ export const ContactSection: React.FC = () => {
                     <input
                       type="text"
                       required
-                      placeholder="e.g. UKFCET / TKM / CET"
+                      placeholder="e.g. College / University"
                       value={institution}
                       onChange={(e) => setInstitution(e.target.value)}
                       style={{
@@ -486,10 +486,10 @@ export const ContactSection: React.FC = () => {
                   <MapPin size={20} color="var(--cyan-400)" style={{ flexShrink: 0, marginTop: '2px' }} />
                   <div>
                     <div style={{ fontSize: '0.86rem', fontWeight: 700, color: '#FFFFFF', marginBottom: '2px' }}>
-                      Incubation Headquarters
+                      Registered Office & Lab
                     </div>
                     <div style={{ fontSize: '0.82rem', color: 'rgba(255, 255, 255, 0.72)', lineHeight: 1.5 }}>
-                      MINNAL INNOVATIONS, IEDC UKFCET, UKF College of Engineering and Technology, Meenambalam, Puthenkulam P.O., Parippally, Kollam, Kerala — 691574
+                      MINNAL INNOVATIONS, Meenambalam, Puthenkulam P.O., Parippally, Kollam, Kerala — 691574
                     </div>
                   </div>
                 </div>

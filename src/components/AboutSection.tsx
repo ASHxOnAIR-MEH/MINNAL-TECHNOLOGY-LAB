@@ -82,11 +82,11 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onDiscussProject }) 
                 <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }}>
                   <Building size={16} color="var(--cyan-400)" />
                   <span style={{ fontSize: '0.74rem', textTransform: 'uppercase', color: 'var(--cyan-400)', fontWeight: 700, letterSpacing: '0.08em' }}>
-                    Institutional Incubation
+                    Enterprise Credentials
                   </span>
                 </div>
                 <div style={{ fontSize: '0.96rem', fontWeight: 600 }}>
-                  IEDC UKFCET • MSME Reg. UDYAM-KL-06
+                  MSME Reg. UDYAM-KL-06 • Kerala, India
                 </div>
               </div>
             </div>
@@ -129,7 +129,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onDiscussProject }) 
                 marginBottom: '24px',
               }}
             >
-              <strong>MINNAL INNOVATIONS</strong> is an MSME-registered enterprise proudly incubated at the Innovation and Entrepreneurship Development Centre (IEDC), UKF College of Engineering and Technology (UKFCET), Parippally, Kollam, Kerala.
+              <strong>MINNAL INNOVATIONS</strong> is an MSME-registered enterprise based in Kerala, dedicated to turning engineering concepts, student project ideas, and research innovations into functioning, industry-grade hardware prototypes.
             </p>
 
             <p

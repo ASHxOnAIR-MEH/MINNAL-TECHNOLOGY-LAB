@@ -1,5 +1,5 @@
 import React from 'react';
-import { Award, Building2, Cpu, Trophy } from 'lucide-react';
+import { Award, Layers, Cpu, Trophy } from 'lucide-react';
 
 export const CredibilityCard: React.FC = () => {
   const credentials = [
@@ -10,10 +10,10 @@ export const CredibilityCard: React.FC = () => {
       subtitle: 'Government of India Recognized Micro Enterprise',
     },
     {
-      icon: <Building2 size={26} color="var(--blue-500)" strokeWidth={1.8} />,
-      title: 'IEDC UKFCET',
-      badge: 'Incubated Enterprise',
-      subtitle: 'Innovation and Entrepreneurship Development Centre',
+      icon: <Layers size={26} color="var(--blue-500)" strokeWidth={1.8} />,
+      title: '1,370+ Designs',
+      badge: 'Engineering Catalogue',
+      subtitle: 'Verified mechanical, IoT, robotics & software systems',
     },
     {
       icon: <Cpu size={26} color="var(--blue-500)" strokeWidth={1.8} />,
