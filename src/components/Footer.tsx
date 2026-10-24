@@ -47,31 +47,17 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onExploreProje
           {/* Brand Info */}
           <div style={{ maxWidth: '320px' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '18px' }}>
-              <div
+              <img
+                src="/images/logo-emblem.png"
+                alt="MINNAL INNOVATIONS Logo"
                 style={{
-                  width: '38px',
-                  height: '38px',
-                  borderRadius: '10px',
-                  background: 'rgba(255, 255, 255, 0.08)',
-                  border: '1px solid rgba(255, 255, 255, 0.16)',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  overflow: 'hidden',
-                  padding: '3px',
+                  width: '40px',
+                  height: '40px',
+                  objectFit: 'contain',
                   flexShrink: 0,
+                  filter: 'drop-shadow(0 2px 6px rgba(0, 0, 0, 0.25))',
                 }}
-              >
-                <img
-                  src="/images/logo-emblem.png"
-                  alt="MINNAL INNOVATIONS Logo"
-                  style={{
-                    width: '100%',
-                    height: '100%',
-                    objectFit: 'contain',
-                  }}
-                />
-              </div>
+              />
               <div>
                 <div style={{ fontWeight: 800, fontSize: '1.05rem', letterSpacing: '0.04em' }}>
                   MINNAL

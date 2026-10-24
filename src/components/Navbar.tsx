@@ -69,14 +69,20 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
           right: 0,
           zIndex: 100,
           transition: 'all 0.35s cubic-bezier(0.16, 1, 0.3, 1)',
-          backgroundColor: isScrolled ? 'rgba(7, 20, 61, 0.92)' : 'transparent',
-          backdropFilter: isScrolled ? 'blur(16px)' : 'none',
-          borderBottom: isScrolled ? '1px solid rgba(255, 255, 255, 0.08)' : '1px solid transparent',
-          padding: isScrolled ? '12px 0' : '20px 0',
+          background: isScrolled
+            ? 'linear-gradient(135deg, rgba(234, 88, 12, 0.98) 0%, rgba(206, 68, 10, 0.98) 100%)'
+            : 'linear-gradient(135deg, #FF6B00 0%, #EA580C 100%)',
+          backdropFilter: 'blur(16px)',
+          WebkitBackdropFilter: 'blur(16px)',
+          borderBottom: '1px solid rgba(255, 255, 255, 0.22)',
+          boxShadow: isScrolled
+            ? '0 6px 28px -4px rgba(180, 50, 0, 0.45)'
+            : '0 4px 20px -2px rgba(220, 70, 0, 0.35)',
+          padding: isScrolled ? '12px 0' : '18px 0',
         }}
       >
         <div className="container" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-          {/* Logo & Brand Mark */}
+          {/* Logo & Brand Mark (Square bracket container removed) */}
           <a
             href="#home"
             style={{
@@ -87,38 +93,23 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
               textDecoration: 'none',
             }}
           >
-            <div
+            <img
+              src="/images/logo-emblem.png"
+              alt="MINNAL INNOVATIONS Logo"
               style={{
-                width: '40px',
-                height: '40px',
-                borderRadius: '11px',
-                background: 'rgba(255, 255, 255, 0.08)',
-                border: '1px solid rgba(255, 255, 255, 0.16)',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                boxShadow: '0 4px 16px rgba(0, 0, 0, 0.25)',
-                overflow: 'hidden',
-                padding: '3px',
+                width: '42px',
+                height: '42px',
+                objectFit: 'contain',
                 flexShrink: 0,
+                filter: 'drop-shadow(0 2px 6px rgba(0, 0, 0, 0.25))',
               }}
-            >
-              <img
-                src="/images/logo-emblem.png"
-                alt="MINNAL INNOVATIONS Logo"
-                style={{
-                  width: '100%',
-                  height: '100%',
-                  objectFit: 'contain',
-                }}
-              />
-            </div>
+            />
             <div>
               <div
                 style={{
                   fontFamily: 'var(--font-sans)',
                   fontWeight: 800,
-                  fontSize: '1.05rem',
+                  fontSize: '1.08rem',
                   letterSpacing: '0.04em',
                   lineHeight: 1.1,
                   color: '#FFFFFF',
@@ -130,9 +121,9 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
                 style={{
                   fontSize: '0.65rem',
                   letterSpacing: '0.14em',
-                  color: 'var(--cyan-400)',
+                  color: '#FFF2DE',
                   textTransform: 'uppercase',
-                  fontWeight: 600,
+                  fontWeight: 700,
                 }}
               >
                 Innovations
@@ -154,15 +145,22 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
                 key={link.label}
                 href={link.href}
                 style={{
-                  color: 'rgba(255, 255, 255, 0.78)',
-                  fontSize: '0.9rem',
-                  fontWeight: 500,
+                  color: 'rgba(255, 255, 255, 0.92)',
+                  fontSize: '0.92rem',
+                  fontWeight: 600,
                   letterSpacing: '0.02em',
                   padding: '6px 0',
                   position: 'relative',
+                  transition: 'all 0.2s ease',
                 }}
-                onMouseEnter={(e) => (e.currentTarget.style.color = '#FFFFFF')}
-                onMouseLeave={(e) => (e.currentTarget.style.color = 'rgba(255, 255, 255, 0.78)')}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.color = '#FFFFFF';
+                  e.currentTarget.style.textShadow = '0 0 12px rgba(255, 255, 255, 0.6)';
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.color = 'rgba(255, 255, 255, 0.92)';
+                  e.currentTarget.style.textShadow = 'none';
+                }}
               >
                 {link.label}
               </a>
@@ -175,8 +173,8 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
               onClick={onOpenSearch}
               aria-label="Search Projects"
               style={{
-                background: 'rgba(255, 255, 255, 0.08)',
-                border: '1px solid rgba(255, 255, 255, 0.16)',
+                background: 'rgba(255, 255, 255, 0.18)',
+                border: '1px solid rgba(255, 255, 255, 0.32)',
                 width: '38px',
                 height: '38px',
                 borderRadius: '50%',
@@ -187,12 +185,12 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
                 transition: 'all 0.2s ease',
               }}
               onMouseEnter={(e) => {
-                e.currentTarget.style.background = 'rgba(255, 255, 255, 0.18)';
-                e.currentTarget.style.borderColor = 'var(--cyan-400)';
+                e.currentTarget.style.background = 'rgba(255, 255, 255, 0.32)';
+                e.currentTarget.style.transform = 'scale(1.05)';
               }}
               onMouseLeave={(e) => {
-                e.currentTarget.style.background = 'rgba(255, 255, 255, 0.08)';
-                e.currentTarget.style.borderColor = 'rgba(255, 255, 255, 0.16)';
+                e.currentTarget.style.background = 'rgba(255, 255, 255, 0.18)';
+                e.currentTarget.style.transform = 'scale(1)';
               }}
             >
               <Search size={16} />
@@ -200,10 +198,31 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
 
             <button
               onClick={onExploreProjects}
-              className="btn-primary desktop-cta"
+              className="desktop-cta"
               style={{
                 padding: '9px 20px',
                 fontSize: '0.86rem',
+                fontWeight: 700,
+                borderRadius: 'var(--radius-full)',
+                background: 'var(--navy-900)',
+                color: '#FFFFFF',
+                border: '1px solid rgba(255, 255, 255, 0.25)',
+                boxShadow: '0 4px 14px rgba(7, 20, 61, 0.35)',
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '8px',
+                cursor: 'pointer',
+                transition: 'all 0.25s ease',
+              }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.background = '#04091A';
+                e.currentTarget.style.transform = 'translateY(-2px)';
+                e.currentTarget.style.boxShadow = '0 6px 20px rgba(7, 20, 61, 0.45)';
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.background = 'var(--navy-900)';
+                e.currentTarget.style.transform = 'translateY(0)';
+                e.currentTarget.style.boxShadow = '0 4px 14px rgba(7, 20, 61, 0.35)';
               }}
             >
               <span>Explore Projects</span>
@@ -217,8 +236,8 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onExploreProjects,
               aria-expanded={mobileMenuOpen}
               className="mobile-toggle"
               style={{
-                background: 'rgba(255, 255, 255, 0.08)',
-                border: '1px solid rgba(255, 255, 255, 0.16)',
+                background: 'rgba(255, 255, 255, 0.18)',
+                border: '1px solid rgba(255, 255, 255, 0.32)',
                 borderRadius: '10px',
                 color: '#FFFFFF',
                 width: '44px',
